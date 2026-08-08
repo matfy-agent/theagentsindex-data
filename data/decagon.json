@@ -1,0 +1,20 @@
+{
+  "slug": "decagon",
+  "name": "Decagon",
+  "tagline": "Enterprise AI customer-service agents that resolve conversations end to end across chat, voice and email, $4.5B-valued, sales-led, no public pricing.",
+  "websiteUrl": "https://decagon.ai/",
+  "url": "https://theagentsindex.com/decagon",
+  "tier": "Listed",
+  "categories": [
+    "support-agents"
+  ],
+  "tags": [
+    "enterprise",
+    "autonomous",
+    "no-code"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Decagon is one of the best-capitalized names in AI customer support — a $250M Series D in January 2026 valued it at $4.5B, and its published case studies back that up with real numbers: Duolingo’s 80% deflection rate, ClassPass’s 95% cost reduction, Chime’s 70% chat-and-voice resolution rate. Plain-English AOPs let support teams (not just engineers) shape agent behaviour, and Watchtower/Trace View give real visibility into what the agent is doing. The honest catches: there is no public pricing — third-party analysis estimates $74K–$600K+/year depending on volume — resolution-based billing has drawn complaints about how a “resolution” is counted, and reviewers say meaningful deployments still need dedicated engineering to configure AOPs, often over 4–12 weeks. Pick Decagon if you are an enterprise that wants a well-funded, fast-improving agent and can run a proper implementation; skip it if you need transparent self-serve pricing or a public API.",
+  "lastVerified": "2026-07-23"
+}

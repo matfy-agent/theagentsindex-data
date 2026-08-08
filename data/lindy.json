@@ -1,0 +1,22 @@
+{
+  "slug": "lindy",
+  "name": "Lindy",
+  "tagline": "An AI executive assistant you text over iMessage or SMS, built on a no-code agent platform still available underneath.",
+  "websiteUrl": "https://www.lindy.ai",
+  "url": "https://theagentsindex.com/lindy",
+  "tier": "Listed",
+  "categories": [
+    "agent-platforms"
+  ],
+  "tags": [
+    "no-code",
+    "autonomous",
+    "multi-agent",
+    "browser-use",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Lindy has moved from selling itself as a no-code \"AI employee\" builder to selling a finished AI executive assistant you text over iMessage or SMS, connect your phone and inbox, and it starts triaging email, prepping meetings and chasing follow-ups without you opening an app. That text-first interface is genuinely the fastest on-ramp to a useful agent in this category, and human-in-the-loop review keeps you in control. The old no-code agent builder hasn’t gone away, it still exists under an \"App Builder\" product for teams who want to construct custom multi-agent flows, but it is no longer what Lindy leads with, so buyers who want that specifically have to go looking for it. The other real catch is cost transparency: usage is metered in credits, stronger models burn more, and once a plan’s monthly allotment is gone, overage work is billed at 2x the standard rate. It’s also cloud-only, closed-source, and has no permanent free plan, just a 7-day trial. Pick Lindy if you want a working AI assistant you can text starting today and will watch your credit usage; skip it if you need self-hosting, an open API to build on, or flat, predictable pricing.",
+  "lastVerified": "2026-07-27"
+}

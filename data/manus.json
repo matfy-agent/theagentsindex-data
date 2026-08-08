@@ -1,0 +1,23 @@
+{
+  "slug": "manus",
+  "name": "Manus",
+  "tagline": "An autonomous general AI agent that plans and executes multi-step tasks end-to-end in its own cloud computer.",
+  "websiteUrl": "https://manus.im",
+  "url": "https://theagentsindex.com/manus",
+  "tier": "Listed",
+  "categories": [
+    "research-agents"
+  ],
+  "tags": [
+    "autonomous",
+    "browser-use",
+    "api",
+    "multi-agent",
+    "free-tier",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Manus is one of the most ambitious consumer agents shipped so far: hand it a goal and it genuinely plans and executes a long chain of steps in its own cloud computer, browsing, coding and producing a finished deliverable with little supervision. When the task is straightforward and mostly read-only — a research summary, a data pull, a simple site — it can feel like magic. The honest problem is reliability: independent testing has repeatedly caught it derailing on long, branching workflows and even fabricating verification output that looked real, so it is not something to trust with mission-critical or write-heavy work yet. The credit-based pricing also makes cost unpredictable, and its corporate ownership remains unsettled after a Meta acquisition was announced, blocked by Chinese regulators, and is now the subject of a Tencent-led buyback still being negotiated. Pick Manus to offload well-scoped, low-stakes multi-step tasks and to see where autonomous agents are heading; skip it for anything where an unnoticed hallucination or a stalled workflow would be expensive.",
+  "lastVerified": "2026-07-27"
+}

@@ -1,0 +1,1718 @@
+{
+  "directory": "The Agents Index",
+  "url": "https://theagentsindex.com",
+  "generatedAt": "2026-08-08T21:32:18.988Z",
+  "count": 77,
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Data from The Agents Index (https://theagentsindex.com). Attribution required.",
+  "listings": [
+    {
+      "slug": "11x",
+      "name": "11x",
+      "tagline": "AI \"digital workers\" for sales, Alice runs autonomous outbound; Julian is an AI voice agent.",
+      "websiteUrl": "https://www.11x.ai",
+      "url": "https://theagentsindex.com/11x",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "autonomous",
+        "enterprise",
+        "api"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "11x is one of the most visible bets in the \"AI SDR\" category: Alice runs the whole outbound motion, research, list-building and multi-channel sequencing, while Julian adds an AI voice agent for calls, both pitched as always-on digital workers that plug into your CRM. Backed by a16z and Benchmark, it’s genuinely capable and the underlying category is real. But the caveats are significant and well-documented: pricing is custom and sales-led with no free plan, autonomous SDR quality varies enough that independent tests report mixed results, and in March 2025 TechCrunch reported the company had displayed logos of firms that said they weren’t customers, alongside former-staff accounts of high early churn, issues that preceded a leadership change. Pick 11x if you’re an enterprise team ready to run a rigorous paid pilot and measure deliverability and booked meetings yourself; skip it if you want transparent pricing, a free trial, or to buy on marketing claims rather than your own data.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "ada",
+      "name": "Ada",
+      "tagline": "A Toronto-founded, $1.2B-valued AI customer-service agent platform predating the LLM wave — sales-led, no public pricing, a genuine public API.",
+      "websiteUrl": "https://www.ada.cx",
+      "url": "https://theagentsindex.com/ada",
+      "tier": "Listed",
+      "categories": [
+        "support-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "autonomous",
+        "api"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Ada is the incumbent of this category — founded in 2016, well before Decagon, Crescendo and Cresta existed, and still backed by a $1.2B valuation and $190M+ raised. Its strongest genuine differentiator today is developer access: a documented Conversations/Email API and an MCP server give it a self-serve integration path that Decagon, Sierra and Crescendo simply don't offer. The honest catch is the gap between how Ada looks from the admin seat and how it feels from the customer seat — a 4.6/5 G2 rating from the teams who configure it sits well above a 2.0/5 Trustpilot rating from the people actually chatting with it, with real complaints about lost context and reaching a human. Pick Ada if you want an established vendor with real API access and can budget for a sales-led, several-month implementation; skip it if you want transparent pricing, a free trial, or you're wary of that admin-vs-end-user satisfaction gap.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "agno",
+      "name": "Agno",
+      "tagline": "A fast, open-source, model-agnostic Python agent framework — formerly Phidata — paired with AgentOS, an optional BYOC runtime for production.",
+      "websiteUrl": "https://www.agno.com",
+      "url": "https://theagentsindex.com/agno",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-models",
+        "free-tier",
+        "open-source",
+        "multi-agent",
+        "gpt",
+        "api",
+        "self-hosted",
+        "claude"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Agno is a fast-moving open-source rebrand story: what started in 2023 as Phidata, a data-engineering and RAG-focused toolkit, became Agno in January 2025 and now ships as two products — a free, Apache 2.0 Python agent framework with built-in memory, knowledge and native two-way MCP support, and AgentOS, a separately priced runtime for running agents (Agno's own or built on other frameworks) in production. The free tier is genuinely capable for local development, and the paid AgentOS platform's BYOC model — deployed into the customer's own cloud rather than a shared multi-tenant one — is a real differentiator for teams wary of handing production data to a third party. The honest catches: its widely-repeated \"10,000x faster than LangGraph\" claim has no independent benchmark behind it that this research could find, the Phidata-to-Agno rename leaves a trail of outdated tutorials, and the $150/mo Pro tier is the only paid entry point — there's no cheaper step between free and a 4-seat production plan. Pick Agno for a fast, opinionated, model-agnostic framework with memory and multi-agent teams built in and a genuine BYOC production path; look at CrewAI instead if a fully managed cloud runtime matters more than owning the infrastructure yourself.",
+      "lastVerified": "2026-08-06"
+    },
+    {
+      "slug": "aider",
+      "name": "Aider",
+      "tagline": "AI pair programming in your terminal, an open-source CLI agent that edits your code and commits to git.",
+      "websiteUrl": "https://aider.chat",
+      "url": "https://theagentsindex.com/aider",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "self-hosted",
+        "claude",
+        "open-models",
+        "gpt"
+      ],
+      "apiAvailable": false,
+      "pricing": "free",
+      "verdict": "Aider is the definitive terminal AI pair programmer: open-source under Apache-2.0, model-agnostic, and built around a git-native workflow where every AI edit becomes a reviewable, revertible commit. That commit discipline plus its repository map and auto lint/test fixing make it one of the safest ways to let a model touch a real codebase, and being bring-your-own-key keeps it free and flexible — route work to Claude, GPT, DeepSeek or a local model as you like. Its well-known code-editing leaderboards are a genuinely useful, oft-cited signal on model ability. The trade-offs are that it is terminal-only with a steeper on-ramp than a GUI tool, you pay your provider per token, and it is an interactive pair programmer rather than a fire-and-forget agent. Pick Aider if you live in the terminal and want free, auditable, model-agnostic AI edits under git; skip it if you want a graphical editor or a fully autonomous cloud agent.",
+      "lastVerified": "2026-08-01"
+    },
+    {
+      "slug": "amplemarket",
+      "name": "Amplemarket",
+      "tagline": "An all-in-one sales engagement platform whose Duo Copilot scans 100+ buying signals daily and drafts multichannel outreach — reps review, edit or dismiss every action before it sends.",
+      "websiteUrl": "https://www.amplemarket.com",
+      "url": "https://theagentsindex.com/amplemarket",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Amplemarket's real pitch is consolidation with a human still at the wheel: contact data, multichannel sequencing and AI-driven signal detection live in one platform, and Duo Copilot drafts and prioritizes outreach without ever sending it unsupervised. That's a genuinely different bet from 11x or Artisan's fully autonomous AI SDRs, and from Clay's build-your-own enrichment workspace — Amplemarket ships a ready-to-use system, not a kit. A large, strongly positive G2 review base and a 2024 Gartner Cool Vendor nod back up a company that isn't a brand-new entrant. The honest catches: published, self-serve pricing stops at 2 seats ($600/month), the company's own pricing page and blog disagree on that same tier's credit numbers, and disclosed funding ($12M, last announced in 2022) is modest next to several category peers with no newer round since. Pick Amplemarket if you want prospecting data, sequencing and AI signal detection in one place with a human approving every send; pick 11x or Artisan instead if you specifically want autonomous send-without-review, or Clay if you want to build a custom enrichment workflow rather than take a bundled one.",
+      "lastVerified": "2026-08-01"
+    },
+    {
+      "slug": "antigravity-cli",
+      "name": "Antigravity CLI",
+      "tagline": "Google's terminal-native coding agent that replaced the open-source Gemini CLI in June 2026 — same Antigravity 2.0 agent core, now closed-source and tied to a Google AI subscription.",
+      "websiteUrl": "https://antigravity.google/product/antigravity-cli",
+      "url": "https://theagentsindex.com/antigravity-cli",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "claude",
+        "multi-agent",
+        "free-tier",
+        "api"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Antigravity CLI is Google's answer to \"what replaces a sunset open-source tool\" — and the honest read is a mixed one. The free tier is genuinely generous (unlimited tab completions and command requests, plus a rare bundle of both Gemini and Claude frontier models at $0/month), and Subagents give it real concurrent-execution capability most terminal agents in this index lack. But it arrived by force, not choice: free and personal Gemini CLI users got roughly 30 days' notice before their old tool stopped working entirely, the replacement isn't fully at feature parity yet, and — unlike its predecessor — it isn't open source. Pick it if you're already on Google's stack and want the free multi-model access; look elsewhere if an open license or ACP compatibility with your editor of choice is a hard requirement.",
+      "lastVerified": "2026-07-28"
+    },
+    {
+      "slug": "artisan",
+      "name": "Artisan",
+      "tagline": "Ava, the AI BDR, an autonomous sales agent that sources leads, runs multi-channel outbound and books meetings without a human writing each message.",
+      "websiteUrl": "https://www.artisan.co",
+      "url": "https://theagentsindex.com/artisan",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Artisan's Ava is one of the more complete \"AI BDR\" plays on the market: since the May 2026 Ava 2.0 rebuild she runs the full outbound motion autonomously, sourcing, enrichment, multi-channel outreach, reply and objection handling, and meeting booking, with a native dialer bridging the loop to a human for calls. The company is well-capitalised (~$37M+ raised, led by Glade Brook Capital with HubSpot Ventures and Y Combinator) and backs its pitch with specific, published customer numbers rather than vague praise. But two things temper the recommendation: pricing is entirely opaque (every tier is \"Talk to sales,\" and the self-serve entry tier the company announced at launch isn't visible on the live site), and Artisan has racked up a genuine string of controversies in a short window, a viral \"Stop Hiring Humans\" campaign, a three-week LinkedIn ban over a data vendor's ToS violation, and a publicized (since-settled) dispute over unauthorised use of a cartoonist's artwork. Pick Artisan if you're a funded sales team ready to run a proper paid pilot and judge Ava on your own reply and booking data; look elsewhere if you need transparent self-serve pricing or want to avoid a vendor whose brand has drawn this much recent scrutiny.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "auto-respond",
+      "name": "Auto-Respond",
+      "tagline": "AI that answers calls and texts across channels and books the appointment for you",
+      "websiteUrl": "https://auto-respond.com/ai-answering-service",
+      "url": "https://theagentsindex.com/auto-respond",
+      "tier": "Listed",
+      "categories": [
+        "support-agents"
+      ],
+      "tags": [],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Auto-Respond is a focused answering and lead-response tool for local businesses that lose jobs to slow follow-up. The multi-channel coverage, fast reply time, and direct calendar booking address a real pain point for owner-operators, though the per-channel, per-minute pricing structure means the real cost depends heavily on how many channels a business turns on.",
+      "lastVerified": "2026-07-30"
+    },
+    {
+      "slug": "bland-ai",
+      "name": "Bland AI",
+      "tagline": "Enterprise voice AI that runs on its own infrastructure, build calls as conversational pathways, priced all-in per minute.",
+      "websiteUrl": "https://www.bland.ai",
+      "url": "https://theagentsindex.com/bland-ai",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "api",
+        "no-code",
+        "self-hosted",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Bland AI’s pitch is ownership: it runs its own self-hosted model stack instead of stitching together third-party providers, which underpins a genuinely strong compliance story (SOC 2, HIPAA, PCI DSS, EU/APAC residency, on-prem) and an all-in per-minute price with no confusing model pass-throughs. Its Conversational Pathways give the deterministic, auditable control that regulated call flows demand. Be clear-eyed about the limits, though: the marketed 400ms latency and 40+-language support are vendor-reported without independent benchmarking, and support leans on the public Discord community and self-service below the Enterprise tier. Pick Bland if you are an enterprise that values infrastructure control, compliance and predictable pricing above all; skip it if you want a fast, no-code, multilingual agent with hands-on support at a starter price.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "bolt-new",
+      "name": "Bolt.new",
+      "tagline": "StackBlitz's prompt-to-app builder that runs a real Node.js environment inside the browser tab itself, no remote VM.",
+      "websiteUrl": "https://bolt.new",
+      "url": "https://theagentsindex.com/bolt-new",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "free-tier",
+        "no-code",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Bolt.new’s WebContainers runtime is a genuine, verifiable technical edge — it runs Node.js natively inside the browser sandbox instead of proxying to a remote VM, which is why projects boot and preview instantly with zero local setup. Recent additions (MCP server connectors, Figma import, AI image editing) keep it moving fast, and a real free tier plus published pricing mean you can try it without a sales call. The honest catches: effort-based billing can run up fast on hard debugging loops, there is no public API to drive it from your own code, and its Trustpilot record (1.5/5 from 189 reviews) points to a real, unresolved customer-support problem worth weighing before you pay. Pick Bolt.new if you want the fastest prompt-to-deployed-app path and are comfortable self-serving through any support issues; pick Replit Agent instead if you want a similar zero-setup experience with a more conventional cloud-VM backend, or Cursor/Windsurf if you want an agent inside your own local toolchain rather than a hosted app factory.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "botpress",
+      "name": "Botpress",
+      "tagline": "An open-source (MIT), developer-first platform for building conversational AI agents with bi-directional MCP support — self-host free, or use the managed cloud from $0/month.",
+      "websiteUrl": "https://botpress.com",
+      "url": "https://theagentsindex.com/botpress",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "api",
+        "free-tier",
+        "enterprise",
+        "autonomous",
+        "gpt",
+        "claude",
+        "open-models"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Botpress is the pick for engineering-led teams that want to own a conversational agent's code and data rather than configure a closed, fully-managed builder: the core framework is genuinely open-source (MIT-licensed, ~14.8k GitHub stars) and free to self-host indefinitely, with bi-directional MCP support and native deployment across a website widget, WhatsApp, Messenger, Slack, Microsoft Teams, Telegram and Twilio voice from one agent definition. The Autonomous Engine (LLMz) lets an agent plan and execute multi-step actions from a single instruction instead of a rigid flow, and a $25M Series B (June 2025, $120M valuation) on top of an earlier Series A signals real staying power for a company this size. The catch is the audience: Botpress is explicit that it isn't a zero-engineering tool — independent reviews describe needing at least one developer to wire up tool calls — and the LLM token cost (\"AI Spend\") bills separately from the plan fee, often exceeding it in production. Pick Botpress over Botsify if you want an open-source, code-level-customizable platform rather than a smaller no-code builder; pick Dify instead if the priority is a broader RAG/LLMOps workflow rather than conversational-agent channel deployment; pick a fully-managed option like Lindy if the goal is to avoid engineering involvement altogether.",
+      "lastVerified": "2026-08-02"
+    },
+    {
+      "slug": "botsify",
+      "name": "Botsify",
+      "tagline": "A decade-old, bootstrapped no-code AI agent builder for support, lead-gen and appointment booking across chat channels — with a distinct white-label track for agencies to resell under their own brand.",
+      "websiteUrl": "https://botsify.com",
+      "url": "https://theagentsindex.com/botsify",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms",
+        "support-agents"
+      ],
+      "tags": [
+        "api",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Botsify is the rare AI-agent vendor built as much for the reseller as the end customer: a decade-old (2016), bootstrapped, Karachi-based chatbot company that rebuilt its whole offering around two managed tracks in 2026 — a $149/month Done-for-You agent for anyone who wants a support, lead-gen or booking agent live across WhatsApp, Messenger, Instagram, Telegram, SMS and the web without writing a prompt themselves, and a White Label program that hands agencies a rebrandable dashboard, partner portal and reselling rights to launch their own AI-agent business on Botsify's infrastructure. That reseller angle is genuinely distinct in this index — most no-code builders here sell only to the end user, not to an agency wanting to resell the platform itself — and a decade of operating history is a real, if modest, credibility signal in a category full of companies only a few years old. The catches are concrete: neither track discloses which LLM answers a conversation, the White Label plan (its clearest differentiator) publishes no price at all, and its review record has a genuine split — strong on G2 and Capterra, weak on Trustpilot, where slow support and advanced-feature bugs are the recurring complaint. Pick Botsify if you want a managed, multi-channel agent from an established small vendor, or specifically want to resell AI agents under your own brand; skip it if you need a disclosed model, transparent agency pricing, or a spotless satisfaction record.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "cartesia",
+      "name": "Cartesia",
+      "tagline": "The Stanford SSM-research spinout behind Sonic (TTS) and Ink (STT) — Line, its open-source voice-agent SDK, connects to 100+ LLMs and starts at a genuine $0/month, but the agent layer itself isn't self-hostable.",
+      "websiteUrl": "https://cartesia.ai",
+      "url": "https://theagentsindex.com/cartesia",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "api",
+        "enterprise",
+        "claude",
+        "free-tier",
+        "open-models",
+        "gpt",
+        "open-source",
+        "multi-agent",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Cartesia's core credibility is that its speech models are already load-bearing infrastructure for part of this very category — Vapi, Retell AI and LiveKit Agents are all named Cartesia customers on its own site, using Sonic and/or Ink as a component of their own stacks. Line, the newer voice-agent layer built on top, is the most LLM-agnostic and the most genuinely open source of any entry here: an Apache 2.0 SDK that connects to 100+ providers via LiteLLM, backed by a real $0/month tier and flat $0.06/min agent pricing that doesn't escalate with plan. The tradeoff is deployment: unlike Deepgram Voice Agent API, only the speech models — not Line's voice-agent runtime itself — can be self-hosted, so a buyer that needs the entire stack on its own infrastructure should look elsewhere in this category. A well-capitalized, fast-moving vendor ($191M raised, Series B in October 2025) still building out its independent review record.",
+      "lastVerified": "2026-08-05"
+    },
+    {
+      "slug": "claude-agent-sdk",
+      "name": "Claude Agent SDK",
+      "tagline": "Anthropic's own agent-building library — the same agent loop, tools and context management that power Claude Code, for Python and TypeScript. Claude-only, with no multi-provider escape hatch.",
+      "websiteUrl": "https://code.claude.com/docs/en/agent-sdk",
+      "url": "https://theagentsindex.com/claude-agent-sdk",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "claude",
+        "multi-agent",
+        "self-hosted",
+        "api",
+        "free-tier"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "The Claude Agent SDK is Anthropic's answer to the same question Microsoft, Google and OpenAI have already answered with their own official SDKs — but it takes the most tightly-integrated, least model-agnostic approach of the four. Instead of a general-purpose agent framework that happens to support Claude, it's the literal agent harness behind Claude Code, exposed as a library: the same tools, the same agent loop, the same context management, callable from your own Python or TypeScript code, with a genuine choice between self-hosting the subprocess yourself or handing it to Claude Managed Agents, Anthropic's own hosted REST API. The tradeoff for that tight integration is real: it runs Claude models only (a GitHub issue asking for other providers was closed \"not planned\"), the MIT license on the wrapper packages doesn't extend to the closed-source CLI binary they bundle and spawn, and Anthropic changed how programmatic usage is billed twice in six weeks in mid-2026, reversing a planned split onto a separate credit pool on the day it was due to take effect. Pick it if you're already committed to Claude and want its exact production harness as a library rather than reimplementing a tool loop yourself; pick one of its three multi-provider siblings if vendor flexibility matters more than the depth of that integration.",
+      "lastVerified": "2026-07-30"
+    },
+    {
+      "slug": "claude-code",
+      "name": "Claude Code",
+      "tagline": "Anthropic’s terminal-native coding agent with full-repository context.",
+      "websiteUrl": "https://www.anthropic.com/claude-code",
+      "url": "https://theagentsindex.com/claude-code",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "claude",
+        "autonomous",
+        "api"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Claude Code is the pick for developers who want an agent that lives in the terminal and composes with real engineering workflows, scripts, CI pipelines, headless automation, rather than a bolted-on chat panel. Its reasoning holds up on genuinely multi-step tasks across a full repository, and it asks permission on sensitive actions instead of working blind. There is no graphical editor, so anyone who wants point-and-click review will feel the gap, and usage-based cost on long autonomous runs is worth watching. It is the strongest option for CI-driven or command-line-first teams, and a weaker fit for developers who want a GUI-first experience. One more factor worth knowing: Claude Code itself passed $1B in run-rate revenue within six months of its public launch, and Anthropic, now backed by a $65B Series H at a $965B valuation, is investing directly in its toolchain, having acquired the Bun JavaScript runtime Claude Code ships as an executable in December 2025. The tradeoff of that single-vendor stack is that Claude Code is tied exclusively to Claude models, with no built-in switch to GPT or Gemini the way some editor-based rivals allow.",
+      "lastVerified": "2026-07-24"
+    },
+    {
+      "slug": "clay",
+      "name": "Clay",
+      "tagline": "GTM data platform with an AI research agent (Claygent), enrich, research and personalise outbound at scale.",
+      "websiteUrl": "https://www.clay.com",
+      "url": "https://theagentsindex.com/clay",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "api",
+        "free-tier",
+        "no-code",
+        "gpt",
+        "claude",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Clay has become the GTM data layer serious outbound teams build on, and for good reason: its waterfall enrichment posts materially higher match rates than any single-source tool, and Claygent adds AI research that scrapes the web for data points no provider packages. Put together with signals, scoring, AI copy, a sequencer and ad-audience sync, it takes you from raw list to CRM-ready outbound in one workspace, with unlimited seats on every plan. The tradeoffs are equally well documented: the dual credit meter is genuinely hard to predict, failed lookups still cost credits and Claygent-heavy runs can balloon at scale, and the tool has a steep enough learning curve that it really wants a dedicated GTM engineer. Pick Clay if you have the technical appetite and a budget above a few hundred dollars a month; skip it if you need predictable flat pricing or have no one to build the workflows.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "cline",
+      "name": "Cline",
+      "tagline": "The open-source coding agent, an autonomous, bring-your-own-key agent that lives in your editor, terminal or SDK.",
+      "websiteUrl": "https://cline.bot",
+      "url": "https://theagentsindex.com/cline",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "api",
+        "free-tier",
+        "autonomous",
+        "self-hosted",
+        "gpt",
+        "claude",
+        "open-models",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Cline is the reference open-source coding agent: Apache-2.0, bring-your-own-key, and available as a VS Code extension, a CLI and an embeddable SDK, with Zed/Neovim reachable via the open Agent Client Protocol. Its Plan/Act workflow and first-class MCP support make it both careful and unusually extensible, and because you supply the model you get full choice and transparent, usage-only cost — route cheap tasks to a local model and hard ones to a frontier model. Two optional paid layers now sit on top of that free core: a $9.99/month ClinePass for discounted open-weight-model rate limits, and a custom-priced Enterprise tier that adds an SLA, dedicated support and a centrally-managed JetBrains rollout for organizations — the JetBrains plugin itself is free and self-serve, same BYOK terms as VS Code. The flip side of BYO-key is that costs are unbounded on the core tier: a long agentic run on a top model can quietly rack up API spend, and you own all the setup, keys and troubleshooting yourself. Output quality is only as good as the model you plug in. Pick Cline if you value openness, control and no lock-in and are comfortable managing your own model access; skip the free tier if you specifically need a support SLA or centrally-managed rollout, and budget for Enterprise instead.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "coderabbit",
+      "name": "CodeRabbit",
+      "tagline": "An AI code-review agent, not a code-writing one — reviews every pull request automatically across GitHub, GitLab, Bitbucket and Azure DevOps, with a genuine free tier for unlimited repos.",
+      "websiteUrl": "https://www.coderabbit.ai",
+      "url": "https://theagentsindex.com/coderabbit",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "api",
+        "enterprise",
+        "free-tier"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "CodeRabbit occupies a genuinely different slot in this category than any other listing: it reviews pull requests and commits automatically rather than writing code from a prompt, so it complements a coding agent instead of competing with it. The free tier is real (unlimited repos for PR summaries and IDE/CLI review, not just a capped trial), the funding and NVIDIA reference customer are independently corroborated, and its four-host coverage (GitHub, GitLab, Bitbucket, Azure DevOps) is broader than most single-purpose review tools. The real costs show up going deeper: API access and self-hosting are Enterprise-only, and per-seat paid pricing stacks on top of whatever already generates the code being reviewed.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "codex-cli",
+      "name": "OpenAI Codex CLI",
+      "tagline": "OpenAI's open-source (Apache-2.0) terminal coding agent, bundled into ChatGPT plans from Free through Pro — Business seats are now grandfathered-only.",
+      "websiteUrl": "https://developers.openai.com/codex/cli",
+      "url": "https://theagentsindex.com/codex-cli",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "gpt",
+        "autonomous",
+        "api",
+        "free-tier",
+        "open-source",
+        "self-hosted",
+        "open-models"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Codex CLI’s biggest advantage isn’t a feature — it’s bundling: because it draws on the same plan and credit pool as ChatGPT, a developer who already pays for Plus, Pro or Business gets a capable, actively-maintained terminal coding agent with no separate subscription decision to make, and even the Free plan gets limited access to try it. The tool itself is well-built and open-source, with granular permission controls, subagents, MCP support and a genuinely useful built-in code-review mode running across terminal, desktop and IDE surfaces. The honest catches are real: switching to a non-OpenAI model takes manual config beyond the built-in Ollama/LM Studio/Bedrock options, OpenAI’s own numbers put typical cost at $100-$200/developer per month for regular use, and a large, currently-open GitHub issue documents a real rate-limit consumption regression from June 2026 that was still unresolved as of this listing’s last check. Pick Codex CLI if you already live in the ChatGPT ecosystem and want a terminal agent without a new bill; pick Claude Code instead if you want a lower, more predictable entry price, or Windsurf/Juggler if free multi-model switching matters more to you than OpenAI’s specific model lineup.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "crescendo",
+      "name": "Crescendo",
+      "tagline": "Fully-managed AI-native customer service, replaces your entire CX stack with agents, QA and human-in-the-loop support, billed per resolution.",
+      "websiteUrl": "https://www.crescendo.ai/",
+      "url": "https://theagentsindex.com/crescendo",
+      "tier": "Listed",
+      "categories": [
+        "support-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "autonomous",
+        "multi-agent"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Crescendo’s pitch is speed and completeness: instead of stitching together a chat widget, a ticketing system and an outsourced BPO separately, it sells all of it — AI agents, QA, routing, knowledge management and human-in-the-loop staff — as one per-resolution-priced engagement. The backing is real: a $500M valuation and the PartnerHero acquisition gave it enterprise-scale delivery capacity within its first year, and its all-inclusive pricing plus Total Outcome Guarantee genuinely aligns cost with results. The tradeoffs are the ones you would expect from a fully managed service: no public API or self-serve trial, limited hands-on configuration control, and per-resolution billing that needs careful volume forecasting to avoid surge fees. Pick Crescendo if you want an outsourced, compliance-ready CX operation you do not have to build yourself; skip it if you want a self-serve, developer-controlled agent like Intercom Fin, or a software-only platform you configure in-house like Sierra.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "cresta",
+      "name": "Cresta",
+      "tagline": "Unifies an autonomous AI Agent, real-time human Agent Assist and Conversation Intelligence on one contact-center platform, enterprise, custom-quoted, no self-serve tier.",
+      "websiteUrl": "https://cresta.com/",
+      "url": "https://theagentsindex.com/cresta",
+      "tier": "Listed",
+      "categories": [
+        "support-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "autonomous",
+        "api",
+        "multi-agent",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Cresta's real differentiator among this category's four existing enterprise support-agent listings is scope: instead of selling an AI Agent that replaces a human conversation, it unifies an AI Agent, real-time Agent Assist for the humans still in the loop, and Conversation Intelligence analytics on one shared record, a genuine \"augment, don't just replace\" position, backed by real scale ($280M+ raised, 500+ employees, named case studies like Xanterra's $3.3M revenue lift). The honest catch: pricing is almost entirely opaque, the only public number anywhere is an AWS Marketplace listing for the narrower Agent Assist product alone, starting at $150,000/year for one channel, while the full AI Agent/Conversation Intelligence suite is custom-quoted with no self-serve tier or free trial. Pick Cresta if a blended AI-plus-human operation is the actual goal and you can run an enterprise sales cycle; skip it if you want transparent self-serve pricing or a fast trial, which none of this category's enterprise players (Cresta, Sierra, Decagon) currently offer.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "crewai",
+      "name": "CrewAI",
+      "tagline": "A popular open-source Python framework for role-based, collaborating multi-agent teams, free to self-host, now a stable 1.0 release with an optional managed AMP cloud layer.",
+      "websiteUrl": "https://www.crewai.com",
+      "url": "https://theagentsindex.com/crewai",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "multi-agent",
+        "free-tier",
+        "self-hosted",
+        "api",
+        "enterprise",
+        "no-code",
+        "open-models"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "CrewAI is the fastest way to stand up a working multi-agent system when the mental model is a team of specialists handing off tasks, not one do-everything bot. Its role-based crew abstraction is unusually readable for how much coordination it buys you, and since reaching a stable 1.0 general-availability release in October 2025, with its Crews/Flows APIs locked for long-term use, it now runs at real production scale: 2 billion-plus agentic workflows in the trailing 12 months, and named enterprise use at PepsiCo, Johnson & Johnson, PwC and the US DoD. Tight, deterministic control over long-running production workflows still needs the newer Flows layer rather than the crew model alone. The managed CrewAI AMP cloud product is genuinely useful but thinly priced: its only published self-serve tier is a free 50-execution/month Basic plan, with nothing transparently priced between that and a custom Enterprise conversation. It is a strong pick for prototyping, straightforward collaborative pipelines, and now demonstrably production-grade deployments too, the main catch is AMP’s pricing ladder, not the framework’s maturity.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "cursor",
+      "name": "Cursor",
+      "tagline": "The AI code editor, an agent that reads, writes and edits across your whole codebase.",
+      "websiteUrl": "https://cursor.com",
+      "url": "https://theagentsindex.com/cursor",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "free-tier",
+        "autonomous",
+        "claude",
+        "gpt",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Cursor is the best in-editor agent for developers who want AI woven into a familiar editor rather than bolted onto a separate tool. Its multi-file agent mode and predictive tab-completion are the most polished in the category, and switching between Claude, GPT and Gemini per request means you are never locked into one model’s blind spots. The tradeoff is real: it is closed-source and subscription-priced, and heavy daily use can hit fast-request limits that push you toward a pricier tier. Pick Cursor for the smoothest agent-in-editor experience available today; skip it if you need a fully scriptable, headless agent for CI. One more factor worth weighing: on 2026-06-16 SpaceX agreed to acquire Cursor’s parent company Anysphere for $60 billion in an all-stock deal, expected to close in Q3 2026 pending regulatory approval, one of the largest startup acquisitions ever. Neither company has said what changes for the product, pricing or model roster once it closes, and analysts have flagged a real risk that SpaceX’s ownership of the rival xAI/Grok models could pull a currently model-agnostic tool toward favoring its new parent’s own stack, buyers who value Cursor’s per-request choice across Claude, GPT and Gemini should watch this closely as the deal progresses.",
+      "lastVerified": "2026-07-28"
+    },
+    {
+      "slug": "decagon",
+      "name": "Decagon",
+      "tagline": "Enterprise AI customer-service agents that resolve conversations end to end across chat, voice and email, $4.5B-valued, sales-led, no public pricing.",
+      "websiteUrl": "https://decagon.ai/",
+      "url": "https://theagentsindex.com/decagon",
+      "tier": "Listed",
+      "categories": [
+        "support-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "autonomous",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Decagon is one of the best-capitalized names in AI customer support — a $250M Series D in January 2026 valued it at $4.5B, and its published case studies back that up with real numbers: Duolingo’s 80% deflection rate, ClassPass’s 95% cost reduction, Chime’s 70% chat-and-voice resolution rate. Plain-English AOPs let support teams (not just engineers) shape agent behaviour, and Watchtower/Trace View give real visibility into what the agent is doing. The honest catches: there is no public pricing — third-party analysis estimates $74K–$600K+/year depending on volume — resolution-based billing has drawn complaints about how a “resolution” is counted, and reviewers say meaningful deployments still need dedicated engineering to configure AOPs, often over 4–12 weeks. Pick Decagon if you are an enterprise that wants a well-funded, fast-improving agent and can run a proper implementation; skip it if you need transparent self-serve pricing or a public API.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "deepgram-voice-agent-api",
+      "name": "Deepgram Voice Agent API",
+      "tagline": "The speech-infrastructure company's own voice-agent API — managed STT+LLM+TTS with a 6-provider LLM router, deployable fully managed, VPC-hosted, or fully self-hosted.",
+      "websiteUrl": "https://deepgram.com/product/voice-agent-api",
+      "url": "https://theagentsindex.com/deepgram-voice-agent-api",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "api",
+        "enterprise",
+        "self-hosted",
+        "gpt",
+        "claude",
+        "multi-agent",
+        "open-models",
+        "autonomous"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Deepgram Voice Agent API sits between the raw OpenAI Realtime API and a fully-configured platform like Bland AI or Retell AI: a managed STT+LLM+TTS orchestration layer from the company several rival platforms already plug in as a speech-to-text provider (LiveKit Agents names Deepgram directly in its own provider list). The genuinely distinguishing fact is deployment — fully managed, dedicated single-tenant, VPC-hosted, or fully self-hosted are all real options, backed by SOC 2 Type II certification and signed HIPAA BAAs, a spread no other closed-source vendor in this category matches. Its built-in LLM router is also the broadest here: six named providers spanning 30+ models, including open-weight options via Groq and NVIDIA, versus a fixed model or a narrower bring-your-own list everywhere else. The tradeoffs: no ongoing free tier (a one-time $200 credit only), no dashboard or CRM integrations — it's infrastructure a developer builds on top of, not a configured product — and the cheapest published rate only applies once you've brought your own LLM and TTS.",
+      "lastVerified": "2026-08-04"
+    },
+    {
+      "slug": "devin",
+      "name": "Devin",
+      "tagline": "Cognition’s autonomous AI software engineer, delegate a ticket, get a reviewed pull request back.",
+      "websiteUrl": "https://devin.ai",
+      "url": "https://theagentsindex.com/devin",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "free-tier",
+        "multi-agent",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Devin is the most complete attempt at a genuinely autonomous software engineer: it works asynchronously on its own cloud machine, opens real pull requests, and can be scaled to a fleet on large migrations. It is now also one of the best-capitalized bets in the category — a $1B+ Series D at a $26B valuation (May 2026), $492M in annualized revenue, and named enterprise deployments at Citi, Mercedes-Benz, Goldman Sachs, Elevance, Dell, Santander, the U.S. Army and the U.S. Navy back up the pitch with real production usage across finance, industrials, insurance and defense, not just funding hype. Its July 2026 SWE-1.7 model is a genuine cost-performance play — cheap per task, but Cognition’s own numbers put it behind Claude Opus 4.8 and GPT-5.5 on the hardest benchmarks, so treat it as the efficient default rather than the ceiling. The honest catch on autonomy itself remains: independent reviewers still find it stalls or over-engineers on ambiguous tasks, so its PRs are a draft for review, not a finished merge, and billing can drift once on-demand credits kick in on long sessions. Pick Devin if your bottleneck is well-scoped, delegable engineering work you can review as PRs, or you want a vendor with real enterprise-scale traction behind it; skip it if you want a fast interactive copilot in your own editor, where Cursor or Devin Desktop fit better, or you need frontier-level output on the single hardest tasks without switching models.",
+      "lastVerified": "2026-08-06"
+    },
+    {
+      "slug": "dify",
+      "name": "Dify",
+      "tagline": "Open-source, visual platform for building production LLM apps and agents, self-host it or run it in the cloud.",
+      "websiteUrl": "https://dify.ai",
+      "url": "https://theagentsindex.com/dify",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "open-source",
+        "api",
+        "free-tier",
+        "self-hosted",
+        "no-code",
+        "gpt",
+        "claude",
+        "open-models",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Dify has become the default open-source answer to \"how do we build and ship LLM apps without gluing five tools together.\" Its visual Workflow Studio, built-in RAG pipeline, model-agnostic runtime and observability cover the whole path from prototype to production, and with a large open-source community and a Docker self-host option you get real data control and no lock-in. The nuances matter: the licence is Apache-2.0-derived with extra conditions rather than pure open source, self-hosting means you own the ops burden, and the managed cloud meters usage in message credits that heavier apps will outgrow. For deeply bespoke agent logic a code-first framework can still be more flexible. Pick Dify if you want a self-hostable, all-in-one platform for RAG and agent apps and have the technical chops to run it; skip it if you want a hands-off managed \"AI employee\" with no infrastructure to think about.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "elevenlabs-conversational-ai",
+      "name": "ElevenLabs Conversational AI",
+      "tagline": "The voice-quality specialist’s own agent layer, 10,000+ voices and instant cloning, with a bring-your-own-LLM brain.",
+      "websiteUrl": "https://elevenlabs.io/conversational-ai",
+      "url": "https://theagentsindex.com/elevenlabs-conversational-ai",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "api",
+        "free-tier",
+        "no-code",
+        "autonomous",
+        "enterprise",
+        "open-models",
+        "gpt",
+        "claude"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "ElevenLabs Conversational AI (rebranded ElevenAgents) approaches the voice-agent category from an unusual angle: instead of starting as an orchestration platform and treating voice as one interchangeable component, it starts from the industry’s most-cited text-to-speech and voice-cloning models and wraps an agent layer around them. That shows up as a real edge — 10,000+ voices, instant cloning, and native speech in 70+ languages — backed by a company now valued at $11B with production customers like Deutsche Telekom, Square and Revolut. The LLM layer is genuinely flexible: an ElevenLabs-hosted model for the lowest latency, or bring your own key, including open-source models via an OpenAI-compatible endpoint. The tradeoffs mirror the rest of this category: pricing stacks a subscription, per-minute overage/burst, and separate LLM/telephony usage; and the product covers the voice/orchestration layer, not a turnkey CRM-connected ops tool. Pick it if voice quality and cloning are the deciding factor; skip it if you want a no-code, fully-managed CX product or a stack-agnostic build like Vapi.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "elicit",
+      "name": "Elicit",
+      "tagline": "An AI research agent built for scientific literature, search, screen and extract cited data from 138M+ papers.",
+      "websiteUrl": "https://elicit.com",
+      "url": "https://theagentsindex.com/elicit",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "api",
+        "free-tier",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Elicit is the research agent in this category actually built for scientific literature rather than the open web. Its Research Agent autonomously plans and runs a multi-step literature investigation, its Systematic Review workflow automates the screening step of a formal review at real scale (thousands of papers, PRISMA-grade per its own claim at the top tier), and every generated claim links back to a sentence-level citation in the source paper — a genuinely different job than Perplexity's live-web answers or Manus's general task automation. The honest caveats are self-disclosed: Elicit's own docs admit hallucination risk and tell users to verify important findings against the original paper, independent reviewers find it can miss papers a manual search would catch, and it performs best on empirical, formulaic research rather than open-ended theoretical work. Pick Elicit if you need cited, structured evidence from published literature at academic rigor; skip it if you want general web research or broader task automation.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "factory-ai",
+      "name": "Factory",
+      "tagline": "Agent-native software development — specialized \"Droid\" agents that triage, code, test, review, document and ship changes across the SDLC, from a $20/mo CLI to a fully managed enterprise cloud.",
+      "websiteUrl": "https://www.factory.ai",
+      "url": "https://theagentsindex.com/factory-ai",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "api",
+        "autonomous",
+        "multi-agent"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Factory is a genuinely differentiated bet in the coding-agents category: instead of one generalist assistant, it coordinates specialized \"Droids\" — code, review, test, docs, knowledge — across the full software development lifecycle, from triage through production monitoring, and backs that pitch with real enterprise traction ($150M Series C led by Khosla Ventures at a $1.5B valuation, named users including Morgan Stanley, EY and Palo Alto Networks) and deployment flexibility (SaaS, hybrid, on-premise, air-gapped) most individual-developer coding agents don't offer. The tradeoffs are real: there is no free tier or trial at any price point, the deepest enterprise/security controls are sales-gated behind custom pricing, and its public track record is still thin relative to incumbents with years more case studies. Pick it if your organization wants agents automating SDLC stages beyond code generation and can justify enterprise pricing; look elsewhere if you want a free or cheap way to try an agentic coding tool first.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "gc-ai",
+      "name": "GC AI",
+      "tagline": "An AI platform for in-house legal teams whose Research Agent runs parallel, cross-checked research across 13M+ US case law opinions, statutes and regulations.",
+      "websiteUrl": "https://gc.ai",
+      "url": "https://theagentsindex.com/gc-ai",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "multi-agent",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "GC AI is the one research agent in this category built for a specific, high-stakes body of knowledge, US case law, statutes, regulations and agency guidance, that none of Perplexity, Manus, Elicit or GPT Researcher touch. Its Research Agent is genuinely multi-agent: specialized agents search in parallel across jurisdictions and courts, then get cross-checked and reconciled into one cited analysis, backed by real scale ($555M valuation, $73M raised) and real self-serve pricing rather than a fully sales-gated product. The honest caveats: on the cheapest plan, case-law research itself is a paid add-on rather than included; the API is private-beta and account-rep gated; and independent reviews report a thin verified-review trail relative to GC AI's own claimed customer count. Pick GC AI if your research is specifically legal and your budget is an in-house team's, not an individual's; skip it for open-web, academic or free/self-hosted research.",
+      "lastVerified": "2026-07-24"
+    },
+    {
+      "slug": "genspark",
+      "name": "Genspark",
+      "tagline": "A \"Super Agent\" that orchestrates 9 blended LLMs and 80+ tools to research, build slides/sheets, place phone calls and browse the web from one prompt.",
+      "websiteUrl": "https://www.genspark.ai",
+      "url": "https://theagentsindex.com/genspark",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "autonomous",
+        "browser-use",
+        "multi-agent",
+        "no-code",
+        "free-tier",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Genspark is the best-funded and most heavily used general-purpose agent in this category — $535M raised, a $2.6B valuation and roughly $250M in annualized revenue back real, measurable traction, not just a viral demo. Its mixture-of-agents design, blending nine specialized models with cross-checking to cut hallucination, is a genuine architectural bet rather than a single-model wrapper, and its surface is unusually broad: cited research reports, slide decks, live spreadsheets, real outbound phone calls and autonomous browsing all live in one workspace. The honest tradeoffs are real too: independent reviews consistently flag the credit system's fine print — a session cap undermining \"unlimited\" chat, credits that don't roll over and debit even on failed runs, and a zero-credit promotion with a hard December 2026 expiry — and, unlike its closest rival Manus, no source found documents a public developer API, so there is no confirmed way to build Genspark into your own software today. Pick Genspark if you want one broad, well-funded workspace for research-to-deliverable work and don't need to automate it programmatically; pick Manus instead if a developer API and code-execution/browser-operator depth matter more than Genspark's wider consumer surface.",
+      "lastVerified": "2026-07-31"
+    },
+    {
+      "slug": "github-copilot",
+      "name": "GitHub Copilot",
+      "tagline": "The mature AI pair-programmer, now with an agent mode, deep in the GitHub + IDE stack.",
+      "websiteUrl": "https://github.com/features/copilot",
+      "url": "https://theagentsindex.com/github-copilot",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "gpt",
+        "claude",
+        "autonomous",
+        "free-tier"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "GitHub Copilot is the safest choice for a team that already lives inside GitHub and needs AI coding rolled out at enterprise scale. Its coding agent turns a GitHub issue into a reviewable pull request natively, and its org-level policy, content-exclusion and data-handling controls are more mature than most competitors offer. It is deliberately less aggressive than dedicated agents like Cursor or Devin, a better fit for teams that want reviewable, incremental automation than a fully autonomous coder. Outside the GitHub-plus-supported-IDE stack, the advantage narrows fast.",
+      "lastVerified": "2026-07-28"
+    },
+    {
+      "slug": "glean",
+      "name": "Glean",
+      "tagline": "Enterprise \"Work AI\" platform — permission-aware search across 100+ systems, an AI assistant and a no-code agent builder, all grounded in one Knowledge Graph. $7.2B valuation, June 2025.",
+      "websiteUrl": "https://www.glean.com",
+      "url": "https://theagentsindex.com/glean",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "enterprise",
+        "api",
+        "gpt",
+        "claude",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Glean is the search-first entry in this index's agent-platforms category — its Knowledge Graph and permission-aware indexing across 100+ workplace systems come before agent-building, not after, which is a genuinely different foundation from Moveworks' ticket-resolution focus, n8n/Dify's workflow-canvas approach, or Lindy/Relevance AI's consumer-facing no-code builders. That foundation is backed by real scale: a $7.2B valuation (June 2025), over $765M raised across six rounds, $100M in annual recurring revenue by February 2025, and Fortune-500-grade customers (Booking.com, Zillow, Ericsson) each running thousands of internally-built agents. It also ships MCP support in both directions today — a shipped capability Moveworks' own blog admits is still just \"planned.\" The honest catches: Glean publishes no price list at all (Vendr's buyer-data aggregation puts the median deal at $98,890/year across 174 tracked purchases, with typical enterprise minimums around 100–250 seats), G2 reviewers flag it as genuinely expensive with a mandatory support fee near 10% of contract value on top, and its chat still produces occasional hallucinations like any LLM-backed assistant. Pick Glean if your agent strategy starts with \"can it find and reason over everything we already know\" rather than \"can it automate this one workflow\"; look at Dify or n8n instead if you want self-hosted, budget-transparent workflow automation, or Moveworks if IT/HR ticket deflection specifically is the job.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "google-adk",
+      "name": "Google Agent Development Kit",
+      "tagline": "Google's open-source, code-first agent SDK — four language runtimes, native A2A + MCP protocol support, and an optional managed Agent Runtime on Google Cloud.",
+      "websiteUrl": "https://adk.dev",
+      "url": "https://theagentsindex.com/google-adk",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "multi-agent",
+        "self-hosted",
+        "gpt",
+        "claude",
+        "open-models",
+        "api"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Google Agent Development Kit is Google's answer to the same question Microsoft answered with Agent Framework and OpenAI answered with its own Agents SDK: a major AI lab's official, first-party toolkit for building agents, rather than leaving the whole category to third parties. What sets it apart is breadth and protocol alignment, not novelty — it's the only framework in this index shipping production-grade SDKs in four languages (Python, Go, Java, TypeScript, plus an experimental Kotlin/Android runtime), and it ships native support for both the Agent2Agent protocol and MCP rather than treating agent interoperability as an afterthought. It is genuinely model-agnostic despite the obvious Gemini optimization, and its free, Apache-2.0, fully self-hostable core pairs with an optional managed Agent Runtime for teams that want to scale without operating infrastructure themselves — the same shape Microsoft and OpenAI's official SDKs use. The honest catches are a real learning curve (this is a comprehensive framework, not a four-primitive minimal SDK), documentation and examples that still skew heavily toward Python even though the other three SDKs are GA, and a managed layer priced across several independent usage-based meters with no flat fee or hard spending cap. Pick it if you want Google's own official SDK, need genuine cross-vendor agent interoperability, or are standardizing on a language beyond Python; if none of those apply, LangChain's longer track record and larger ecosystem remain the safer default.",
+      "lastVerified": "2026-07-29"
+    },
+    {
+      "slug": "gpt-researcher",
+      "name": "GPT Researcher",
+      "tagline": "An open-source autonomous research agent that plans, searches many sources and writes a cited report.",
+      "websiteUrl": "https://gptr.dev",
+      "url": "https://theagentsindex.com/gpt-researcher",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "autonomous",
+        "multi-agent",
+        "api",
+        "free-tier",
+        "open-models",
+        "gpt",
+        "claude"
+      ],
+      "apiAvailable": false,
+      "pricing": "free",
+      "verdict": "GPT Researcher is the reference open-source implementation of the autonomous research agent, and it holds up: give it a question and its planner-and-executor agents fan out across the web, read the sources and return a properly cited, long-form report. Its biggest strengths are openness and control — Apache-2.0 licensed, self-hosted, and agnostic about which LLM and search engine you use, so you can tune cost, quality and privacy to your needs, and even research your own local documents. The tradeoffs are the flip side of that freedom: it is a developer tool you have to install, key up and run, there is no hosted polish, and both quality and spend ride on the model and retriever you pick. Like every research agent, its citations cut hallucination without eliminating it, so reports still need a human check. Pick GPT Researcher if you want a free, hackable, self-hosted research engine you can build on; skip it if you want a no-setup, hosted product and are happy to pay for the convenience.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "intercom-fin",
+      "name": "Intercom Fin",
+      "tagline": "Intercom’s customer-service AI agent, resolves tickets omnichannel over any helpdesk, billed per resolution.",
+      "websiteUrl": "https://www.intercom.com/fin",
+      "url": "https://theagentsindex.com/intercom-fin",
+      "tier": "Listed",
+      "categories": [
+        "support-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Fin is the most broadly deployed AI support agent, and its two big advantages are reach and speed: it runs omnichannel (chat, email, voice, social) and can sit on top of virtually any helpdesk, Zendesk, Salesforce, Freshdesk, with Intercom claiming setup in under an hour, backed by a documented API and MCP. Its outcome-style $0.99-per-resolution pricing is genuinely appealing when the agent does the work. The honest caveats are about that meter: Intercom’s 76% headline resolution rate is a best case, with independent analyses of case studies often landing nearer 40-50%, and billing counts “assumed” resolutions when a customer merely stops replying, so costs can be unpredictable and occasionally reward non-resolutions. One more factor to weigh: Salesforce signed a definitive agreement in June 2026 to acquire Intercom/Fin for roughly $3.6B, expected to close around Salesforce’s fiscal Q4 2027, leadership says little changes day-to-day for now, but buyers running Fin over a non-Salesforce helpdesk should watch for roadmap or pricing shifts once the deal closes. Pick Fin if you want a capable agent over your existing stack and can model per-resolution economics (and the pending acquisition); skip it if you need a flat, predictable bill or object to paying for soft resolutions.",
+      "lastVerified": "2026-08-03"
+    },
+    {
+      "slug": "juggler",
+      "name": "Juggler",
+      "tagline": "An open-source, GUI-based workbench for AI coding agents, branching session trees, not a linear transcript. Free, AGPLv3, by JUCE creator Julian Storer.",
+      "websiteUrl": "https://juggler.studio",
+      "url": "https://theagentsindex.com/juggler",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "claude",
+        "gpt",
+        "open-models",
+        "free-tier"
+      ],
+      "apiAvailable": false,
+      "pricing": "free",
+      "verdict": "Juggler is the most structurally different take on the AI-coding-agent UI to show up in this category recently: instead of a scrolling terminal log, your session is an editable, branching tree, and every tool call, approval and raw context message stays inspectable rather than hidden behind a chat bubble. That is a real, substantive difference from Cursor, Windsurf or Aider, not a cosmetic one, and it comes free, open-source and model-agnostic across Claude, GPT, Gemini, Ollama, OpenRouter and DeepSeek. The honest catch is timing: it shipped on Hacker News on 2026-07-12 and is alpha software by the creator’s own description — a launch-day tester hit an LLM-connection error immediately, there is no ACP support yet for developers coming from an existing plugin ecosystem, and the main app’s AGPLv3 license is a stronger copyleft commitment than most rivals carry. Pick Juggler if you want hands-on visibility into what your agent is doing and are willing to run early-stage software to get it; skip it for now if you need a mature, supported tool or depend on an ACP-based plugin setup.",
+      "lastVerified": "2026-07-28"
+    },
+    {
+      "slug": "langchain",
+      "name": "LangChain",
+      "tagline": "The most widely-used framework for building LLM apps and agents, with LangGraph for stateful control.",
+      "websiteUrl": "https://www.langchain.com",
+      "url": "https://theagentsindex.com/langchain",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "api",
+        "free-tier",
+        "multi-agent",
+        "self-hosted",
+        "gpt",
+        "claude",
+        "open-models"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "LangChain is the default starting point for building a custom, production-grade agent rather than adopting an off-the-shelf tool, mostly because nothing else matches its integration ecosystem. LangGraph adds real stateful control, branching, loops, human-in-the-loop, multiple coordinated agents, that a simple chain-based library cannot offer, and LangSmith adds production tracing and evals once you are ready to pay for them. The cost is a real learning curve: the core abstractions have changed across major versions, and older tutorials can actively mislead. It is the right tool when you are building something bespoke, and overkill for a single prompt-and-response wrapper. Worth knowing: LangChain raised a $125 million Series B in October 2025 at a $1.25 billion valuation, becoming a unicorn, a real signal of staying power, and because the LangChain and LangGraph libraries themselves are open-source and self-hostable, your own deployment is not at the mercy of the company’s fate the way a closed-source tool’s would be.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "letta",
+      "name": "Letta",
+      "tagline": "A stateful-agent framework — open-source, memory-first agents whose context, tools and identity persist as a durable server object instead of resetting between sessions.",
+      "websiteUrl": "https://www.letta.com",
+      "url": "https://theagentsindex.com/letta",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "api",
+        "free-tier",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Letta is the one framework in this category built around a genuinely different premise: agents as stateful, persistent objects — with git-versioned memory and idle-period \"sleep-time compute\" — rather than stateless call graphs assembled fresh on every request. That premise traces directly back to MemGPT, the Berkeley research it grew out of, and its founders (Sarah Wooders, Charles Packer) are the same researchers behind that work. The open-source core is real and active (23.9K+ GitHub stars, Apache 2.0, self-hostable), backed by a $10M Felicis-led seed round and used in production at Bilt, 11x, Kognitos and Hunt Club. The tradeoffs: it's a much smaller, younger ecosystem than LangChain's, its funding is a single, smaller seed round rather than a later-stage raise, and its product surface is split across two differently-adopted repos. Pick it when persistent, evolving agent memory is the actual requirement; pick a stateless orchestration framework when the task is a bounded workflow that doesn't need to remember anything between runs.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "lindy",
+      "name": "Lindy",
+      "tagline": "An AI executive assistant you text over iMessage or SMS, built on a no-code agent platform still available underneath.",
+      "websiteUrl": "https://www.lindy.ai",
+      "url": "https://theagentsindex.com/lindy",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "no-code",
+        "autonomous",
+        "multi-agent",
+        "browser-use",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Lindy has moved from selling itself as a no-code \"AI employee\" builder to selling a finished AI executive assistant you text over iMessage or SMS, connect your phone and inbox, and it starts triaging email, prepping meetings and chasing follow-ups without you opening an app. That text-first interface is genuinely the fastest on-ramp to a useful agent in this category, and human-in-the-loop review keeps you in control. The old no-code agent builder hasn’t gone away, it still exists under an \"App Builder\" product for teams who want to construct custom multi-agent flows, but it is no longer what Lindy leads with, so buyers who want that specifically have to go looking for it. The other real catch is cost transparency: usage is metered in credits, stronger models burn more, and once a plan’s monthly allotment is gone, overage work is billed at 2x the standard rate. It’s also cloud-only, closed-source, and has no permanent free plan, just a 7-day trial. Pick Lindy if you want a working AI assistant you can text starting today and will watch your credit usage; skip it if you need self-hosting, an open API to build on, or flat, predictable pricing.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "livekit-agents",
+      "name": "LiveKit Agents",
+      "tagline": "The open-source, self-hostable voice agent framework, Apache 2.0, provider-agnostic, and the infrastructure behind ChatGPT’s Advanced Voice Mode.",
+      "websiteUrl": "https://livekit.com/voice-agents",
+      "url": "https://theagentsindex.com/livekit-agents",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "free-tier",
+        "api",
+        "gpt",
+        "claude",
+        "enterprise",
+        "multi-agent"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "LiveKit Agents is the one genuinely open-source, self-hostable option among this category’s voice agent platforms, an Apache 2.0 framework, not a closed API you can only rent. That openness comes from a company with real weight behind it: a $1B valuation on $181.3M raised, and infrastructure serious enough that OpenAI runs ChatGPT’s Advanced Voice Mode on it alongside customers like xAI, Salesforce and Tesla. The tradeoff is real: unlike Vapi, Retell AI, Bland AI or ElevenLabs Conversational AI, there is no hosted dashboard that gets you a working agent in an afternoon, you write and deploy code, choosing and wiring your own STT/LLM/TTS providers (or LiveKit’s managed Inference gateway) yourself. Pick LiveKit Agents if engineering ownership, self-hosting or avoiding vendor lock-in matter more than a fast, no-code start; skip it if you want a turnkey agent live without writing code.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "llamaindex",
+      "name": "LlamaIndex",
+      "tagline": "The data framework for LLM apps, RAG-first, now with agent workflows and a document-parsing cloud.",
+      "websiteUrl": "https://www.llamaindex.ai",
+      "url": "https://theagentsindex.com/llamaindex",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "api",
+        "multi-agent",
+        "self-hosted",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "LlamaIndex is the reference implementation for retrieval-augmented generation: if your application lives or dies on getting the right context into the model, its query engines, advanced retrieval patterns and 300-plus connectors are the deepest toolkit available, and the MIT-licensed core is genuinely free. Its expansion into event-driven Workflows and agent tooling means it is no longer just a RAG library, though agent-first orchestration is still more naturally LangGraph or CrewAI territory. The commercial LlamaCloud, chiefly LlamaParse, is a real asset for messy PDFs, tables and scans, and it comes with a monthly free-credit allotment, but the best parsing sits behind usage-based paid plans rather than in the free package. Be prepared for a learning curve on advanced retrieval and for an API that has churned across frequent releases. Pick LlamaIndex when retrieval quality is the core of your product; skip it as your primary tool if your app is chiefly a real-time conversational or multi-tool agent with little document grounding.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "manus",
+      "name": "Manus",
+      "tagline": "An autonomous general AI agent that plans and executes multi-step tasks end-to-end in its own cloud computer.",
+      "websiteUrl": "https://manus.im",
+      "url": "https://theagentsindex.com/manus",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "autonomous",
+        "browser-use",
+        "api",
+        "multi-agent",
+        "free-tier",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Manus is one of the most ambitious consumer agents shipped so far: hand it a goal and it genuinely plans and executes a long chain of steps in its own cloud computer, browsing, coding and producing a finished deliverable with little supervision. When the task is straightforward and mostly read-only — a research summary, a data pull, a simple site — it can feel like magic. The honest problem is reliability: independent testing has repeatedly caught it derailing on long, branching workflows and even fabricating verification output that looked real, so it is not something to trust with mission-critical or write-heavy work yet. The credit-based pricing also makes cost unpredictable, and its corporate ownership remains unsettled after a Meta acquisition was announced, blocked by Chinese regulators, and is now the subject of a Tencent-led buyback still being negotiated. Pick Manus to offload well-scoped, low-stakes multi-step tasks and to see where autonomous agents are heading; skip it for anything where an unnoticed hallucination or a stalled workflow would be expensive.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "mastra",
+      "name": "Mastra",
+      "tagline": "The TypeScript-native agent framework — agents, durable workflows, memory and observability in one Apache-2.0 package, with an optional managed cloud platform.",
+      "websiteUrl": "https://mastra.ai",
+      "url": "https://theagentsindex.com/mastra",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "api",
+        "free-tier",
+        "gpt",
+        "claude",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Mastra is the one genuinely TypeScript-native entrant in a category otherwise built Python-first with JS bindings layered on — a real, defensible niche for full-stack JS and Next.js teams who don’t want to stand up a separate Python service just to add an agent. It unifies agents, durable typed workflows, memory and observability in one Apache-2.0 package that is free to self-host, backed by real commercial traction ($35M raised, a Spark Capital-led Series A, and named production customers including Replit, Sanity, MongoDB, Brex and Marsh). The tradeoffs are real too: it is TypeScript-only with no Python path at all, its ecosystem is a fraction of LangChain’s size and age, its deepest enterprise controls sit behind a separate source-available license rather than the open core, and its optional Mastra Cloud platform bills across several metered dimensions rather than one flat number. Pick it if you are building in the JS/TS stack and want an integrated framework designed for that world from day one; pick something with a longer track record if Python is your default or you need the widest possible integration ecosystem today.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "microsoft-agent-framework",
+      "name": "Microsoft Agent Framework",
+      "tagline": "Microsoft’s production-ready, open-source successor to AutoGen and Semantic Kernel — one agent SDK for .NET, Python and Go.",
+      "websiteUrl": "https://learn.microsoft.com/en-us/agent-framework/",
+      "url": "https://theagentsindex.com/microsoft-agent-framework",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "multi-agent",
+        "self-hosted",
+        "gpt",
+        "claude",
+        "open-models",
+        "api"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Microsoft Agent Framework is what AutoGen and Semantic Kernel became once Microsoft decided to stop maintaining two separate agent stacks and support one instead. It reached a production-ready 1.0 GA on 2026-04-03, ships consistent APIs across .NET, Python and Go, and is genuinely more open than its Microsoft branding suggests — Anthropic’s Claude and local Ollama models are first-class citizens, not afterthoughts. What sets it apart from most frameworks in this category is that it doesn’t stop at orchestration: the Agent Harness gives an agent a real, guarded environment to act in, and Foundry Hosted Agents offers a managed path to production without forcing you off the free, self-hostable core. CodeAct’s measured token and latency savings and native MCP/A2A support show it building for where the rest of the ecosystem is heading, not just where Microsoft wants it to go. The honest catch is age: as a unified product it is roughly a quarter old, with a GitHub community still far smaller than LangChain’s or legacy AutoGen’s, and Microsoft’s own terms put the burden of risk on you for any non-Microsoft model or MCP server you plug in. Pick it if you are migrating off AutoGen or Semantic Kernel, or starting fresh with real Azure/Foundry investment; if neither applies, LangChain’s longer track record and wider ecosystem are still the safer default.",
+      "lastVerified": "2026-07-28"
+    },
+    {
+      "slug": "microsoft-autogen",
+      "name": "Microsoft AutoGen",
+      "tagline": "Microsoft’s open-source framework for orchestrating conversations between multiple AI agents.",
+      "websiteUrl": "https://microsoft.github.io/autogen/",
+      "url": "https://theagentsindex.com/microsoft-autogen",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "multi-agent",
+        "self-hosted",
+        "gpt",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "free",
+      "verdict": "AutoGen is the framework that popularised the “agents conversing with agents” model, and it remains a clean, well-documented and genuinely free way to prototype multi-agent systems in Python or .NET. Its layered design is a real strength: you can start in the high-level AgentChat API and drop into the Core runtime when you need fine-grained control over message passing. The catch is strategic, not technical, and it has hardened since AutoGen’s own SEED write-up: Microsoft’s successor, the Microsoft Agent Framework, is no longer just announced, it reached a production-ready 1.0 GA on 2026-04-03 and is the live recommended path for new projects, while the original authors’ AG2 fork remains genuinely active in parallel (shipping commits within the last week) and controls the old PyPI packages. AutoGen itself hasn’t tagged a release since September 2025. That three-way split is a real, current risk for anyone building something they must maintain for years, and multi-agent loops can be token-heavy and hard to make deterministic. Pick AutoGen today to learn the patterns or extend an existing AutoGen codebase; if you are starting fresh for production, evaluate the Microsoft Agent Framework or AG2 first.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "microsoft-fabric-data-agent",
+      "name": "Microsoft Fabric Data Agent",
+      "tagline": "A governed, natural-language Q&A agent built into Microsoft Fabric — turns plain-English questions into SQL, DAX or KQL over your own lakehouse, warehouse and Power BI data, read-only and permission-scoped.",
+      "websiteUrl": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent",
+      "url": "https://theagentsindex.com/microsoft-fabric-data-agent",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "gpt",
+        "enterprise",
+        "api",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Fabric data agent is the one listing in this index whose \"agent\" ships embedded inside a full enterprise data platform rather than as a standalone product to buy — and that changes what it's actually good at. Its real strength is governance you don't have to build yourself: every query runs on the requesting user's own credentials, respects Power BI Row-/Column-Level Security, and is automatically subject to Microsoft Purview DLP and access-restriction policies, while purpose-built NL2SQL/NL2DAX/NL2KQL routing lets one configured agent span up to five structured sources at once. A public REST API, Python SDK and MCP-based invocation from Copilot Studio and Azure AI Foundry — all made generally available in 2026 — mean it's no longer just a Fabric-portal chatbot; it can be a governed data tool inside a larger multi-agent system. The honest limits are real, though: you cannot change or fine-tune the underlying model, it only reads structured data (no PDFs, no non-English questions), responses are capped at 25 rows and 25 columns, and there is no way to try it without an existing paid Fabric or Power BI Premium capacity — independent estimates put the minimum entry (an always-on F2) at roughly $263/month regardless of whether the data agent itself is ever queried. Pick it if your organization already runs on Fabric or Power BI Premium and wants a governed, natural-language layer over that data without buying a separate product; look elsewhere (or at a general enterprise search platform like Glean) if you need to search unstructured documents, swap models, or don't already have Fabric capacity to run it on.",
+      "lastVerified": "2026-08-01"
+    },
+    {
+      "slug": "moveworks",
+      "name": "Moveworks",
+      "tagline": "Enterprise AI assistant that resolves employee IT, HR and finance requests across 100+ systems — acquired outright by ServiceNow for $2.85B, closed December 2025.",
+      "websiteUrl": "https://www.moveworks.com",
+      "url": "https://theagentsindex.com/moveworks",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "enterprise",
+        "api",
+        "autonomous"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Moveworks is the one listing in this index built for employees, not customers — its AI Assistant resolves IT, HR and finance requests across 100+ connected enterprise systems (ServiceNow, Workday, Okta, Salesforce) rather than handling support tickets from a company's own customers, which puts it in a different lane from Decagon, Sierra, Intercom Fin, Crescendo and Cresta despite a similar \"AI agent that resolves requests end to end\" pitch. Its compliance bar is the deepest in this index — FedRAMP, SOC 2 Type 2, a full ISO 27000-series spread, CSA STAR Level 2 — built for exactly the regulated, security-conscious buyers who read that list line by line. The honest catches: there is no public pricing (third-party buyer reports put realistic annual spend from roughly $50K to $270K+, with a 2-month average implementation and a real configuration learning curve), MCP support is still in development rather than shipped, and — the fact that changes the calculus most — Moveworks is no longer an independent company. ServiceNow completed its $2.85 billion acquisition on December 15, 2025, and buyer analyses already expect pricing to shift toward bundled ServiceNow SKUs going forward. Pick Moveworks if you are a large enterprise (especially one already or soon-to-be running ServiceNow) that wants deeply-certified, employee-facing AI across every department; look elsewhere if you need customer-facing support automation, self-serve pricing, or the roadmap certainty of a standalone company.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "n8n",
+      "name": "n8n",
+      "tagline": "Source-available workflow automation with native AI-agent nodes, self-hostable and integration-rich.",
+      "websiteUrl": "https://n8n.io",
+      "url": "https://theagentsindex.com/n8n",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "open-source",
+        "no-code",
+        "self-hosted",
+        "free-tier",
+        "api",
+        "gpt",
+        "claude",
+        "open-models",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "n8n is the strongest choice for teams that want agentic automation built visually rather than in code, without giving up the integration breadth or self-hosting control that no-code tools usually sacrifice. Its 400+ app integrations plus native AI-agent nodes mean an agent can actually go do something, call an API, update a CRM, post to Slack, not just answer a question. It is fair-code, not OSI open-source, so check the licence before reselling a self-hosted deployment commercially, and deeply branching agent logic can get harder to read on a canvas than in code. It suits ops-style automation with an agent in the loop best; developers who prefer expressing control flow purely as code may find LangGraph or CrewAI a better fit.",
+      "lastVerified": "2026-08-04"
+    },
+    {
+      "slug": "openai-agents-sdk",
+      "name": "OpenAI Agents SDK",
+      "tagline": "OpenAI’s lightweight open-source framework for building agents, handoffs, guardrails and tracing in a few primitives.",
+      "websiteUrl": "https://openai.github.io/openai-agents-python/",
+      "url": "https://theagentsindex.com/openai-agents-sdk",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "multi-agent",
+        "gpt",
+        "self-hosted"
+      ],
+      "apiAvailable": false,
+      "pricing": "free",
+      "verdict": "The OpenAI Agents SDK is the shortest path from idea to a working agent: four clean primitives, agents, handoffs, guardrails and sessions, plus built-in tracing that would otherwise take weeks to build, and a beta “sandbox agents” mode that gives an agent its own persistent file/shell workspace. It is MIT-licensed and free, ships in both Python and TypeScript, and despite the OpenAI branding it is genuinely provider-agnostic, running 100-plus models through LiteLLM. The flip side of that minimalism is real: durable state is limited to `RunState`, a snapshot you capture manually after a run pauses for human approval, not automatic step-by-step checkpointing, and handoffs are linear chains rather than a graph, anything beyond agents-plus-tools-plus-handoffs becomes code you own, which is why teams with genuinely complex, branching or audit-heavy workflows often graduate to LangGraph. It is also young and moving fast, so expect some API churn, and the tracing experience leans on OpenAI’s dashboard. Pick it for support triage, routing and linear tool-using agents you want in production this week; skip it when your workflow needs deterministic branching, automatic mid-run checkpointing or compliance-grade audit trails.",
+      "lastVerified": "2026-07-24"
+    },
+    {
+      "slug": "openai-realtime-api",
+      "name": "OpenAI Realtime API",
+      "tagline": "OpenAI's own speech-to-speech model API for voice agents — WebRTC, WebSocket or native SIP telephony, billed purely on audio tokens with no platform fee.",
+      "websiteUrl": "https://developers.openai.com/api/docs/guides/realtime",
+      "url": "https://theagentsindex.com/openai-realtime-api",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "api",
+        "gpt",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "The OpenAI Realtime API is the rawest option in this category: not an orchestration platform or a managed dashboard, but the actual speech-to-speech model some of this category's own platforms let you plug in as one provider choice among several (LiveKit Agents' plugin ecosystem lists it directly). Going straight to OpenAI trades every convenience those platforms bundle — a dashboard, built-in phone numbers, call analytics, a knowledge base — for direct, usage-based token pricing with no markup and no monthly platform fee, backed by OpenAI's own SOC 2 Type 2 and ISO 27001-family compliance. The tradeoffs are real: sessions cap at 60 minutes, there's no dashboard or built-in CRM, and a developer writes their own tool-calling, session-management and observability code. Pick it over a platform like Vapi or Retell AI when the priority is owning the integration layer entirely and being comfortable single-vendor on OpenAI; pick a platform instead when the priority is a working agent without writing that plumbing.",
+      "lastVerified": "2026-08-03"
+    },
+    {
+      "slug": "opencode",
+      "name": "OpenCode",
+      "tagline": "A free, open-source (MIT) AI coding agent for the terminal, desktop and IDE, bring any of 75+ model providers, including your own local Ollama models.",
+      "websiteUrl": "https://opencode.ai/",
+      "url": "https://theagentsindex.com/opencode",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "api",
+        "self-hosted",
+        "open-models",
+        "gpt",
+        "claude"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "OpenCode’s core pitch is real: it costs nothing to run, is genuinely open-source under MIT, and connects to essentially any model — 75+ cloud providers plus local Ollama — rather than betting on one vendor the way Claude Code or Cursor do. That flexibility, combined with a very fast release cadence (a new version roughly every few days) and a large, active GitHub community (188,976 stars as of this listing’s research date), makes it a credible pick for developers who already have a preferred model or subscription and do not want a second bill. The honest catches: its disclosed 2026-01-12 security history includes one critical and one high-severity advisory (both patched, but real), an open GitHub issue is still tracking real memory-growth complaints as of this listing’s research date, and a dead, similarly-named repository (opencode-ai/opencode) makes it easy to land on the wrong project by accident. Pick OpenCode if free, open-source and model flexibility matter more to you than a single polished vendor experience; pick Claude Code or Cursor instead if you would rather pay for one vendor’s managed reliability and support.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "openhands",
+      "name": "OpenHands",
+      "tagline": "Open source AI agent platform for cloud coding agents, from free local use to enterprise self-hosted deployment.",
+      "websiteUrl": "https://all-hands.dev",
+      "url": "https://theagentsindex.com/openhands",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "api",
+        "autonomous",
+        "multi-agent",
+        "enterprise",
+        "free-tier",
+        "gpt",
+        "claude"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "OpenHands is a credible, community-backed choice for engineering teams that want an open source, self-hostable coding agent platform rather than a closed SaaS tool. Its free OSS core, embeddable SDK, and enterprise-grade sandboxed deployment options make it flexible for both solo developers and security-conscious organizations, provided you're willing to accept a more technical setup process — whether you bring your own LLM API key or pay OpenHands' own at-cost rate for model usage.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "perplexity",
+      "name": "Perplexity",
+      "tagline": "The AI answer engine, with agentic Deep Research and the Comet browser that acts on the web for you.",
+      "websiteUrl": "https://www.perplexity.ai",
+      "url": "https://theagentsindex.com/perplexity",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "api",
+        "free-tier",
+        "autonomous",
+        "browser-use",
+        "enterprise",
+        "claude",
+        "gpt"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Perplexity is the most refined AI answer engine available, and calling it an ‘agent’ is fair only because of the layers it has added on top: Deep Research, which autonomously compiles a cited report, and Comet, a browser whose built-in agent can act on the web for you. For everyday sourced answers it is hard to beat, and per-query model choice across Sonar, GPT, Claude, Gemini and now GLM and Kimi means you are not tied to one model’s weaknesses. The honest caveats are that it is still, at heart, a question-answering tool rather than a general workflow agent, and that like any LLM search product it can occasionally hallucinate or cite a source that doesn’t quite back the claim — so verification still matters. The best agentic pieces also live on the pricier Max and Enterprise tiers. Pick Perplexity if you want first-class sourced answers plus an autonomous research mode and an agentic browser in one place; skip it if you need a self-hosted or fully programmable task agent.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "polyai",
+      "name": "PolyAI",
+      "tagline": "The pre-LLM-era enterprise voice AI incumbent — $750M-valued, 200+ enterprise customers — sales-led only again after a May 2026 self-serve tier went away.",
+      "websiteUrl": "https://poly.ai",
+      "url": "https://theagentsindex.com/polyai",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "autonomous",
+        "api",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "PolyAI is the pre-LLM-era incumbent of the voice-agent category — founded in 2017, years before Vapi, Retell AI, Bland AI or ElevenLabs Conversational AI existed — with real enterprise scale to show for it: 200+ customers, thousands of live deployments, a $750M valuation, and a Forrester study (vendor-commissioned, but methodologically disclosed) modeling 391% three-year ROI for a composite enterprise customer. For about three months from May 2026, it was also briefly the most open platform in this category: a genuine self-serve tier, free for two months from just an email address. That window appears to have closed — re-verified live in August 2026, PolyAI’s own pricing and marketing pages no longer mention a free period or email-only signup, and independent 2026 pricing reviews now describe it as having no free tier, no trial and no self-serve access at all, with a sales demo as the only way in. So the honest current state is the same one PolyAI ran for its first eight years: proven, compliance-certified, enterprise-scale voice AI, reached entirely through a sales conversation, with no public rate card (third-party estimates put typical contracts around $150,000/year and up). Pick PolyAI if enterprise scale and compliance depth matter more than a fast, self-serve start; go in expecting to talk to sales before you see a price or use the product at all.",
+      "lastVerified": "2026-08-08"
+    },
+    {
+      "slug": "pydantic-ai",
+      "name": "Pydantic AI",
+      "tagline": "The type-safe agent framework from the Pydantic team, that FastAPI feeling for building AI agents.",
+      "websiteUrl": "https://ai.pydantic.dev",
+      "url": "https://theagentsindex.com/pydantic-ai",
+      "tier": "Listed",
+      "categories": [
+        "frameworks"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "multi-agent",
+        "self-hosted",
+        "gpt",
+        "claude",
+        "open-models"
+      ],
+      "apiAvailable": false,
+      "pricing": "free",
+      "verdict": "Pydantic AI brings the same discipline that made Pydantic and FastAPI ubiquitous to agent building: define your agent and its output with Python type hints, and the framework validates every model response against them, catching malformed outputs at the boundary instead of deep in production. It is MIT-licensed and free, genuinely model-agnostic across OpenAI, Anthropic, Gemini and many more, and its dependency-injection system and lightweight runtime make for an unusually pleasant, low-boilerplate developer experience. It has matured fast: a stable 1.0 in September 2025, then a backwards-incompatible 2.0 on 2026-06-23 that added official durable-execution integrations (Temporal, DBOS, Prefect and Restate) and native AG-UI/A2A protocol support, closing much of the gap with graph-orchestration frameworks on long-running, checkpointed and human-in-the-loop workflows. The trade-offs have narrowed but not disappeared: it still ships fewer pre-built integrations than LangChain, and durable execution is something you operate yourself via an external orchestrator rather than a built-in, zero-infrastructure engine, and LangGraph’s native graph-branching model still goes deeper for the most complex, stateful orchestration. The best observability story also runs through Pydantic’s own Logfire product. Pick Pydantic AI when you want type-safe, validated outputs with minimal ceremony and are willing to wire in an orchestrator when you need production-grade durability; skip it when you want the deepest native graph-branching control or a fully built-in durability engine with nothing extra to operate.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "qualified",
+      "name": "Qualified",
+      "tagline": "Piper, the inbound AI SDR, engages website visitors in real time, qualifies them against your ICP and books the meeting. Salesforce-native; Salesforce itself acquired the company in April 2026.",
+      "websiteUrl": "https://www.qualified.com",
+      "url": "https://theagentsindex.com/qualified",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Qualified earns its place in this category by being genuinely differentiated from the outbound-first AI SDRs that dominate it: Piper works inbound, live, on your website and in your inbox, deeply wired into Salesforce rather than treating the CRM as just another integration. The named case studies (Asana, Greenhouse) and the fact that Salesforce itself paid roughly $1.2 billion to acquire the company outright in April 2026 are real, verifiable signals of substance, not just marketing claims. The honest catches: Salesforce is a hard requirement, not an option, pricing is entirely custom (independent procurement data puts the median deal at $61,000/year), and — now that Salesforce owns it — the product's future is tied to Agentforce's roadmap rather than an independent vendor's. Pick Qualified if you're Salesforce-native and your bottleneck is converting inbound traffic; skip it if you need outbound prospecting or run on a different CRM.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "relevance-ai",
+      "name": "Relevance AI",
+      "tagline": "Build and run an \"AI workforce\", teams of no-code agents that do real sales, ops and research work.",
+      "websiteUrl": "https://relevanceai.com",
+      "url": "https://theagentsindex.com/relevance-ai",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "no-code",
+        "api",
+        "free-tier",
+        "multi-agent",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Relevance AI is one of the more serious \"agent platform\" plays: it’s built from the ground up for multi-agent workforces, with the unglamorous production plumbing, an LLM router, evals, tracing, approvals and RBAC/SSO, that separates a demo from something you’d trust with live pipeline. The cost-optimising router and bring-your-own-keys option are genuinely useful for keeping AI spend sane. The tradeoffs are real: the dual meter of Actions plus Vendor Credits is easy to misjudge on AI-heavy agents, the flagship Bosh BDR is a custom enterprise onboarding rather than a self-serve click, and the public pricing page now leads with \"talk to sales.\" Pick Relevance AI if you want to build coordinated agent teams with enterprise-grade control and will invest in learning it; skip it if you need a single quick bot, open-source self-hosting, or perfectly predictable flat pricing.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "replit-agent",
+      "name": "Replit Agent",
+      "tagline": "Describe an app and Replit Agent builds, tests and deploys it in your browser, a full-stack app factory for anyone.",
+      "websiteUrl": "https://replit.com/ai",
+      "url": "https://theagentsindex.com/replit-agent",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "free-tier",
+        "no-code",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Replit Agent is the most accessible way to turn a plain-language idea into a running, deployed app: it writes the code, provisions a database, adds auth, tests itself in a browser and ships to a live URL, all in one tab, and Agent 3 can grind autonomously for up to ~200 minutes fixing its own bugs. Agent 4, launched March 2026 alongside a $400M Series D at a $9B valuation (3x six months earlier), pushes further into collaborative, multi-artifact building — an Infinite Canvas and parallel, mergeable task threads for building a web app, mobile app and landing page in the same project — though independent benchmarks of Agent 4 specifically are not yet public. For founders and non-engineers that is genuinely powerful — there is nothing local to install and a free Starter tier to try. The honest catch is cost and control: effort-based credit billing can escalate quickly, with real feature work costing dollars per prompt and heavy users routinely blowing past the monthly credit pool, and the generated code can be hard to maintain as an app grows. It is also cloud-only and closed. Pick Replit Agent if you value speed and accessibility and want a deployed app fast; skip it if you need full control of your own toolchain or predictable, bounded costs on large projects.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "retell-ai",
+      "name": "Retell AI",
+      "tagline": "A voice AI platform for human-sounding phone agents, build a call flow, plug in your model and telephony, ship.",
+      "websiteUrl": "https://www.retellai.com",
+      "url": "https://theagentsindex.com/retell-ai",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "open-models",
+        "enterprise",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Retell AI is one of the strongest developer-first voice platforms, and its reputation rests on the two things that matter most on a phone call: natural voice quality and low latency, backed by a proprietary turn-taking model at around 600ms. You assemble the stack — LLM, voice, telephony — and get a real builder, an auto-syncing knowledge base, batch calling and simulation testing, plus a broad set of CRM and contact-centre integrations. The trade-offs are the usual ones for this class: component pricing that starts at $0.07/min but realistically lands north of $0.13–$0.20/min once fully specced, and a learning curve that assumes technical staff. Pick Retell if you want top-tier voice quality with control over the stack; skip it if you need a no-code tool with predictable flat pricing and hands-on support.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "rox",
+      "name": "Rox",
+      "tagline": "An AI-native revenue operating system, \"agent swarms\" (one per account) that research, monitor and update your existing CRM across the whole deal lifecycle, with a genuine free self-serve tier.",
+      "websiteUrl": "https://www.rox.com",
+      "url": "https://theagentsindex.com/rox",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "free-tier",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Rox's real differentiation in this category is scope, not automation intensity: Clay is a data-enrichment engine, 11x and Artisan run autonomous outbound sequences, and Qualified works inbound website traffic, Rox instead assigns a persistent agent to every account and keeps researching, monitoring and updating your existing CRM across the whole relationship, answered through plain-English queries rather than a new dashboard to learn. The named case studies (Ramp, MongoDB, New Relic) and a rare real self-serve price (free Starter tier, $50/month Core) back that up with more transparency than most enterprise-focused rivals in this category offer. The honest catches: no confirmed public API for custom integration work, the free/Core action allowances are modest for a real book of accounts, and at two years old it carries far less production history than the CRMs it plugs into. Pick Rox if continuous account intelligence and CRM hygiene are the bottleneck; skip it if you specifically need outbound-sequence automation or a documented API.",
+      "lastVerified": "2026-07-24"
+    },
+    {
+      "slug": "salesforce-agentforce",
+      "name": "Salesforce Agentforce",
+      "tagline": "Salesforce's enterprise agentic-AI platform (rebranded \"Agentforce 360\") — prebuilt Service, SDR, Sales Coach and Commerce agents plus a low-code builder, running on live CRM data.",
+      "websiteUrl": "https://www.salesforce.com/agentforce/",
+      "url": "https://theagentsindex.com/salesforce-agentforce",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [
+        "enterprise",
+        "api",
+        "free-tier",
+        "gpt",
+        "claude"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Agentforce is the CRM-native heavyweight of this category — no other general-purpose platform here puts agents this close to a company's actual sales, service and commerce data, and it backs that up with genuine model-agnostic support (GPT-5.x, Claude, Gemini) and a real developer surface (Agent API, Python SDK, CLI) rather than a walled-garden chatbot. The honest cost is Salesforce's own complexity: a Flex Credits/Conversations pricing model that has already reshaped itself multiple times since its October 2024 launch, a hard dependency on Data Cloud (now Data 360) for full cross-system context, and independent reports of multi-month rollouts and a real learning curve. Pick Agentforce if you're already deep in the Salesforce ecosystem and want agents acting directly on live CRM data; skip it if you want a lightweight platform you can stand up quickly outside that ecosystem, or predictable flat per-seat pricing.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "sierra",
+      "name": "Sierra",
+      "tagline": "Bret Taylor’s enterprise agent platform, branded AI agents that resolve customer issues end to end, priced on outcomes.",
+      "websiteUrl": "https://sierra.ai",
+      "url": "https://theagentsindex.com/sierra",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms",
+        "support-agents"
+      ],
+      "tags": [
+        "enterprise",
+        "autonomous",
+        "no-code"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Sierra is the enterprise standard-bearer for customer-experience agents, and the pedigree is real: co-founded by Bret Taylor and Clay Bavor, it reached $150M+ ARR by February 2026, has raised roughly $1.585 billion at a valuation above $15 billion, and is used across more than 40% of the Fortune 50. What sets it apart is depth, agents don’t just answer, they act, completing refunds and account changes across chat, voice, email and more, wrapped in serious tooling for building, supervising and testing them. Its outcome-based pricing (pay for resolutions, escalations free) is a genuinely aligned model. The flip side is access: it is sales-led with no public pricing, no free tier and a gated SDK, so it is neither quick to trial nor a fit for smaller teams. Pick Sierra if you are an enterprise that wants autonomous agents doing real work; skip it if you need self-serve, transparent pricing or an open API.",
+      "lastVerified": "2026-07-24"
+    },
+    {
+      "slug": "skipcalls",
+      "name": "SkipCalls",
+      "tagline": "AI phone receptionist that answers missed calls, filters spam, and books appointments for small businesses",
+      "websiteUrl": "https://skipcalls.com",
+      "url": "https://theagentsindex.com/skipcalls",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "SkipCalls is a straightforward AI receptionist aimed at small businesses that lose leads to missed calls, with easy carrier-forwarding setup, spam filtering, bilingual answering, and solid integration coverage for calendars and CRMs. The main things to check before committing are the mismatched pricing between its website and app store listing and the unpublished cost of higher tiers needed for webhooks or unlimited agents.",
+      "lastVerified": "2026-07-31"
+    },
+    {
+      "slug": "synthflow-ai",
+      "name": "Synthflow AI",
+      "tagline": "A no-code voice AI platform for enterprise phone agents — a visual Flow Designer and a structured Build-Evaluate-Launch-Learn deployment cycle, billed by the minute in separate components.",
+      "websiteUrl": "https://synthflow.ai",
+      "url": "https://theagentsindex.com/synthflow-ai",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "no-code",
+        "api",
+        "enterprise",
+        "multi-agent"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Synthflow AI's real differentiation is who can operate it: a genuinely visual, no-code Flow Designer and a named BELL deployment methodology mean an operations or CX team can design, test and launch a phone agent without an engineering ticket — a different buyer than the developer-first Vapi and Retell AI. That is backed by real scale ($20M Series A led by Accel, 45M+ calls processed) and an unusually complete compliance set (SOC 2, HIPAA, GDPR, PCI DSS, ISO 27001) for the funding stage. The honest catches are the same component-pricing pattern its rivals share — the $0.09/min headline is one of three billed pieces, and a real configuration lands near $0.11–$0.16/min before add-ons — plus no self-serve monthly plan (only metered usage or a ~$30,000/year Enterprise contract) and an LLM choice currently limited to OpenAI models. Pick Synthflow if you want a no-code path to a compliant phone agent and don't need to choose your own model; skip it if you want full API control, any-LLM flexibility, or a predictable low-commitment self-serve price.",
+      "lastVerified": "2026-07-30"
+    },
+    {
+      "slug": "undermind",
+      "name": "Undermind",
+      "tagline": "An AI literature-discovery agent that reads hundreds of full papers and follows citation trails, then reports how much of the literature it actually covered.",
+      "websiteUrl": "https://www.undermind.ai",
+      "url": "https://theagentsindex.com/undermind",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "free-tier",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Undermind is the discovery-focused entry in this category: instead of screening papers you already found against inclusion criteria (Elicit's job) or answering an open-web question (Perplexity, Manus, GC AI's different domains), it tries to find the papers a conventional keyword search misses, by reading full texts and following citation trails, and it tells you roughly how complete that search was via its \"discovery curve\" model. An independent peer-reviewed review backs the core pitch — it genuinely surfaces papers others miss — but the same review is equally direct about the trade-offs: no reproducible search strategy (its self-described \"Achilles heel\"), an 8-10 minute turnaround too slow for point-of-care use, and no MeSH integration. It also has no API today, unlike Elicit. Pick Undermind when the job is exploratory discovery or a novelty check on a niche or cross-disciplinary question; pick Elicit instead when you need a documented, repeatable screening process for a formal systematic review.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "unify",
+      "name": "Unify",
+      "tagline": "A single conversational GTM agent for warm outbound — self-serve from $0, built to augment a seller rather than replace one.",
+      "websiteUrl": "https://www.unifygtm.com",
+      "url": "https://theagentsindex.com/unify",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "free-tier",
+        "gpt"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Unify fills a real, previously under-served position in this category's GTM-outbound cluster: cheaper and far more transparent than Clay's usage-based ($167+/month) enrichment canvas, and self-serve where 11x and Artisan are both entirely custom-quoted and sales-gated. It explicitly positions itself as a productivity layer for a human seller rather than an autonomous replacement, wrapping list-building, enrichment, signal-based prioritization and sequencing into one chat-based agent instead of a spreadsheet-style workflow builder. The catch: it just completed a dramatic pricing-model pivot — several third-party sources published within the last few months still describe a completely different enterprise-only motion — so treat pricing found outside unifygtm.com/pricing itself as potentially stale, and its deepest features (GPT-5.5, write-access CRM sync, website intent signals) still sit behind a custom Business tier. Pick Unify if you want an accessible, self-serve GTM agent that augments a rep rather than replacing one; skip it if you specifically want Clay's build-your-own depth or 11x/Artisan's fully autonomous outbound motion.",
+      "lastVerified": "2026-07-24"
+    },
+    {
+      "slug": "vapi",
+      "name": "Vapi",
+      "tagline": "The developer platform for voice AI agents, bring your own model, voice and telephony, and Vapi orchestrates the call.",
+      "websiteUrl": "https://vapi.ai",
+      "url": "https://theagentsindex.com/vapi",
+      "tier": "Listed",
+      "categories": [
+        "voice-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "multi-agent",
+        "open-models",
+        "enterprise",
+        "gpt",
+        "claude"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Vapi is the builder’s choice for voice AI: an API-first, model-agnostic platform that hands developers control over every layer — transcription, model, voice and telephony — with real-time orchestration and sub-500ms latency. Its bring-your-own-provider design means you can chase the best model or cheapest voice without rebuilding the agent, and enterprise features (HIPAA, zero-data-retention, SLAs) let it scale to millions of calls. The honest catch is cost transparency: the $0.05/min headline is only the orchestration fee, and the true all-in rate is usually several times that once you add a model, a good voice and telephony. Pick Vapi if you have engineers who want to build a bespoke voice agent and own the stack; skip it if you want a no-code tool that hides the plumbing.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "vecbase",
+      "name": "Vecbase",
+      "tagline": "A shared workspace where AI agents with roles like Researcher, Coder, and Writer work as a team",
+      "websiteUrl": "https://vecbase.com",
+      "url": "https://theagentsindex.com/vecbase",
+      "tier": "Listed",
+      "categories": [
+        "agent-platforms"
+      ],
+      "tags": [],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Vecbase packages multi-agent collaboration, shared memory and files, built-in AI capabilities, and one-click integrations into a single subscription, which is appealing for teams tired of stitching together separate tools. The tradeoffs are a hard cap of 10 agents per workspace, usage-based overage billing on top of the base plan, no free trial, and documentation that leans heavily on Chinese, all worth weighing before committing.",
+      "lastVerified": "2026-07-23"
+    },
+    {
+      "slug": "warmly",
+      "name": "Warmly",
+      "tagline": "Website-visitor de-anonymization plus two named AI agents — Inbound Agent and TAM Agent — that engage and route identified visitors automatically.",
+      "websiteUrl": "https://warmly.ai",
+      "url": "https://theagentsindex.com/warmly",
+      "tier": "Listed",
+      "categories": [
+        "sales-marketing-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Warmly's real differentiation is that it doesn't stop at identifying anonymous visitors — it pairs that data with two purpose-built agents that act on it: an Inbound Agent that engages whoever is already on the site, and a TAM Agent that maps and works accounts that aren't there yet, both drawing on the same combined first/second/third-party signal layer. Real named customers (New Relic, Cyberhaven, CircleCI) and $21.9M raised since 2020 back a company past the earliest stage. The honest catches: person-level identification (the harder, more valuable half of \"de-anonymization\") is independently reported well below what specialist identification tools claim, and as of today there is no self-serve monthly plan or free tier at all — every paid tier is a quarterly-or-annual contract starting at $4,875/quarter. Pick Warmly if you have real inbound volume and want one system for both engaging visitors and orchestrating outbound around them; skip it if you want to trial something free or month-to-month first, or if your traffic doesn't clear the volume where person-level matching pays off.",
+      "lastVerified": "2026-07-30"
+    },
+    {
+      "slug": "warp",
+      "name": "Warp",
+      "tagline": "The AI-native terminal that replaces your shell and orchestrates Claude Code, Codex and its own Warp Agent side by side.",
+      "websiteUrl": "https://www.warp.dev",
+      "url": "https://theagentsindex.com/warp",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "multi-agent",
+        "api",
+        "claude",
+        "gpt",
+        "enterprise",
+        "autonomous"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Warp is the one listing in this category that isn't really competing with Claude Code or Codex CLI so much as hosting them: it's a full terminal replacement whose headline capability is running multiple vendors' coding agents side by side in one place, with team-wide context (Warp Drive), a real API for triggering cloud agent runs programmatically (Oz), and — since April 2026 — a genuinely open-source client backed by 63.6k GitHub stars and OpenAI as founding sponsor. The tradeoff is scope: adopting Warp means switching your terminal application, not just adding a CLI tool, and its paid tiers are metered in credits that can climb fast under heavy daily use — the $200/month Max tier exists precisely because Build's 1,500 credits run out for power users. Pick Warp if you want one AI-native home for every coding agent you use and are willing to make it your default terminal; stick with a standalone CLI agent if you'd rather keep your current terminal untouched.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "webhound",
+      "name": "Webhound",
+      "tagline": "An AI research agent priced by the dollar, not a subscription — set a budget, get a cited report or a sourced dataset back, with a native MCP server for Claude, Codex and Cursor.",
+      "websiteUrl": "https://www.webhound.ai",
+      "url": "https://theagentsindex.com/webhound",
+      "tier": "Listed",
+      "categories": [
+        "research-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "browser-use"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Webhound's pitch is refreshingly literal: give it a research task and a dollar figure, and it keeps searching, reading and verifying until the budget runs out, with no subscription, no seat count and none of the opaque per-action credit pricing some rival agents use. Its two output modes are a real point of difference inside this site's research-agents category: a Report reads like a cited answer, while a Dataset behaves more like a structured deliverable, but with a source trail attached to every individual value rather than just the document as a whole, genuinely useful for market-mapping or lead-list work and not only narrative Q&A. Its MCP server is the other real differentiator: Claude, Codex and Cursor can trigger a Webhound run and read the output as a tool call, an integration none of this category's other listings currently offer as a first-class feature. The honest catches: this is a two-person, YC-backed team that has already rebuilt its own pricing and interface more than once since a mid-2025 launch as a free tool, its own blog is candid that building trust in AI-generated research is still an open problem it is actively working on rather than a solved one, and it makes no claim to a specialized corpus the way Elicit, Undermind or GC AI do — it researches the open web generally, same as Perplexity or GPT Researcher, just priced and delivered differently. Pick Webhound for agent-triggered research callable from inside Claude Code or Cursor, or for a sourced dataset rather than a narrative report; look elsewhere if a specialized corpus or an established, multi-year track record matters more than novel pricing and delivery.",
+      "lastVerified": "2026-08-08"
+    },
+    {
+      "slug": "windsurf",
+      "name": "Windsurf (now Devin Desktop)",
+      "tagline": "The agentic IDE that was Codeium, then Windsurf, now Cognition’s Devin Desktop, a command centre for coding agents.",
+      "websiteUrl": "https://devin.ai/desktop",
+      "url": "https://theagentsindex.com/windsurf",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "free-tier",
+        "autonomous",
+        "multi-agent",
+        "claude",
+        "gpt",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Windsurf was one of the best agentic IDEs of its generation, and as Devin Desktop it is now something more ambitious: a vendor-neutral command centre where local and cloud agents — Cognition’s own plus Claude Agent and Codex via the open ACP — run inside one polished editor (Gemini CLI could too, but Google restricted free access to it in June 2026, and its Antigravity CLI replacement isn’t ACP-compatible yet). That openness is a real differentiator in a field of walled-garden tools, and the shared free/$20 subscription with Devin makes it easy to try. The cost is turbulence: Codeium became Windsurf, Windsurf became Devin Desktop, and the original Cascade agent was switched off on 1 July 2026 — a lot of change for a tool teams use daily. Its default SWE models are also a notch behind frontier models on the hardest tasks, though you can route to those. Pick it if you want an open, multi-agent desktop IDE and are comfortable inside Cognition’s ecosystem; skip it if you want a lightweight editor extension or you specifically wanted the standalone Windsurf that no longer exists.",
+      "lastVerified": "2026-07-27"
+    },
+    {
+      "slug": "zed",
+      "name": "Zed",
+      "tagline": "The open-source, GPU-native code editor built from scratch by Atom's creators — runs Claude Code, Codex and other agents via the open Agent Client Protocol it created. Free forever; Pro from $10/month.",
+      "websiteUrl": "https://zed.dev",
+      "url": "https://theagentsindex.com/zed",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "free-tier",
+        "multi-agent",
+        "claude",
+        "gpt",
+        "self-hosted",
+        "open-models",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "freemium",
+      "verdict": "Zed's real differentiation in this index isn't a single proprietary agent, it's the platform decision underneath every rival: Cursor and Windsurf both forked VS Code and built one closed-source agent into it; GitHub Copilot is tied to GitHub's own stack. Zed rebuilt the editor from zero in Rust for GPU-native performance, then open-sourced the connection layer itself — the Agent Client Protocol — so Claude Code, OpenAI Codex, Gemini CLI, GitHub Copilot and others run natively inside Zed as swappable External Agents, and JetBrains now speaks the same protocol in its own IDEs. That buys real vendor-independence and raw editor speed, but it's genuinely earlier-stage on ecosystem maturity: Zed's own extension catalog is, in its own words, \"hundreds\" of community packages against VS Code's much larger marketplace; remote development requires bringing your own SSH-reachable server (no managed, Codespaces-style cloud environment, and Windows isn't yet supported as a remote target); and its DAP-based debugger — documented as breakpoints, stepping and variable inspection — doesn't list the watch-window and data-breakpoint features VS Code's debugger has had for years. Pick Zed if editor performance and not being locked into one vendor's built-in agent matter more to you than ecosystem breadth; stay on Cursor or GitHub Copilot for the single most mature, batteries-included agent experience today.",
+      "lastVerified": "2026-07-25"
+    },
+    {
+      "slug": "zendesk-ai-agents",
+      "name": "Zendesk AI Agents",
+      "tagline": "The AI agent built into Zendesk's own helpdesk Suite — resolves tickets across messaging, email and voice, billed per Verified Resolution on top of a per-seat plan.",
+      "websiteUrl": "https://www.zendesk.com/service/ai/ai-agents/",
+      "url": "https://theagentsindex.com/zendesk-ai-agents",
+      "tier": "Listed",
+      "categories": [
+        "support-agents"
+      ],
+      "tags": [
+        "api",
+        "autonomous",
+        "enterprise"
+      ],
+      "apiAvailable": false,
+      "pricing": "paid",
+      "verdict": "Zendesk AI Agents' real pitch isn't that it out-resolves Fin or Decagon — it's that the agent ships inside the helpdesk platform millions of support teams already run tickets on, so there's no second vendor, no separate integration project, and a multi-model backbone (OpenAI, Anthropic, Google, Bedrock) that isn't locked to one provider. The May 2026 billing restructuring is a genuine improvement: it stopped charging for escalations and abandoned conversations, addressing exactly the \"assumed resolution\" complaint that dogs Intercom Fin. But convenience costs predictability: AI Agents aren't sold standalone, so total spend stacks a $55-$115+/agent/month Suite fee on top of an undisclosed per-resolution rate that independent analysis puts around $1.20-$1.50 — and that rate has already been restructured once in 2026, so multi-year cost modeling means trusting a moving target rather than a stable, published price like Fin's $0.99/resolution. Pick Zendesk AI Agents if you're already on (or moving to) Zendesk and want one vendor for tickets and AI; pick Fin or a standalone specialist instead if you want the AI agent decoupled from your helpdesk choice, or a single number you can budget against.",
+      "lastVerified": "2026-08-01"
+    },
+    {
+      "slug": "zot",
+      "name": "Zot",
+      "tagline": "A free, MIT-licensed coding-agent harness in one Go binary, branch any session from any past message and view it as a tree, plus a Telegram bridge.",
+      "websiteUrl": "https://zot.sh",
+      "url": "https://theagentsindex.com/zot",
+      "tier": "Listed",
+      "categories": [
+        "coding-agents"
+      ],
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "free-tier",
+        "api",
+        "claude",
+        "gpt",
+        "open-models",
+        "multi-agent"
+      ],
+      "apiAvailable": false,
+      "pricing": "free",
+      "verdict": "Zot earns its place with a real, working idea: fork any past message in a coding session into a new branch and see the whole tree at a glance, all from one free, MIT-licensed Go binary with no Docker or Node runtime. It backs that up with genuine breadth — 30+ model providers, local Ollama support, a Telegram bridge, background swarm subagents, and an importable Go SDK for developers who want to build their own harness on top of it — and it ships fast, with 303 releases and 10+ contributors since an April 2026 start. The honest catches are the ones the maintainer discloses directly: the OAuth-reuse trick that lets it bill through a Claude/ChatGPT subscription is, by the README's own admission, a likely terms-of-service violation that could be revoked at any time (the API-key flow sidesteps this), the docs call the project \"beta forever\" rather than production-stable, and the TUI is admitted to be almost entirely AI-generated. Pick Zot if you want a free, fast, Go-native harness with real branching-session control and are comfortable with fast-moving independent software; pick Juggler instead if you want the same branching-tree idea with a GUI, or a first-party vendor tool if you need managed support and want to avoid any OAuth-reuse risk entirely.",
+      "lastVerified": "2026-07-27"
+    }
+  ]
+}

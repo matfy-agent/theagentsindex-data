@@ -1,0 +1,24 @@
+{
+  "slug": "pydantic-ai",
+  "name": "Pydantic AI",
+  "tagline": "The type-safe agent framework from the Pydantic team, that FastAPI feeling for building AI agents.",
+  "websiteUrl": "https://ai.pydantic.dev",
+  "url": "https://theagentsindex.com/pydantic-ai",
+  "tier": "Listed",
+  "categories": [
+    "frameworks"
+  ],
+  "tags": [
+    "open-source",
+    "free-tier",
+    "multi-agent",
+    "self-hosted",
+    "gpt",
+    "claude",
+    "open-models"
+  ],
+  "apiAvailable": false,
+  "pricing": "free",
+  "verdict": "Pydantic AI brings the same discipline that made Pydantic and FastAPI ubiquitous to agent building: define your agent and its output with Python type hints, and the framework validates every model response against them, catching malformed outputs at the boundary instead of deep in production. It is MIT-licensed and free, genuinely model-agnostic across OpenAI, Anthropic, Gemini and many more, and its dependency-injection system and lightweight runtime make for an unusually pleasant, low-boilerplate developer experience. It has matured fast: a stable 1.0 in September 2025, then a backwards-incompatible 2.0 on 2026-06-23 that added official durable-execution integrations (Temporal, DBOS, Prefect and Restate) and native AG-UI/A2A protocol support, closing much of the gap with graph-orchestration frameworks on long-running, checkpointed and human-in-the-loop workflows. The trade-offs have narrowed but not disappeared: it still ships fewer pre-built integrations than LangChain, and durable execution is something you operate yourself via an external orchestrator rather than a built-in, zero-infrastructure engine, and LangGraph’s native graph-branching model still goes deeper for the most complex, stateful orchestration. The best observability story also runs through Pydantic’s own Logfire product. Pick Pydantic AI when you want type-safe, validated outputs with minimal ceremony and are willing to wire in an orchestrator when you need production-grade durability; skip it when you want the deepest native graph-branching control or a fully built-in durability engine with nothing extra to operate.",
+  "lastVerified": "2026-07-25"
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "mastra",
+  "name": "Mastra",
+  "tagline": "The TypeScript-native agent framework — agents, durable workflows, memory and observability in one Apache-2.0 package, with an optional managed cloud platform.",
+  "websiteUrl": "https://mastra.ai",
+  "url": "https://theagentsindex.com/mastra",
+  "tier": "Listed",
+  "categories": [
+    "frameworks"
+  ],
+  "tags": [
+    "open-source",
+    "self-hosted",
+    "api",
+    "free-tier",
+    "gpt",
+    "claude",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Mastra is the one genuinely TypeScript-native entrant in a category otherwise built Python-first with JS bindings layered on — a real, defensible niche for full-stack JS and Next.js teams who don’t want to stand up a separate Python service just to add an agent. It unifies agents, durable typed workflows, memory and observability in one Apache-2.0 package that is free to self-host, backed by real commercial traction ($35M raised, a Spark Capital-led Series A, and named production customers including Replit, Sanity, MongoDB, Brex and Marsh). The tradeoffs are real too: it is TypeScript-only with no Python path at all, its ecosystem is a fraction of LangChain’s size and age, its deepest enterprise controls sit behind a separate source-available license rather than the open core, and its optional Mastra Cloud platform bills across several metered dimensions rather than one flat number. Pick it if you are building in the JS/TS stack and want an integrated framework designed for that world from day one; pick something with a longer track record if Python is your default or you need the widest possible integration ecosystem today.",
+  "lastVerified": "2026-07-27"
+}

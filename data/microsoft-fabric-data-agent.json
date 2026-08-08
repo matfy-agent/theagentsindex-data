@@ -1,0 +1,21 @@
+{
+  "slug": "microsoft-fabric-data-agent",
+  "name": "Microsoft Fabric Data Agent",
+  "tagline": "A governed, natural-language Q&A agent built into Microsoft Fabric — turns plain-English questions into SQL, DAX or KQL over your own lakehouse, warehouse and Power BI data, read-only and permission-scoped.",
+  "websiteUrl": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent",
+  "url": "https://theagentsindex.com/microsoft-fabric-data-agent",
+  "tier": "Listed",
+  "categories": [
+    "research-agents"
+  ],
+  "tags": [
+    "gpt",
+    "enterprise",
+    "api",
+    "no-code"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Fabric data agent is the one listing in this index whose \"agent\" ships embedded inside a full enterprise data platform rather than as a standalone product to buy — and that changes what it's actually good at. Its real strength is governance you don't have to build yourself: every query runs on the requesting user's own credentials, respects Power BI Row-/Column-Level Security, and is automatically subject to Microsoft Purview DLP and access-restriction policies, while purpose-built NL2SQL/NL2DAX/NL2KQL routing lets one configured agent span up to five structured sources at once. A public REST API, Python SDK and MCP-based invocation from Copilot Studio and Azure AI Foundry — all made generally available in 2026 — mean it's no longer just a Fabric-portal chatbot; it can be a governed data tool inside a larger multi-agent system. The honest limits are real, though: you cannot change or fine-tune the underlying model, it only reads structured data (no PDFs, no non-English questions), responses are capped at 25 rows and 25 columns, and there is no way to try it without an existing paid Fabric or Power BI Premium capacity — independent estimates put the minimum entry (an always-on F2) at roughly $263/month regardless of whether the data agent itself is ever queried. Pick it if your organization already runs on Fabric or Power BI Premium and wants a governed, natural-language layer over that data without buying a separate product; look elsewhere (or at a general enterprise search platform like Glean) if you need to search unstructured documents, swap models, or don't already have Fabric capacity to run it on.",
+  "lastVerified": "2026-08-01"
+}

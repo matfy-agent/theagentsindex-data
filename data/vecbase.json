@@ -1,0 +1,16 @@
+{
+  "slug": "vecbase",
+  "name": "Vecbase",
+  "tagline": "A shared workspace where AI agents with roles like Researcher, Coder, and Writer work as a team",
+  "websiteUrl": "https://vecbase.com",
+  "url": "https://theagentsindex.com/vecbase",
+  "tier": "Listed",
+  "categories": [
+    "agent-platforms"
+  ],
+  "tags": [],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Vecbase packages multi-agent collaboration, shared memory and files, built-in AI capabilities, and one-click integrations into a single subscription, which is appealing for teams tired of stitching together separate tools. The tradeoffs are a hard cap of 10 agents per workspace, usage-based overage billing on top of the base plan, no free trial, and documentation that leans heavily on Chinese, all worth weighing before committing.",
+  "lastVerified": "2026-07-23"
+}

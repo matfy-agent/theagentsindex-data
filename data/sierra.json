@@ -1,0 +1,21 @@
+{
+  "slug": "sierra",
+  "name": "Sierra",
+  "tagline": "Bret Taylor’s enterprise agent platform, branded AI agents that resolve customer issues end to end, priced on outcomes.",
+  "websiteUrl": "https://sierra.ai",
+  "url": "https://theagentsindex.com/sierra",
+  "tier": "Listed",
+  "categories": [
+    "agent-platforms",
+    "support-agents"
+  ],
+  "tags": [
+    "enterprise",
+    "autonomous",
+    "no-code"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Sierra is the enterprise standard-bearer for customer-experience agents, and the pedigree is real: co-founded by Bret Taylor and Clay Bavor, it reached $150M+ ARR by February 2026, has raised roughly $1.585 billion at a valuation above $15 billion, and is used across more than 40% of the Fortune 50. What sets it apart is depth, agents don’t just answer, they act, completing refunds and account changes across chat, voice, email and more, wrapped in serious tooling for building, supervising and testing them. Its outcome-based pricing (pay for resolutions, escalations free) is a genuinely aligned model. The flip side is access: it is sales-led with no public pricing, no free tier and a gated SDK, so it is neither quick to trial nor a fit for smaller teams. Pick Sierra if you are an enterprise that wants autonomous agents doing real work; skip it if you need self-serve, transparent pricing or an open API.",
+  "lastVerified": "2026-07-24"
+}

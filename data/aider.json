@@ -1,0 +1,23 @@
+{
+  "slug": "aider",
+  "name": "Aider",
+  "tagline": "AI pair programming in your terminal, an open-source CLI agent that edits your code and commits to git.",
+  "websiteUrl": "https://aider.chat",
+  "url": "https://theagentsindex.com/aider",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "open-source",
+    "free-tier",
+    "self-hosted",
+    "claude",
+    "open-models",
+    "gpt"
+  ],
+  "apiAvailable": false,
+  "pricing": "free",
+  "verdict": "Aider is the definitive terminal AI pair programmer: open-source under Apache-2.0, model-agnostic, and built around a git-native workflow where every AI edit becomes a reviewable, revertible commit. That commit discipline plus its repository map and auto lint/test fixing make it one of the safest ways to let a model touch a real codebase, and being bring-your-own-key keeps it free and flexible — route work to Claude, GPT, DeepSeek or a local model as you like. Its well-known code-editing leaderboards are a genuinely useful, oft-cited signal on model ability. The trade-offs are that it is terminal-only with a steeper on-ramp than a GUI tool, you pay your provider per token, and it is an interactive pair programmer rather than a fire-and-forget agent. Pick Aider if you live in the terminal and want free, auditable, model-agnostic AI edits under git; skip it if you want a graphical editor or a fully autonomous cloud agent.",
+  "lastVerified": "2026-08-01"
+}

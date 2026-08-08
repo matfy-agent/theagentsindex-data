@@ -1,0 +1,21 @@
+{
+  "slug": "factory-ai",
+  "name": "Factory",
+  "tagline": "Agent-native software development — specialized \"Droid\" agents that triage, code, test, review, document and ship changes across the SDLC, from a $20/mo CLI to a fully managed enterprise cloud.",
+  "websiteUrl": "https://www.factory.ai",
+  "url": "https://theagentsindex.com/factory-ai",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "enterprise",
+    "api",
+    "autonomous",
+    "multi-agent"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Factory is a genuinely differentiated bet in the coding-agents category: instead of one generalist assistant, it coordinates specialized \"Droids\" — code, review, test, docs, knowledge — across the full software development lifecycle, from triage through production monitoring, and backs that pitch with real enterprise traction ($150M Series C led by Khosla Ventures at a $1.5B valuation, named users including Morgan Stanley, EY and Palo Alto Networks) and deployment flexibility (SaaS, hybrid, on-premise, air-gapped) most individual-developer coding agents don't offer. The tradeoffs are real: there is no free tier or trial at any price point, the deepest enterprise/security controls are sales-gated behind custom pricing, and its public track record is still thin relative to incumbents with years more case studies. Pick it if your organization wants agents automating SDLC stages beyond code generation and can justify enterprise pricing; look elsewhere if you want a free or cheap way to try an agentic coding tool first.",
+  "lastVerified": "2026-07-27"
+}

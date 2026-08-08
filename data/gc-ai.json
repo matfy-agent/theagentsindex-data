@@ -1,0 +1,21 @@
+{
+  "slug": "gc-ai",
+  "name": "GC AI",
+  "tagline": "An AI platform for in-house legal teams whose Research Agent runs parallel, cross-checked research across 13M+ US case law opinions, statutes and regulations.",
+  "websiteUrl": "https://gc.ai",
+  "url": "https://theagentsindex.com/gc-ai",
+  "tier": "Listed",
+  "categories": [
+    "research-agents"
+  ],
+  "tags": [
+    "api",
+    "autonomous",
+    "multi-agent",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "GC AI is the one research agent in this category built for a specific, high-stakes body of knowledge, US case law, statutes, regulations and agency guidance, that none of Perplexity, Manus, Elicit or GPT Researcher touch. Its Research Agent is genuinely multi-agent: specialized agents search in parallel across jurisdictions and courts, then get cross-checked and reconciled into one cited analysis, backed by real scale ($555M valuation, $73M raised) and real self-serve pricing rather than a fully sales-gated product. The honest caveats: on the cheapest plan, case-law research itself is a paid add-on rather than included; the API is private-beta and account-rep gated; and independent reviews report a thin verified-review trail relative to GC AI's own claimed customer count. Pick GC AI if your research is specifically legal and your budget is an in-house team's, not an individual's; skip it for open-web, academic or free/self-hosted research.",
+  "lastVerified": "2026-07-24"
+}

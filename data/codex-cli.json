@@ -1,0 +1,24 @@
+{
+  "slug": "codex-cli",
+  "name": "OpenAI Codex CLI",
+  "tagline": "OpenAI's open-source (Apache-2.0) terminal coding agent, bundled into ChatGPT plans from Free through Pro — Business seats are now grandfathered-only.",
+  "websiteUrl": "https://developers.openai.com/codex/cli",
+  "url": "https://theagentsindex.com/codex-cli",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "gpt",
+    "autonomous",
+    "api",
+    "free-tier",
+    "open-source",
+    "self-hosted",
+    "open-models"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Codex CLI’s biggest advantage isn’t a feature — it’s bundling: because it draws on the same plan and credit pool as ChatGPT, a developer who already pays for Plus, Pro or Business gets a capable, actively-maintained terminal coding agent with no separate subscription decision to make, and even the Free plan gets limited access to try it. The tool itself is well-built and open-source, with granular permission controls, subagents, MCP support and a genuinely useful built-in code-review mode running across terminal, desktop and IDE surfaces. The honest catches are real: switching to a non-OpenAI model takes manual config beyond the built-in Ollama/LM Studio/Bedrock options, OpenAI’s own numbers put typical cost at $100-$200/developer per month for regular use, and a large, currently-open GitHub issue documents a real rate-limit consumption regression from June 2026 that was still unresolved as of this listing’s last check. Pick Codex CLI if you already live in the ChatGPT ecosystem and want a terminal agent without a new bill; pick Claude Code instead if you want a lower, more predictable entry price, or Windsurf/Juggler if free multi-model switching matters more to you than OpenAI’s specific model lineup.",
+  "lastVerified": "2026-07-25"
+}

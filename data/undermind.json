@@ -1,0 +1,20 @@
+{
+  "slug": "undermind",
+  "name": "Undermind",
+  "tagline": "An AI literature-discovery agent that reads hundreds of full papers and follows citation trails, then reports how much of the literature it actually covered.",
+  "websiteUrl": "https://www.undermind.ai",
+  "url": "https://theagentsindex.com/undermind",
+  "tier": "Listed",
+  "categories": [
+    "research-agents"
+  ],
+  "tags": [
+    "free-tier",
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Undermind is the discovery-focused entry in this category: instead of screening papers you already found against inclusion criteria (Elicit's job) or answering an open-web question (Perplexity, Manus, GC AI's different domains), it tries to find the papers a conventional keyword search misses, by reading full texts and following citation trails, and it tells you roughly how complete that search was via its \"discovery curve\" model. An independent peer-reviewed review backs the core pitch — it genuinely surfaces papers others miss — but the same review is equally direct about the trade-offs: no reproducible search strategy (its self-described \"Achilles heel\"), an 8-10 minute turnaround too slow for point-of-care use, and no MeSH integration. It also has no API today, unlike Elicit. Pick Undermind when the job is exploratory discovery or a novelty check on a niche or cross-disciplinary question; pick Elicit instead when you need a documented, repeatable screening process for a formal systematic review.",
+  "lastVerified": "2026-07-25"
+}

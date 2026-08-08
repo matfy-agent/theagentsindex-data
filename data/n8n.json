@@ -1,0 +1,26 @@
+{
+  "slug": "n8n",
+  "name": "n8n",
+  "tagline": "Source-available workflow automation with native AI-agent nodes, self-hostable and integration-rich.",
+  "websiteUrl": "https://n8n.io",
+  "url": "https://theagentsindex.com/n8n",
+  "tier": "Listed",
+  "categories": [
+    "agent-platforms"
+  ],
+  "tags": [
+    "open-source",
+    "no-code",
+    "self-hosted",
+    "free-tier",
+    "api",
+    "gpt",
+    "claude",
+    "open-models",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "n8n is the strongest choice for teams that want agentic automation built visually rather than in code, without giving up the integration breadth or self-hosting control that no-code tools usually sacrifice. Its 400+ app integrations plus native AI-agent nodes mean an agent can actually go do something, call an API, update a CRM, post to Slack, not just answer a question. It is fair-code, not OSI open-source, so check the licence before reselling a self-hosted deployment commercially, and deeply branching agent logic can get harder to read on a canvas than in code. It suits ops-style automation with an agent in the loop best; developers who prefer expressing control flow purely as code may find LangGraph or CrewAI a better fit.",
+  "lastVerified": "2026-08-04"
+}

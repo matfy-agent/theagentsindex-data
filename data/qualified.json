@@ -1,0 +1,20 @@
+{
+  "slug": "qualified",
+  "name": "Qualified",
+  "tagline": "Piper, the inbound AI SDR, engages website visitors in real time, qualifies them against your ICP and books the meeting. Salesforce-native; Salesforce itself acquired the company in April 2026.",
+  "websiteUrl": "https://www.qualified.com",
+  "url": "https://theagentsindex.com/qualified",
+  "tier": "Listed",
+  "categories": [
+    "sales-marketing-agents"
+  ],
+  "tags": [
+    "api",
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Qualified earns its place in this category by being genuinely differentiated from the outbound-first AI SDRs that dominate it: Piper works inbound, live, on your website and in your inbox, deeply wired into Salesforce rather than treating the CRM as just another integration. The named case studies (Asana, Greenhouse) and the fact that Salesforce itself paid roughly $1.2 billion to acquire the company outright in April 2026 are real, verifiable signals of substance, not just marketing claims. The honest catches: Salesforce is a hard requirement, not an option, pricing is entirely custom (independent procurement data puts the median deal at $61,000/year), and — now that Salesforce owns it — the product's future is tied to Agentforce's roadmap rather than an independent vendor's. Pick Qualified if you're Salesforce-native and your bottleneck is converting inbound traffic; skip it if you need outbound prospecting or run on a different CRM.",
+  "lastVerified": "2026-07-23"
+}

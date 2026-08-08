@@ -1,0 +1,24 @@
+{
+  "slug": "vapi",
+  "name": "Vapi",
+  "tagline": "The developer platform for voice AI agents, bring your own model, voice and telephony, and Vapi orchestrates the call.",
+  "websiteUrl": "https://vapi.ai",
+  "url": "https://theagentsindex.com/vapi",
+  "tier": "Listed",
+  "categories": [
+    "voice-agents"
+  ],
+  "tags": [
+    "api",
+    "autonomous",
+    "multi-agent",
+    "open-models",
+    "enterprise",
+    "gpt",
+    "claude"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Vapi is the builder’s choice for voice AI: an API-first, model-agnostic platform that hands developers control over every layer — transcription, model, voice and telephony — with real-time orchestration and sub-500ms latency. Its bring-your-own-provider design means you can chase the best model or cheapest voice without rebuilding the agent, and enterprise features (HIPAA, zero-data-retention, SLAs) let it scale to millions of calls. The honest catch is cost transparency: the $0.05/min headline is only the orchestration fee, and the true all-in rate is usually several times that once you add a model, a good voice and telephony. Pick Vapi if you have engineers who want to build a bespoke voice agent and own the stack; skip it if you want a no-code tool that hides the plumbing.",
+  "lastVerified": "2026-07-25"
+}

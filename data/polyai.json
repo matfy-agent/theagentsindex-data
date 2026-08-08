@@ -1,0 +1,21 @@
+{
+  "slug": "polyai",
+  "name": "PolyAI",
+  "tagline": "The pre-LLM-era enterprise voice AI incumbent — $750M-valued, 200+ enterprise customers — sales-led only again after a May 2026 self-serve tier went away.",
+  "websiteUrl": "https://poly.ai",
+  "url": "https://theagentsindex.com/polyai",
+  "tier": "Listed",
+  "categories": [
+    "voice-agents"
+  ],
+  "tags": [
+    "enterprise",
+    "autonomous",
+    "api",
+    "no-code"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "PolyAI is the pre-LLM-era incumbent of the voice-agent category — founded in 2017, years before Vapi, Retell AI, Bland AI or ElevenLabs Conversational AI existed — with real enterprise scale to show for it: 200+ customers, thousands of live deployments, a $750M valuation, and a Forrester study (vendor-commissioned, but methodologically disclosed) modeling 391% three-year ROI for a composite enterprise customer. For about three months from May 2026, it was also briefly the most open platform in this category: a genuine self-serve tier, free for two months from just an email address. That window appears to have closed — re-verified live in August 2026, PolyAI’s own pricing and marketing pages no longer mention a free period or email-only signup, and independent 2026 pricing reviews now describe it as having no free tier, no trial and no self-serve access at all, with a sales demo as the only way in. So the honest current state is the same one PolyAI ran for its first eight years: proven, compliance-certified, enterprise-scale voice AI, reached entirely through a sales conversation, with no public rate card (third-party estimates put typical contracts around $150,000/year and up). Pick PolyAI if enterprise scale and compliance depth matter more than a fast, self-serve start; go in expecting to talk to sales before you see a price or use the product at all.",
+  "lastVerified": "2026-08-08"
+}

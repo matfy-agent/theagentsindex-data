@@ -1,0 +1,25 @@
+{
+  "slug": "zed",
+  "name": "Zed",
+  "tagline": "The open-source, GPU-native code editor built from scratch by Atom's creators — runs Claude Code, Codex and other agents via the open Agent Client Protocol it created. Free forever; Pro from $10/month.",
+  "websiteUrl": "https://zed.dev",
+  "url": "https://theagentsindex.com/zed",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "open-source",
+    "free-tier",
+    "multi-agent",
+    "claude",
+    "gpt",
+    "self-hosted",
+    "open-models",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Zed's real differentiation in this index isn't a single proprietary agent, it's the platform decision underneath every rival: Cursor and Windsurf both forked VS Code and built one closed-source agent into it; GitHub Copilot is tied to GitHub's own stack. Zed rebuilt the editor from zero in Rust for GPU-native performance, then open-sourced the connection layer itself — the Agent Client Protocol — so Claude Code, OpenAI Codex, Gemini CLI, GitHub Copilot and others run natively inside Zed as swappable External Agents, and JetBrains now speaks the same protocol in its own IDEs. That buys real vendor-independence and raw editor speed, but it's genuinely earlier-stage on ecosystem maturity: Zed's own extension catalog is, in its own words, \"hundreds\" of community packages against VS Code's much larger marketplace; remote development requires bringing your own SSH-reachable server (no managed, Codespaces-style cloud environment, and Windows isn't yet supported as a remote target); and its DAP-based debugger — documented as breakpoints, stepping and variable inspection — doesn't list the watch-window and data-breakpoint features VS Code's debugger has had for years. Pick Zed if editor performance and not being locked into one vendor's built-in agent matter more to you than ecosystem breadth; stay on Cursor or GitHub Copilot for the single most mature, batteries-included agent experience today.",
+  "lastVerified": "2026-07-25"
+}

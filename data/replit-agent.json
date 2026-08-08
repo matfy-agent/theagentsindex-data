@@ -1,0 +1,21 @@
+{
+  "slug": "replit-agent",
+  "name": "Replit Agent",
+  "tagline": "Describe an app and Replit Agent builds, tests and deploys it in your browser, a full-stack app factory for anyone.",
+  "websiteUrl": "https://replit.com/ai",
+  "url": "https://theagentsindex.com/replit-agent",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "free-tier",
+    "no-code",
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Replit Agent is the most accessible way to turn a plain-language idea into a running, deployed app: it writes the code, provisions a database, adds auth, tests itself in a browser and ships to a live URL, all in one tab, and Agent 3 can grind autonomously for up to ~200 minutes fixing its own bugs. Agent 4, launched March 2026 alongside a $400M Series D at a $9B valuation (3x six months earlier), pushes further into collaborative, multi-artifact building — an Infinite Canvas and parallel, mergeable task threads for building a web app, mobile app and landing page in the same project — though independent benchmarks of Agent 4 specifically are not yet public. For founders and non-engineers that is genuinely powerful — there is nothing local to install and a free Starter tier to try. The honest catch is cost and control: effort-based credit billing can escalate quickly, with real feature work costing dollars per prompt and heavy users routinely blowing past the monthly credit pool, and the generated code can be hard to maintain as an app grows. It is also cloud-only and closed. Pick Replit Agent if you value speed and accessibility and want a deployed app fast; skip it if you need full control of your own toolchain or predictable, bounded costs on large projects.",
+  "lastVerified": "2026-07-25"
+}

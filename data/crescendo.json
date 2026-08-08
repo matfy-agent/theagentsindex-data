@@ -1,0 +1,20 @@
+{
+  "slug": "crescendo",
+  "name": "Crescendo",
+  "tagline": "Fully-managed AI-native customer service, replaces your entire CX stack with agents, QA and human-in-the-loop support, billed per resolution.",
+  "websiteUrl": "https://www.crescendo.ai/",
+  "url": "https://theagentsindex.com/crescendo",
+  "tier": "Listed",
+  "categories": [
+    "support-agents"
+  ],
+  "tags": [
+    "enterprise",
+    "autonomous",
+    "multi-agent"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Crescendo’s pitch is speed and completeness: instead of stitching together a chat widget, a ticketing system and an outsourced BPO separately, it sells all of it — AI agents, QA, routing, knowledge management and human-in-the-loop staff — as one per-resolution-priced engagement. The backing is real: a $500M valuation and the PartnerHero acquisition gave it enterprise-scale delivery capacity within its first year, and its all-inclusive pricing plus Total Outcome Guarantee genuinely aligns cost with results. The tradeoffs are the ones you would expect from a fully managed service: no public API or self-serve trial, limited hands-on configuration control, and per-resolution billing that needs careful volume forecasting to avoid surge fees. Pick Crescendo if you want an outsourced, compliance-ready CX operation you do not have to build yourself; skip it if you want a self-serve, developer-controlled agent like Intercom Fin, or a software-only platform you configure in-house like Sierra.",
+  "lastVerified": "2026-07-27"
+}

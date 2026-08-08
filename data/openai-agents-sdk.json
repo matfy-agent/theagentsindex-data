@@ -1,0 +1,22 @@
+{
+  "slug": "openai-agents-sdk",
+  "name": "OpenAI Agents SDK",
+  "tagline": "OpenAI’s lightweight open-source framework for building agents, handoffs, guardrails and tracing in a few primitives.",
+  "websiteUrl": "https://openai.github.io/openai-agents-python/",
+  "url": "https://theagentsindex.com/openai-agents-sdk",
+  "tier": "Listed",
+  "categories": [
+    "frameworks"
+  ],
+  "tags": [
+    "open-source",
+    "free-tier",
+    "multi-agent",
+    "gpt",
+    "self-hosted"
+  ],
+  "apiAvailable": false,
+  "pricing": "free",
+  "verdict": "The OpenAI Agents SDK is the shortest path from idea to a working agent: four clean primitives, agents, handoffs, guardrails and sessions, plus built-in tracing that would otherwise take weeks to build, and a beta “sandbox agents” mode that gives an agent its own persistent file/shell workspace. It is MIT-licensed and free, ships in both Python and TypeScript, and despite the OpenAI branding it is genuinely provider-agnostic, running 100-plus models through LiteLLM. The flip side of that minimalism is real: durable state is limited to `RunState`, a snapshot you capture manually after a run pauses for human approval, not automatic step-by-step checkpointing, and handoffs are linear chains rather than a graph, anything beyond agents-plus-tools-plus-handoffs becomes code you own, which is why teams with genuinely complex, branching or audit-heavy workflows often graduate to LangGraph. It is also young and moving fast, so expect some API churn, and the tracing experience leans on OpenAI’s dashboard. Pick it for support triage, routing and linear tool-using agents you want in production this week; skip it when your workflow needs deterministic branching, automatic mid-run checkpointing or compliance-grade audit trails.",
+  "lastVerified": "2026-07-24"
+}

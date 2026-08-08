@@ -1,0 +1,20 @@
+{
+  "slug": "claude-code",
+  "name": "Claude Code",
+  "tagline": "Anthropic’s terminal-native coding agent with full-repository context.",
+  "websiteUrl": "https://www.anthropic.com/claude-code",
+  "url": "https://theagentsindex.com/claude-code",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "claude",
+    "autonomous",
+    "api"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Claude Code is the pick for developers who want an agent that lives in the terminal and composes with real engineering workflows, scripts, CI pipelines, headless automation, rather than a bolted-on chat panel. Its reasoning holds up on genuinely multi-step tasks across a full repository, and it asks permission on sensitive actions instead of working blind. There is no graphical editor, so anyone who wants point-and-click review will feel the gap, and usage-based cost on long autonomous runs is worth watching. It is the strongest option for CI-driven or command-line-first teams, and a weaker fit for developers who want a GUI-first experience. One more factor worth knowing: Claude Code itself passed $1B in run-rate revenue within six months of its public launch, and Anthropic, now backed by a $65B Series H at a $965B valuation, is investing directly in its toolchain, having acquired the Bun JavaScript runtime Claude Code ships as an executable in December 2025. The tradeoff of that single-vendor stack is that Claude Code is tied exclusively to Claude models, with no built-in switch to GPT or Gemini the way some editor-based rivals allow.",
+  "lastVerified": "2026-07-24"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "livekit-agents",
+  "name": "LiveKit Agents",
+  "tagline": "The open-source, self-hostable voice agent framework, Apache 2.0, provider-agnostic, and the infrastructure behind ChatGPT’s Advanced Voice Mode.",
+  "websiteUrl": "https://livekit.com/voice-agents",
+  "url": "https://theagentsindex.com/livekit-agents",
+  "tier": "Listed",
+  "categories": [
+    "voice-agents"
+  ],
+  "tags": [
+    "open-source",
+    "self-hosted",
+    "free-tier",
+    "api",
+    "gpt",
+    "claude",
+    "enterprise",
+    "multi-agent"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "LiveKit Agents is the one genuinely open-source, self-hostable option among this category’s voice agent platforms, an Apache 2.0 framework, not a closed API you can only rent. That openness comes from a company with real weight behind it: a $1B valuation on $181.3M raised, and infrastructure serious enough that OpenAI runs ChatGPT’s Advanced Voice Mode on it alongside customers like xAI, Salesforce and Tesla. The tradeoff is real: unlike Vapi, Retell AI, Bland AI or ElevenLabs Conversational AI, there is no hosted dashboard that gets you a working agent in an afternoon, you write and deploy code, choosing and wiring your own STT/LLM/TTS providers (or LiveKit’s managed Inference gateway) yourself. Pick LiveKit Agents if engineering ownership, self-hosting or avoiding vendor lock-in matter more than a fast, no-code start; skip it if you want a turnkey agent live without writing code.",
+  "lastVerified": "2026-07-27"
+}

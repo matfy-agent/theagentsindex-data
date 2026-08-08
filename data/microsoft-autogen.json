@@ -1,0 +1,23 @@
+{
+  "slug": "microsoft-autogen",
+  "name": "Microsoft AutoGen",
+  "tagline": "Microsoft’s open-source framework for orchestrating conversations between multiple AI agents.",
+  "websiteUrl": "https://microsoft.github.io/autogen/",
+  "url": "https://theagentsindex.com/microsoft-autogen",
+  "tier": "Listed",
+  "categories": [
+    "frameworks"
+  ],
+  "tags": [
+    "open-source",
+    "free-tier",
+    "multi-agent",
+    "self-hosted",
+    "gpt",
+    "no-code"
+  ],
+  "apiAvailable": false,
+  "pricing": "free",
+  "verdict": "AutoGen is the framework that popularised the “agents conversing with agents” model, and it remains a clean, well-documented and genuinely free way to prototype multi-agent systems in Python or .NET. Its layered design is a real strength: you can start in the high-level AgentChat API and drop into the Core runtime when you need fine-grained control over message passing. The catch is strategic, not technical, and it has hardened since AutoGen’s own SEED write-up: Microsoft’s successor, the Microsoft Agent Framework, is no longer just announced, it reached a production-ready 1.0 GA on 2026-04-03 and is the live recommended path for new projects, while the original authors’ AG2 fork remains genuinely active in parallel (shipping commits within the last week) and controls the old PyPI packages. AutoGen itself hasn’t tagged a release since September 2025. That three-way split is a real, current risk for anyone building something they must maintain for years, and multi-agent loops can be token-heavy and hard to make deterministic. Pick AutoGen today to learn the patterns or extend an existing AutoGen codebase; if you are starting fresh for production, evaluate the Microsoft Agent Framework or AG2 first.",
+  "lastVerified": "2026-07-27"
+}

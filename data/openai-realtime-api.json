@@ -1,0 +1,20 @@
+{
+  "slug": "openai-realtime-api",
+  "name": "OpenAI Realtime API",
+  "tagline": "OpenAI's own speech-to-speech model API for voice agents — WebRTC, WebSocket or native SIP telephony, billed purely on audio tokens with no platform fee.",
+  "websiteUrl": "https://developers.openai.com/api/docs/guides/realtime",
+  "url": "https://theagentsindex.com/openai-realtime-api",
+  "tier": "Listed",
+  "categories": [
+    "voice-agents"
+  ],
+  "tags": [
+    "api",
+    "gpt",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "The OpenAI Realtime API is the rawest option in this category: not an orchestration platform or a managed dashboard, but the actual speech-to-speech model some of this category's own platforms let you plug in as one provider choice among several (LiveKit Agents' plugin ecosystem lists it directly). Going straight to OpenAI trades every convenience those platforms bundle — a dashboard, built-in phone numbers, call analytics, a knowledge base — for direct, usage-based token pricing with no markup and no monthly platform fee, backed by OpenAI's own SOC 2 Type 2 and ISO 27001-family compliance. The tradeoffs are real: sessions cap at 60 minutes, there's no dashboard or built-in CRM, and a developer writes their own tool-calling, session-management and observability code. Pick it over a platform like Vapi or Retell AI when the priority is owning the integration layer entirely and being comfortable single-vendor on OpenAI; pick a platform instead when the priority is a working agent without writing that plumbing.",
+  "lastVerified": "2026-08-03"
+}

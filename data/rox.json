@@ -1,0 +1,20 @@
+{
+  "slug": "rox",
+  "name": "Rox",
+  "tagline": "An AI-native revenue operating system, \"agent swarms\" (one per account) that research, monitor and update your existing CRM across the whole deal lifecycle, with a genuine free self-serve tier.",
+  "websiteUrl": "https://www.rox.com",
+  "url": "https://theagentsindex.com/rox",
+  "tier": "Listed",
+  "categories": [
+    "sales-marketing-agents"
+  ],
+  "tags": [
+    "free-tier",
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Rox's real differentiation in this category is scope, not automation intensity: Clay is a data-enrichment engine, 11x and Artisan run autonomous outbound sequences, and Qualified works inbound website traffic, Rox instead assigns a persistent agent to every account and keeps researching, monitoring and updating your existing CRM across the whole relationship, answered through plain-English queries rather than a new dashboard to learn. The named case studies (Ramp, MongoDB, New Relic) and a rare real self-serve price (free Starter tier, $50/month Core) back that up with more transparency than most enterprise-focused rivals in this category offer. The honest catches: no confirmed public API for custom integration work, the free/Core action allowances are modest for a real book of accounts, and at two years old it carries far less production history than the CRMs it plugs into. Pick Rox if continuous account intelligence and CRM hygiene are the bottleneck; skip it if you specifically need outbound-sequence automation or a documented API.",
+  "lastVerified": "2026-07-24"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "genspark",
+  "name": "Genspark",
+  "tagline": "A \"Super Agent\" that orchestrates 9 blended LLMs and 80+ tools to research, build slides/sheets, place phone calls and browse the web from one prompt.",
+  "websiteUrl": "https://www.genspark.ai",
+  "url": "https://theagentsindex.com/genspark",
+  "tier": "Listed",
+  "categories": [
+    "research-agents"
+  ],
+  "tags": [
+    "autonomous",
+    "browser-use",
+    "multi-agent",
+    "no-code",
+    "free-tier",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Genspark is the best-funded and most heavily used general-purpose agent in this category — $535M raised, a $2.6B valuation and roughly $250M in annualized revenue back real, measurable traction, not just a viral demo. Its mixture-of-agents design, blending nine specialized models with cross-checking to cut hallucination, is a genuine architectural bet rather than a single-model wrapper, and its surface is unusually broad: cited research reports, slide decks, live spreadsheets, real outbound phone calls and autonomous browsing all live in one workspace. The honest tradeoffs are real too: independent reviews consistently flag the credit system's fine print — a session cap undermining \"unlimited\" chat, credits that don't roll over and debit even on failed runs, and a zero-credit promotion with a hard December 2026 expiry — and, unlike its closest rival Manus, no source found documents a public developer API, so there is no confirmed way to build Genspark into your own software today. Pick Genspark if you want one broad, well-funded workspace for research-to-deliverable work and don't need to automate it programmatically; pick Manus instead if a developer API and code-execution/browser-operator depth matter more than Genspark's wider consumer surface.",
+  "lastVerified": "2026-07-31"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "elicit",
+  "name": "Elicit",
+  "tagline": "An AI research agent built for scientific literature, search, screen and extract cited data from 138M+ papers.",
+  "websiteUrl": "https://elicit.com",
+  "url": "https://theagentsindex.com/elicit",
+  "tier": "Listed",
+  "categories": [
+    "research-agents"
+  ],
+  "tags": [
+    "api",
+    "free-tier",
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Elicit is the research agent in this category actually built for scientific literature rather than the open web. Its Research Agent autonomously plans and runs a multi-step literature investigation, its Systematic Review workflow automates the screening step of a formal review at real scale (thousands of papers, PRISMA-grade per its own claim at the top tier), and every generated claim links back to a sentence-level citation in the source paper — a genuinely different job than Perplexity's live-web answers or Manus's general task automation. The honest caveats are self-disclosed: Elicit's own docs admit hallucination risk and tell users to verify important findings against the original paper, independent reviewers find it can miss papers a manual search would catch, and it performs best on empirical, formulaic research rather than open-ended theoretical work. Pick Elicit if you need cited, structured evidence from published literature at academic rigor; skip it if you want general web research or broader task automation.",
+  "lastVerified": "2026-07-27"
+}

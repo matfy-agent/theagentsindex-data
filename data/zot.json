@@ -1,0 +1,25 @@
+{
+  "slug": "zot",
+  "name": "Zot",
+  "tagline": "A free, MIT-licensed coding-agent harness in one Go binary, branch any session from any past message and view it as a tree, plus a Telegram bridge.",
+  "websiteUrl": "https://zot.sh",
+  "url": "https://theagentsindex.com/zot",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "open-source",
+    "self-hosted",
+    "free-tier",
+    "api",
+    "claude",
+    "gpt",
+    "open-models",
+    "multi-agent"
+  ],
+  "apiAvailable": false,
+  "pricing": "free",
+  "verdict": "Zot earns its place with a real, working idea: fork any past message in a coding session into a new branch and see the whole tree at a glance, all from one free, MIT-licensed Go binary with no Docker or Node runtime. It backs that up with genuine breadth — 30+ model providers, local Ollama support, a Telegram bridge, background swarm subagents, and an importable Go SDK for developers who want to build their own harness on top of it — and it ships fast, with 303 releases and 10+ contributors since an April 2026 start. The honest catches are the ones the maintainer discloses directly: the OAuth-reuse trick that lets it bill through a Claude/ChatGPT subscription is, by the README's own admission, a likely terms-of-service violation that could be revoked at any time (the API-key flow sidesteps this), the docs call the project \"beta forever\" rather than production-stable, and the TUI is admitted to be almost entirely AI-generated. Pick Zot if you want a free, fast, Go-native harness with real branching-session control and are comfortable with fast-moving independent software; pick Juggler instead if you want the same branching-tree idea with a GUI, or a first-party vendor tool if you need managed support and want to avoid any OAuth-reuse risk entirely.",
+  "lastVerified": "2026-07-27"
+}

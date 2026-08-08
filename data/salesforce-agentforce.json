@@ -1,0 +1,22 @@
+{
+  "slug": "salesforce-agentforce",
+  "name": "Salesforce Agentforce",
+  "tagline": "Salesforce's enterprise agentic-AI platform (rebranded \"Agentforce 360\") — prebuilt Service, SDR, Sales Coach and Commerce agents plus a low-code builder, running on live CRM data.",
+  "websiteUrl": "https://www.salesforce.com/agentforce/",
+  "url": "https://theagentsindex.com/salesforce-agentforce",
+  "tier": "Listed",
+  "categories": [
+    "agent-platforms"
+  ],
+  "tags": [
+    "enterprise",
+    "api",
+    "free-tier",
+    "gpt",
+    "claude"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Agentforce is the CRM-native heavyweight of this category — no other general-purpose platform here puts agents this close to a company's actual sales, service and commerce data, and it backs that up with genuine model-agnostic support (GPT-5.x, Claude, Gemini) and a real developer surface (Agent API, Python SDK, CLI) rather than a walled-garden chatbot. The honest cost is Salesforce's own complexity: a Flex Credits/Conversations pricing model that has already reshaped itself multiple times since its October 2024 launch, a hard dependency on Data Cloud (now Data 360) for full cross-system context, and independent reports of multi-month rollouts and a real learning curve. Pick Agentforce if you're already deep in the Salesforce ecosystem and want agents acting directly on live CRM data; skip it if you want a lightweight platform you can stand up quickly outside that ecosystem, or predictable flat per-seat pricing.",
+  "lastVerified": "2026-07-27"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "relevance-ai",
+  "name": "Relevance AI",
+  "tagline": "Build and run an \"AI workforce\", teams of no-code agents that do real sales, ops and research work.",
+  "websiteUrl": "https://relevanceai.com",
+  "url": "https://theagentsindex.com/relevance-ai",
+  "tier": "Listed",
+  "categories": [
+    "agent-platforms"
+  ],
+  "tags": [
+    "no-code",
+    "api",
+    "free-tier",
+    "multi-agent",
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Relevance AI is one of the more serious \"agent platform\" plays: it’s built from the ground up for multi-agent workforces, with the unglamorous production plumbing, an LLM router, evals, tracing, approvals and RBAC/SSO, that separates a demo from something you’d trust with live pipeline. The cost-optimising router and bring-your-own-keys option are genuinely useful for keeping AI spend sane. The tradeoffs are real: the dual meter of Actions plus Vendor Credits is easy to misjudge on AI-heavy agents, the flagship Bosh BDR is a custom enterprise onboarding rather than a self-serve click, and the public pricing page now leads with \"talk to sales.\" Pick Relevance AI if you want to build coordinated agent teams with enterprise-grade control and will invest in learning it; skip it if you need a single quick bot, open-source self-hosting, or perfectly predictable flat pricing.",
+  "lastVerified": "2026-07-23"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "github-copilot",
+  "name": "GitHub Copilot",
+  "tagline": "The mature AI pair-programmer, now with an agent mode, deep in the GitHub + IDE stack.",
+  "websiteUrl": "https://github.com/features/copilot",
+  "url": "https://theagentsindex.com/github-copilot",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "enterprise",
+    "gpt",
+    "claude",
+    "autonomous",
+    "free-tier"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "GitHub Copilot is the safest choice for a team that already lives inside GitHub and needs AI coding rolled out at enterprise scale. Its coding agent turns a GitHub issue into a reviewable pull request natively, and its org-level policy, content-exclusion and data-handling controls are more mature than most competitors offer. It is deliberately less aggressive than dedicated agents like Cursor or Devin, a better fit for teams that want reviewable, incremental automation than a fully autonomous coder. Outside the GitHub-plus-supported-IDE stack, the advantage narrows fast.",
+  "lastVerified": "2026-07-28"
+}

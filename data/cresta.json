@@ -1,0 +1,22 @@
+{
+  "slug": "cresta",
+  "name": "Cresta",
+  "tagline": "Unifies an autonomous AI Agent, real-time human Agent Assist and Conversation Intelligence on one contact-center platform, enterprise, custom-quoted, no self-serve tier.",
+  "websiteUrl": "https://cresta.com/",
+  "url": "https://theagentsindex.com/cresta",
+  "tier": "Listed",
+  "categories": [
+    "support-agents"
+  ],
+  "tags": [
+    "enterprise",
+    "autonomous",
+    "api",
+    "multi-agent",
+    "no-code"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Cresta's real differentiator among this category's four existing enterprise support-agent listings is scope: instead of selling an AI Agent that replaces a human conversation, it unifies an AI Agent, real-time Agent Assist for the humans still in the loop, and Conversation Intelligence analytics on one shared record, a genuine \"augment, don't just replace\" position, backed by real scale ($280M+ raised, 500+ employees, named case studies like Xanterra's $3.3M revenue lift). The honest catch: pricing is almost entirely opaque, the only public number anywhere is an AWS Marketplace listing for the narrower Agent Assist product alone, starting at $150,000/year for one channel, while the full AI Agent/Conversation Intelligence suite is custom-quoted with no self-serve tier or free trial. Pick Cresta if a blended AI-plus-human operation is the actual goal and you can run an enterprise sales cycle; skip it if you want transparent self-serve pricing or a fast trial, which none of this category's enterprise players (Cresta, Sierra, Decagon) currently offer.",
+  "lastVerified": "2026-07-27"
+}

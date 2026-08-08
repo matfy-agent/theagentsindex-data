@@ -1,0 +1,19 @@
+{
+  "slug": "unify",
+  "name": "Unify",
+  "tagline": "A single conversational GTM agent for warm outbound — self-serve from $0, built to augment a seller rather than replace one.",
+  "websiteUrl": "https://www.unifygtm.com",
+  "url": "https://theagentsindex.com/unify",
+  "tier": "Listed",
+  "categories": [
+    "sales-marketing-agents"
+  ],
+  "tags": [
+    "free-tier",
+    "gpt"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Unify fills a real, previously under-served position in this category's GTM-outbound cluster: cheaper and far more transparent than Clay's usage-based ($167+/month) enrichment canvas, and self-serve where 11x and Artisan are both entirely custom-quoted and sales-gated. It explicitly positions itself as a productivity layer for a human seller rather than an autonomous replacement, wrapping list-building, enrichment, signal-based prioritization and sequencing into one chat-based agent instead of a spreadsheet-style workflow builder. The catch: it just completed a dramatic pricing-model pivot — several third-party sources published within the last few months still describe a completely different enterprise-only motion — so treat pricing found outside unifygtm.com/pricing itself as potentially stale, and its deepest features (GPT-5.5, write-access CRM sync, website intent signals) still sit behind a custom Business tier. Pick Unify if you want an accessible, self-serve GTM agent that augments a rep rather than replacing one; skip it if you specifically want Clay's build-your-own depth or 11x/Artisan's fully autonomous outbound motion.",
+  "lastVerified": "2026-07-24"
+}

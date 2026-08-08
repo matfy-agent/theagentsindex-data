@@ -1,0 +1,25 @@
+{
+  "slug": "crewai",
+  "name": "CrewAI",
+  "tagline": "A popular open-source Python framework for role-based, collaborating multi-agent teams, free to self-host, now a stable 1.0 release with an optional managed AMP cloud layer.",
+  "websiteUrl": "https://www.crewai.com",
+  "url": "https://theagentsindex.com/crewai",
+  "tier": "Listed",
+  "categories": [
+    "frameworks"
+  ],
+  "tags": [
+    "open-source",
+    "multi-agent",
+    "free-tier",
+    "self-hosted",
+    "api",
+    "enterprise",
+    "no-code",
+    "open-models"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "CrewAI is the fastest way to stand up a working multi-agent system when the mental model is a team of specialists handing off tasks, not one do-everything bot. Its role-based crew abstraction is unusually readable for how much coordination it buys you, and since reaching a stable 1.0 general-availability release in October 2025, with its Crews/Flows APIs locked for long-term use, it now runs at real production scale: 2 billion-plus agentic workflows in the trailing 12 months, and named enterprise use at PepsiCo, Johnson & Johnson, PwC and the US DoD. Tight, deterministic control over long-running production workflows still needs the newer Flows layer rather than the crew model alone. The managed CrewAI AMP cloud product is genuinely useful but thinly priced: its only published self-serve tier is a free 50-execution/month Basic plan, with nothing transparently priced between that and a custom Enterprise conversation. It is a strong pick for prototyping, straightforward collaborative pipelines, and now demonstrably production-grade deployments too, the main catch is AMP’s pricing ladder, not the framework’s maturity.",
+  "lastVerified": "2026-07-27"
+}

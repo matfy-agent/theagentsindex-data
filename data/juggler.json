@@ -1,0 +1,23 @@
+{
+  "slug": "juggler",
+  "name": "Juggler",
+  "tagline": "An open-source, GUI-based workbench for AI coding agents, branching session trees, not a linear transcript. Free, AGPLv3, by JUCE creator Julian Storer.",
+  "websiteUrl": "https://juggler.studio",
+  "url": "https://theagentsindex.com/juggler",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "open-source",
+    "self-hosted",
+    "claude",
+    "gpt",
+    "open-models",
+    "free-tier"
+  ],
+  "apiAvailable": false,
+  "pricing": "free",
+  "verdict": "Juggler is the most structurally different take on the AI-coding-agent UI to show up in this category recently: instead of a scrolling terminal log, your session is an editable, branching tree, and every tool call, approval and raw context message stays inspectable rather than hidden behind a chat bubble. That is a real, substantive difference from Cursor, Windsurf or Aider, not a cosmetic one, and it comes free, open-source and model-agnostic across Claude, GPT, Gemini, Ollama, OpenRouter and DeepSeek. The honest catch is timing: it shipped on Hacker News on 2026-07-12 and is alpha software by the creator’s own description — a launch-day tester hit an LLM-connection error immediately, there is no ACP support yet for developers coming from an existing plugin ecosystem, and the main app’s AGPLv3 license is a stronger copyleft commitment than most rivals carry. Pick Juggler if you want hands-on visibility into what your agent is doing and are willing to run early-stage software to get it; skip it for now if you need a mature, supported tool or depend on an ACP-based plugin setup.",
+  "lastVerified": "2026-07-28"
+}

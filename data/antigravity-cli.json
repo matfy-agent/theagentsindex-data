@@ -1,0 +1,21 @@
+{
+  "slug": "antigravity-cli",
+  "name": "Antigravity CLI",
+  "tagline": "Google's terminal-native coding agent that replaced the open-source Gemini CLI in June 2026 — same Antigravity 2.0 agent core, now closed-source and tied to a Google AI subscription.",
+  "websiteUrl": "https://antigravity.google/product/antigravity-cli",
+  "url": "https://theagentsindex.com/antigravity-cli",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "claude",
+    "multi-agent",
+    "free-tier",
+    "api"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Antigravity CLI is Google's answer to \"what replaces a sunset open-source tool\" — and the honest read is a mixed one. The free tier is genuinely generous (unlimited tab completions and command requests, plus a rare bundle of both Gemini and Claude frontier models at $0/month), and Subagents give it real concurrent-execution capability most terminal agents in this index lack. But it arrived by force, not choice: free and personal Gemini CLI users got roughly 30 days' notice before their old tool stopped working entirely, the replacement isn't fully at feature parity yet, and — unlike its predecessor — it isn't open source. Pick it if you're already on Google's stack and want the free multi-model access; look elsewhere if an open license or ACP compatibility with your editor of choice is a hard requirement.",
+  "lastVerified": "2026-07-28"
+}

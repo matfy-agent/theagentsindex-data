@@ -1,0 +1,21 @@
+{
+  "slug": "bolt-new",
+  "name": "Bolt.new",
+  "tagline": "StackBlitz's prompt-to-app builder that runs a real Node.js environment inside the browser tab itself, no remote VM.",
+  "websiteUrl": "https://bolt.new",
+  "url": "https://theagentsindex.com/bolt-new",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "free-tier",
+    "no-code",
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Bolt.new’s WebContainers runtime is a genuine, verifiable technical edge — it runs Node.js natively inside the browser sandbox instead of proxying to a remote VM, which is why projects boot and preview instantly with zero local setup. Recent additions (MCP server connectors, Figma import, AI image editing) keep it moving fast, and a real free tier plus published pricing mean you can try it without a sales call. The honest catches: effort-based billing can run up fast on hard debugging loops, there is no public API to drive it from your own code, and its Trustpilot record (1.5/5 from 189 reviews) points to a real, unresolved customer-support problem worth weighing before you pay. Pick Bolt.new if you want the fastest prompt-to-deployed-app path and are comfortable self-serving through any support issues; pick Replit Agent instead if you want a similar zero-setup experience with a more conventional cloud-VM backend, or Cursor/Windsurf if you want an agent inside your own local toolchain rather than a hosted app factory.",
+  "lastVerified": "2026-07-25"
+}

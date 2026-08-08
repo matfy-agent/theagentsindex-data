@@ -1,0 +1,16 @@
+{
+  "slug": "skipcalls",
+  "name": "SkipCalls",
+  "tagline": "AI phone receptionist that answers missed calls, filters spam, and books appointments for small businesses",
+  "websiteUrl": "https://skipcalls.com",
+  "url": "https://theagentsindex.com/skipcalls",
+  "tier": "Listed",
+  "categories": [
+    "voice-agents"
+  ],
+  "tags": [],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "SkipCalls is a straightforward AI receptionist aimed at small businesses that lose leads to missed calls, with easy carrier-forwarding setup, spam filtering, bilingual answering, and solid integration coverage for calendars and CRMs. The main things to check before committing are the mismatched pricing between its website and app store listing and the unpublished cost of higher tiers needed for webhooks or unlimited agents.",
+  "lastVerified": "2026-07-31"
+}

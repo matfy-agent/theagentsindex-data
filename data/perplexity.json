@@ -1,0 +1,24 @@
+{
+  "slug": "perplexity",
+  "name": "Perplexity",
+  "tagline": "The AI answer engine, with agentic Deep Research and the Comet browser that acts on the web for you.",
+  "websiteUrl": "https://www.perplexity.ai",
+  "url": "https://theagentsindex.com/perplexity",
+  "tier": "Listed",
+  "categories": [
+    "research-agents"
+  ],
+  "tags": [
+    "api",
+    "free-tier",
+    "autonomous",
+    "browser-use",
+    "enterprise",
+    "claude",
+    "gpt"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Perplexity is the most refined AI answer engine available, and calling it an ‘agent’ is fair only because of the layers it has added on top: Deep Research, which autonomously compiles a cited report, and Comet, a browser whose built-in agent can act on the web for you. For everyday sourced answers it is hard to beat, and per-query model choice across Sonar, GPT, Claude, Gemini and now GLM and Kimi means you are not tied to one model’s weaknesses. The honest caveats are that it is still, at heart, a question-answering tool rather than a general workflow agent, and that like any LLM search product it can occasionally hallucinate or cite a source that doesn’t quite back the claim — so verification still matters. The best agentic pieces also live on the pricier Max and Enterprise tiers. Pick Perplexity if you want first-class sourced answers plus an autonomous research mode and an agentic browser in one place; skip it if you need a self-hosted or fully programmable task agent.",
+  "lastVerified": "2026-07-23"
+}

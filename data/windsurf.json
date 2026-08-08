@@ -1,0 +1,23 @@
+{
+  "slug": "windsurf",
+  "name": "Windsurf (now Devin Desktop)",
+  "tagline": "The agentic IDE that was Codeium, then Windsurf, now Cognition’s Devin Desktop, a command centre for coding agents.",
+  "websiteUrl": "https://devin.ai/desktop",
+  "url": "https://theagentsindex.com/windsurf",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "free-tier",
+    "autonomous",
+    "multi-agent",
+    "claude",
+    "gpt",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "freemium",
+  "verdict": "Windsurf was one of the best agentic IDEs of its generation, and as Devin Desktop it is now something more ambitious: a vendor-neutral command centre where local and cloud agents — Cognition’s own plus Claude Agent and Codex via the open ACP — run inside one polished editor (Gemini CLI could too, but Google restricted free access to it in June 2026, and its Antigravity CLI replacement isn’t ACP-compatible yet). That openness is a real differentiator in a field of walled-garden tools, and the shared free/$20 subscription with Devin makes it easy to try. The cost is turbulence: Codeium became Windsurf, Windsurf became Devin Desktop, and the original Cascade agent was switched off on 1 July 2026 — a lot of change for a tool teams use daily. Its default SWE models are also a notch behind frontier models on the hardest tasks, though you can route to those. Pick it if you want an open, multi-agent desktop IDE and are comfortable inside Cognition’s ecosystem; skip it if you want a lightweight editor extension or you specifically wanted the standalone Windsurf that no longer exists.",
+  "lastVerified": "2026-07-27"
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "artisan",
+  "name": "Artisan",
+  "tagline": "Ava, the AI BDR, an autonomous sales agent that sources leads, runs multi-channel outbound and books meetings without a human writing each message.",
+  "websiteUrl": "https://www.artisan.co",
+  "url": "https://theagentsindex.com/artisan",
+  "tier": "Listed",
+  "categories": [
+    "sales-marketing-agents"
+  ],
+  "tags": [
+    "autonomous",
+    "enterprise"
+  ],
+  "apiAvailable": false,
+  "pricing": "paid",
+  "verdict": "Artisan's Ava is one of the more complete \"AI BDR\" plays on the market: since the May 2026 Ava 2.0 rebuild she runs the full outbound motion autonomously, sourcing, enrichment, multi-channel outreach, reply and objection handling, and meeting booking, with a native dialer bridging the loop to a human for calls. The company is well-capitalised (~$37M+ raised, led by Glade Brook Capital with HubSpot Ventures and Y Combinator) and backs its pitch with specific, published customer numbers rather than vague praise. But two things temper the recommendation: pricing is entirely opaque (every tier is \"Talk to sales,\" and the self-serve entry tier the company announced at launch isn't visible on the live site), and Artisan has racked up a genuine string of controversies in a short window, a viral \"Stop Hiring Humans\" campaign, a three-week LinkedIn ban over a data vendor's ToS violation, and a publicized (since-settled) dispute over unauthorised use of a cartoonist's artwork. Pick Artisan if you're a funded sales team ready to run a proper paid pilot and judge Ava on your own reply and booking data; look elsewhere if you need transparent self-serve pricing or want to avoid a vendor whose brand has drawn this much recent scrutiny.",
+  "lastVerified": "2026-07-23"
+}
