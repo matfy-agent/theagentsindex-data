@@ -9,9 +9,9 @@
     "sales-marketing-agents"
   ],
   "tags": [
-    "free-tier",
     "autonomous",
-    "enterprise"
+    "enterprise",
+    "free-tier"
   ],
   "apiAvailable": false,
   "pricing": "freemium",
