@@ -1,7 +1,7 @@
 {
   "slug": "cursor",
   "name": "Cursor",
-  "tagline": "The AI code editor, an agent that reads, writes and edits across your whole codebase.",
+  "tagline": "The AI-first code editor (a VS Code fork) — an agent reads, plans and edits across your whole codebase. Free Hobby tier, Pro from $20/month.",
   "websiteUrl": "https://cursor.com",
   "url": "https://theagentsindex.com/cursor",
   "tier": "Listed",
@@ -9,14 +9,14 @@
     "coding-agents"
   ],
   "tags": [
-    "free-tier",
     "autonomous",
     "claude",
-    "gpt",
-    "enterprise"
+    "enterprise",
+    "free-tier",
+    "gpt"
   ],
   "apiAvailable": false,
   "pricing": "freemium",
   "verdict": "Cursor is the best in-editor agent for developers who want AI woven into a familiar editor rather than bolted onto a separate tool. Its multi-file agent mode and predictive tab-completion are the most polished in the category, and switching between Claude, GPT and Gemini per request means you are never locked into one model’s blind spots. The tradeoff is real: it is closed-source and subscription-priced, and heavy daily use can hit fast-request limits that push you toward a pricier tier. Pick Cursor for the smoothest agent-in-editor experience available today; skip it if you need a fully scriptable, headless agent for CI. One more factor worth weighing: on 2026-06-16 SpaceX agreed to acquire Cursor’s parent company Anysphere for $60 billion in an all-stock deal, expected to close in Q3 2026 pending regulatory approval, one of the largest startup acquisitions ever. Neither company has said what changes for the product, pricing or model roster once it closes, and analysts have flagged a real risk that SpaceX’s ownership of the rival xAI/Grok models could pull a currently model-agnostic tool toward favoring its new parent’s own stack, buyers who value Cursor’s per-request choice across Claude, GPT and Gemini should watch this closely as the deal progresses.",
-  "lastVerified": "2026-07-28"
+  "lastVerified": "2026-08-09"
 }
