@@ -9,11 +9,11 @@
     "support-agents"
   ],
   "tags": [
-    "enterprise",
+    "api",
     "autonomous",
-    "api"
+    "enterprise"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Ada is the incumbent of this category — founded in 2016, well before Decagon, Crescendo and Cresta existed, and still backed by a $1.2B valuation and $190M+ raised. Its strongest genuine differentiator today is developer access: a documented Conversations/Email API and an MCP server give it a self-serve integration path that Decagon, Sierra and Crescendo simply don't offer. The honest catch is the gap between how Ada looks from the admin seat and how it feels from the customer seat — a 4.6/5 G2 rating from the teams who configure it sits well above a 2.0/5 Trustpilot rating from the people actually chatting with it, with real complaints about lost context and reaching a human. Pick Ada if you want an established vendor with real API access and can budget for a sales-led, several-month implementation; skip it if you want transparent pricing, a free trial, or you're wary of that admin-vs-end-user satisfaction gap.",
   "lastVerified": "2026-07-23"
