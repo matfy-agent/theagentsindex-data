@@ -11,11 +11,11 @@
   "tags": [
     "api",
     "autonomous",
-    "open-models",
     "enterprise",
-    "no-code"
+    "no-code",
+    "open-models"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Retell AI is one of the strongest developer-first voice platforms, and its reputation rests on the two things that matter most on a phone call: natural voice quality and low latency, backed by a proprietary turn-taking model at around 600ms. You assemble the stack — LLM, voice, telephony — and get a real builder, an auto-syncing knowledge base, batch calling and simulation testing, plus a broad set of CRM and contact-centre integrations. The trade-offs are the usual ones for this class: component pricing that starts at $0.07/min but realistically lands north of $0.13–$0.20/min once fully specced, and a learning curve that assumes technical staff. Pick Retell if you want top-tier voice quality with control over the stack; skip it if you need a no-code tool with predictable flat pricing and hands-on support.",
   "lastVerified": "2026-07-27"
