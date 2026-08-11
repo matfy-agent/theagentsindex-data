@@ -9,17 +9,17 @@
     "agent-platforms"
   ],
   "tags": [
-    "open-source",
-    "self-hosted",
     "api",
-    "free-tier",
-    "enterprise",
     "autonomous",
-    "gpt",
     "claude",
-    "open-models"
+    "enterprise",
+    "free-tier",
+    "gpt",
+    "open-models",
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Botpress is the pick for engineering-led teams that want to own a conversational agent's code and data rather than configure a closed, fully-managed builder: the core framework is genuinely open-source (MIT-licensed, ~14.8k GitHub stars) and free to self-host indefinitely, with bi-directional MCP support and native deployment across a website widget, WhatsApp, Messenger, Slack, Microsoft Teams, Telegram and Twilio voice from one agent definition. The Autonomous Engine (LLMz) lets an agent plan and execute multi-step actions from a single instruction instead of a rigid flow, and a $25M Series B (June 2025, $120M valuation) on top of an earlier Series A signals real staying power for a company this size. The catch is the audience: Botpress is explicit that it isn't a zero-engineering tool — independent reviews describe needing at least one developer to wire up tool calls — and the LLM token cost (\"AI Spend\") bills separately from the plan fee, often exceeding it in production. Pick Botpress over Botsify if you want an open-source, code-level-customizable platform rather than a smaller no-code builder; pick Dify instead if the priority is a broader RAG/LLMOps workflow rather than conversational-agent channel deployment; pick a fully-managed option like Lindy if the goal is to avoid engineering involvement altogether.",
   "lastVerified": "2026-08-02"
