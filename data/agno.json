@@ -9,16 +9,16 @@
     "frameworks"
   ],
   "tags": [
-    "open-models",
-    "free-tier",
-    "open-source",
-    "multi-agent",
-    "gpt",
     "api",
-    "self-hosted",
-    "claude"
+    "claude",
+    "free-tier",
+    "gpt",
+    "multi-agent",
+    "open-models",
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Agno is a fast-moving open-source rebrand story: what started in 2023 as Phidata, a data-engineering and RAG-focused toolkit, became Agno in January 2025 and now ships as two products — a free, Apache 2.0 Python agent framework with built-in memory, knowledge and native two-way MCP support, and AgentOS, a separately priced runtime for running agents (Agno's own or built on other frameworks) in production. The free tier is genuinely capable for local development, and the paid AgentOS platform's BYOC model — deployed into the customer's own cloud rather than a shared multi-tenant one — is a real differentiator for teams wary of handing production data to a third party. The honest catches: its widely-repeated \"10,000x faster than LangGraph\" claim has no independent benchmark behind it that this research could find, the Phidata-to-Agno rename leaves a trail of outdated tutorials, and the $150/mo Pro tier is the only paid entry point — there's no cheaper step between free and a 4-seat production plan. Pick Agno for a fast, opinionated, model-agnostic framework with memory and multi-agent teams built in and a genuine BYOC production path; look at CrewAI instead if a fully managed cloud runtime matters more than owning the infrastructure yourself.",
   "lastVerified": "2026-08-06"
