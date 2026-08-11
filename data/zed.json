@@ -9,14 +9,14 @@
     "coding-agents"
   ],
   "tags": [
-    "open-source",
-    "free-tier",
-    "multi-agent",
     "claude",
+    "enterprise",
+    "free-tier",
     "gpt",
-    "self-hosted",
+    "multi-agent",
     "open-models",
-    "enterprise"
+    "open-source",
+    "self-hosted"
   ],
   "apiAvailable": false,
   "pricing": "freemium",
