@@ -10,16 +10,16 @@
   ],
   "tags": [
     "api",
-    "enterprise",
     "claude",
+    "enterprise",
     "free-tier",
-    "open-models",
     "gpt",
-    "open-source",
     "multi-agent",
-    "no-code"
+    "no-code",
+    "open-models",
+    "open-source"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Cartesia's core credibility is that its speech models are already load-bearing infrastructure for part of this very category — Vapi, Retell AI and LiveKit Agents are all named Cartesia customers on its own site, using Sonic and/or Ink as a component of their own stacks. Line, the newer voice-agent layer built on top, is the most LLM-agnostic and the most genuinely open source of any entry here: an Apache 2.0 SDK that connects to 100+ providers via LiteLLM, backed by a real $0/month tier and flat $0.06/min agent pricing that doesn't escalate with plan. The tradeoff is deployment: unlike Deepgram Voice Agent API, only the speech models — not Line's voice-agent runtime itself — can be self-hosted, so a buyer that needs the entire stack on its own infrastructure should look elsewhere in this category. A well-capitalized, fast-moving vendor ($191M raised, Series B in October 2025) still building out its independent review record.",
   "lastVerified": "2026-08-05"
