@@ -9,16 +9,16 @@
     "frameworks"
   ],
   "tags": [
-    "open-source",
-    "free-tier",
-    "multi-agent",
-    "self-hosted",
-    "gpt",
+    "api",
     "claude",
+    "free-tier",
+    "gpt",
+    "multi-agent",
     "open-models",
-    "api"
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Google Agent Development Kit is Google's answer to the same question Microsoft answered with Agent Framework and OpenAI answered with its own Agents SDK: a major AI lab's official, first-party toolkit for building agents, rather than leaving the whole category to third parties. What sets it apart is breadth and protocol alignment, not novelty — it's the only framework in this index shipping production-grade SDKs in four languages (Python, Go, Java, TypeScript, plus an experimental Kotlin/Android runtime), and it ships native support for both the Agent2Agent protocol and MCP rather than treating agent interoperability as an afterthought. It is genuinely model-agnostic despite the obvious Gemini optimization, and its free, Apache-2.0, fully self-hostable core pairs with an optional managed Agent Runtime for teams that want to scale without operating infrastructure themselves — the same shape Microsoft and OpenAI's official SDKs use. The honest catches are a real learning curve (this is a comprehensive framework, not a four-primitive minimal SDK), documentation and examples that still skew heavily toward Python even though the other three SDKs are GA, and a managed layer priced across several independent usage-based meters with no flat fee or hard spending cap. Pick it if you want Google's own official SDK, need genuine cross-vendor agent interoperability, or are standardizing on a language beyond Python; if none of those apply, LangChain's longer track record and larger ecosystem remain the safer default.",
   "lastVerified": "2026-07-29"
