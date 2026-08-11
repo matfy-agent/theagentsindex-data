@@ -1,0 +1,16 @@
+{
+  "slug": "agentskit",
+  "name": "AgentsKit",
+  "tagline": "The TypeScript toolkit for building, running, and shipping AI agents, open source and MIT licensed",
+  "websiteUrl": "https://agentskit.io",
+  "url": "https://theagentsindex.com/agentskit",
+  "tier": "Listed",
+  "categories": [
+    "frameworks"
+  ],
+  "tags": [],
+  "apiAvailable": true,
+  "pricing": "paid",
+  "verdict": "AgentsKit is a genuinely broad, developer-owned toolkit for building TypeScript agents, with strong provider coverage, a lightweight core, and a Registry model that avoids hidden runtime lock-in. It suits developers comfortable assembling their own stack more than teams looking for a managed, no-code agent platform.",
+  "lastVerified": "2026-08-10"
+}
