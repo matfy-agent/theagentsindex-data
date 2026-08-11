@@ -9,12 +9,12 @@
     "frameworks"
   ],
   "tags": [
-    "open-source",
     "free-tier",
-    "multi-agent",
-    "self-hosted",
     "gpt",
-    "no-code"
+    "multi-agent",
+    "no-code",
+    "open-source",
+    "self-hosted"
   ],
   "apiAvailable": false,
   "pricing": "free",
