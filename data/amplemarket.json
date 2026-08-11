@@ -13,7 +13,7 @@
     "autonomous",
     "enterprise"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Amplemarket's real pitch is consolidation with a human still at the wheel: contact data, multichannel sequencing and AI-driven signal detection live in one platform, and Duo Copilot drafts and prioritizes outreach without ever sending it unsupervised. That's a genuinely different bet from 11x or Artisan's fully autonomous AI SDRs, and from Clay's build-your-own enrichment workspace — Amplemarket ships a ready-to-use system, not a kit. A large, strongly positive G2 review base and a 2024 Gartner Cool Vendor nod back up a company that isn't a brand-new entrant. The honest catches: published, self-serve pricing stops at 2 seats ($600/month), the company's own pricing page and blog disagree on that same tier's credit numbers, and disclosed funding ($12M, last announced in 2022) is modest next to several category peers with no newer round since. Pick Amplemarket if you want prospecting data, sequencing and AI signal detection in one place with a human approving every send; pick 11x or Artisan instead if you specifically want autonomous send-without-review, or Clay if you want to build a custom enrichment workflow rather than take a bundled one.",
   "lastVerified": "2026-08-01"
