@@ -9,17 +9,17 @@
     "coding-agents"
   ],
   "tags": [
-    "open-source",
-    "self-hosted",
     "api",
     "autonomous",
-    "multi-agent",
+    "claude",
     "enterprise",
     "free-tier",
     "gpt",
-    "claude"
+    "multi-agent",
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "OpenHands is a credible, community-backed choice for engineering teams that want an open source, self-hostable coding agent platform rather than a closed SaaS tool. Its free OSS core, embeddable SDK, and enterprise-grade sandboxed deployment options make it flexible for both solo developers and security-conscious organizations, provided you're willing to accept a more technical setup process — whether you bring your own LLM API key or pay OpenHands' own at-cost rate for model usage.",
   "lastVerified": "2026-07-25"
