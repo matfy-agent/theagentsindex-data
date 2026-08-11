@@ -9,13 +9,13 @@
     "frameworks"
   ],
   "tags": [
-    "open-source",
-    "free-tier",
-    "multi-agent",
-    "self-hosted",
-    "gpt",
     "claude",
-    "open-models"
+    "free-tier",
+    "gpt",
+    "multi-agent",
+    "open-models",
+    "open-source",
+    "self-hosted"
   ],
   "apiAvailable": false,
   "pricing": "free",
