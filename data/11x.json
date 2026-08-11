@@ -9,11 +9,11 @@
     "sales-marketing-agents"
   ],
   "tags": [
+    "api",
     "autonomous",
-    "enterprise",
-    "api"
+    "enterprise"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "11x is one of the most visible bets in the \"AI SDR\" category: Alice runs the whole outbound motion, research, list-building and multi-channel sequencing, while Julian adds an AI voice agent for calls, both pitched as always-on digital workers that plug into your CRM. Backed by a16z and Benchmark, it’s genuinely capable and the underlying category is real. But the caveats are significant and well-documented: pricing is custom and sales-led with no free plan, autonomous SDR quality varies enough that independent tests report mixed results, and in March 2025 TechCrunch reported the company had displayed logos of firms that said they weren’t customers, alongside former-staff accounts of high early churn, issues that preceded a leadership change. Pick 11x if you’re an enterprise team ready to run a rigorous paid pilot and measure deliverability and booked meetings yourself; skip it if you want transparent pricing, a free trial, or to buy on marketing claims rather than your own data.",
   "lastVerified": "2026-07-23"
