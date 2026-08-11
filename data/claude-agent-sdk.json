@@ -9,13 +9,13 @@
     "frameworks"
   ],
   "tags": [
-    "claude",
-    "multi-agent",
-    "self-hosted",
     "api",
-    "free-tier"
+    "claude",
+    "free-tier",
+    "multi-agent",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "The Claude Agent SDK is Anthropic's answer to the same question Microsoft, Google and OpenAI have already answered with their own official SDKs — but it takes the most tightly-integrated, least model-agnostic approach of the four. Instead of a general-purpose agent framework that happens to support Claude, it's the literal agent harness behind Claude Code, exposed as a library: the same tools, the same agent loop, the same context management, callable from your own Python or TypeScript code, with a genuine choice between self-hosting the subprocess yourself or handing it to Claude Managed Agents, Anthropic's own hosted REST API. The tradeoff for that tight integration is real: it runs Claude models only (a GitHub issue asking for other providers was closed \"not planned\"), the MIT license on the wrapper packages doesn't extend to the closed-source CLI binary they bundle and spawn, and Anthropic changed how programmatic usage is billed twice in six weeks in mid-2026, reversing a planned split onto a separate credit pool on the day it was due to take effect. Pick it if you're already committed to Claude and want its exact production harness as a library rather than reimplementing a tool loop yourself; pick one of its three multi-provider siblings if vendor flexibility matters more than the depth of that integration.",
   "lastVerified": "2026-07-30"
