@@ -9,12 +9,12 @@
     "coding-agents"
   ],
   "tags": [
-    "free-tier",
     "autonomous",
-    "multi-agent",
     "claude",
+    "enterprise",
+    "free-tier",
     "gpt",
-    "enterprise"
+    "multi-agent"
   ],
   "apiAvailable": false,
   "pricing": "freemium",
