@@ -9,7 +9,7 @@
     "voice-agents"
   ],
   "tags": [],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "SkipCalls is a straightforward AI receptionist aimed at small businesses that lose leads to missed calls, with easy carrier-forwarding setup, spam filtering, bilingual answering, and solid integration coverage for calendars and CRMs. The main things to check before committing are the mismatched pricing between its website and app store listing and the unpublished cost of higher tiers needed for webhooks or unlimited agents.",
   "lastVerified": "2026-07-31"
