@@ -9,14 +9,14 @@
     "frameworks"
   ],
   "tags": [
-    "open-source",
-    "free-tier",
     "api",
+    "enterprise",
+    "free-tier",
     "multi-agent",
-    "self-hosted",
-    "enterprise"
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "LlamaIndex is the reference implementation for retrieval-augmented generation: if your application lives or dies on getting the right context into the model, its query engines, advanced retrieval patterns and 300-plus connectors are the deepest toolkit available, and the MIT-licensed core is genuinely free. Its expansion into event-driven Workflows and agent tooling means it is no longer just a RAG library, though agent-first orchestration is still more naturally LangGraph or CrewAI territory. The commercial LlamaCloud, chiefly LlamaParse, is a real asset for messy PDFs, tables and scans, and it comes with a monthly free-credit allotment, but the best parsing sits behind usage-based paid plans rather than in the free package. Be prepared for a learning curve on advanced retrieval and for an API that has churned across frequent releases. Pick LlamaIndex when retrieval quality is the core of your product; skip it as your primary tool if your app is chiefly a real-time conversational or multi-tool agent with little document grounding.",
   "lastVerified": "2026-07-27"
