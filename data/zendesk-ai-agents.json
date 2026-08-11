@@ -13,7 +13,7 @@
     "autonomous",
     "enterprise"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Zendesk AI Agents' real pitch isn't that it out-resolves Fin or Decagon — it's that the agent ships inside the helpdesk platform millions of support teams already run tickets on, so there's no second vendor, no separate integration project, and a multi-model backbone (OpenAI, Anthropic, Google, Bedrock) that isn't locked to one provider. The May 2026 billing restructuring is a genuine improvement: it stopped charging for escalations and abandoned conversations, addressing exactly the \"assumed resolution\" complaint that dogs Intercom Fin. But convenience costs predictability: AI Agents aren't sold standalone, so total spend stacks a $55-$115+/agent/month Suite fee on top of an undisclosed per-resolution rate that independent analysis puts around $1.20-$1.50 — and that rate has already been restructured once in 2026, so multi-year cost modeling means trusting a moving target rather than a stable, published price like Fin's $0.99/resolution. Pick Zendesk AI Agents if you're already on (or moving to) Zendesk and want one vendor for tickets and AI; pick Fin or a standalone specialist instead if you want the AI agent decoupled from your helpdesk choice, or a single number you can budget against.",
   "lastVerified": "2026-08-01"
