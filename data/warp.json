@@ -9,16 +9,16 @@
     "coding-agents"
   ],
   "tags": [
-    "open-source",
-    "free-tier",
-    "multi-agent",
     "api",
+    "autonomous",
     "claude",
-    "gpt",
     "enterprise",
-    "autonomous"
+    "free-tier",
+    "gpt",
+    "multi-agent",
+    "open-source"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Warp is the one listing in this category that isn't really competing with Claude Code or Codex CLI so much as hosting them: it's a full terminal replacement whose headline capability is running multiple vendors' coding agents side by side in one place, with team-wide context (Warp Drive), a real API for triggering cloud agent runs programmatically (Oz), and — since April 2026 — a genuinely open-source client backed by 63.6k GitHub stars and OpenAI as founding sponsor. The tradeoff is scope: adopting Warp means switching your terminal application, not just adding a CLI tool, and its paid tiers are metered in credits that can climb fast under heavy daily use — the $200/month Max tier exists precisely because Build's 1,500 credits run out for power users. Pick Warp if you want one AI-native home for every coding agent you use and are willing to make it your default terminal; stick with a standalone CLI agent if you'd rather keep your current terminal untouched.",
   "lastVerified": "2026-07-27"
