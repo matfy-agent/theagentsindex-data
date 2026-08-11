@@ -10,15 +10,15 @@
   ],
   "tags": [
     "api",
-    "free-tier",
-    "no-code",
     "autonomous",
+    "claude",
     "enterprise",
-    "open-models",
+    "free-tier",
     "gpt",
-    "claude"
+    "no-code",
+    "open-models"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "ElevenLabs Conversational AI (rebranded ElevenAgents) approaches the voice-agent category from an unusual angle: instead of starting as an orchestration platform and treating voice as one interchangeable component, it starts from the industry’s most-cited text-to-speech and voice-cloning models and wraps an agent layer around them. That shows up as a real edge — 10,000+ voices, instant cloning, and native speech in 70+ languages — backed by a company now valued at $11B with production customers like Deutsche Telekom, Square and Revolut. The LLM layer is genuinely flexible: an ElevenLabs-hosted model for the lowest latency, or bring your own key, including open-source models via an OpenAI-compatible endpoint. The tradeoffs mirror the rest of this category: pricing stacks a subscription, per-minute overage/burst, and separate LLM/telephony usage; and the product covers the voice/orchestration layer, not a turnkey CRM-connected ops tool. Pick it if voice quality and cloning are the deciding factor; skip it if you want a no-code, fully-managed CX product or a stack-agnostic build like Vapi.",
   "lastVerified": "2026-07-25"
