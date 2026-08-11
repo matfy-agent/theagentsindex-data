@@ -1,0 +1,24 @@
+{
+  "slug": "junie",
+  "name": "Junie",
+  "tagline": "JetBrains' own AI coding agent — plans before it codes, drives the real IDE debugger, and runs across the whole JetBrains IDE family plus a standalone CLI. Free tier exists; Pro from $10/month.",
+  "websiteUrl": "https://www.jetbrains.com/junie/",
+  "url": "https://theagentsindex.com/junie",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "api",
+    "autonomous",
+    "claude",
+    "enterprise",
+    "free-tier",
+    "gpt",
+    "open-models"
+  ],
+  "apiAvailable": true,
+  "pricing": "freemium",
+  "verdict": "Junie's real edge over most coding agents in this index is depth of IDE integration, not raw novelty: its Agentic Debugging mode drives the actual JetBrains debugger — setting breakpoints and inspecting live runtime state — instead of guessing from log statements the way a purely terminal-based agent has to, and its Plan Mode produces a structured requirements/design document a developer reviews and approves before any code gets written. JetBrains backed that up at GA with the top score on the SWE-Rebench harness leaderboard (61.6% resolved, 72.7% pass@5) — its own reported result, not yet independently reproduced. The catch is the pricing: Junie draws from a JetBrains AI credit pool shared across every AI feature, and JetBrains' own docs say agentic runs burn credits noticeably faster than ordinary code completion, so the effective monthly cost of regular use is harder to predict than a flat per-seat price — and the same tier name costs more, for a larger credit allotment, under a Business license than an Individual one. Pick Junie if your team already lives inside a JetBrains IDE and wants an agent that shares its debugger and project index rather than a bolted-on separate tool; look elsewhere if you're not on a JetBrains IDE day to day, since its two signature features don't help you outside that ecosystem.",
+  "lastVerified": "2026-08-10"
+}
