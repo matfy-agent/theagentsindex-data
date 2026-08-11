@@ -9,16 +9,16 @@
     "frameworks"
   ],
   "tags": [
-    "open-source",
-    "free-tier",
-    "multi-agent",
-    "self-hosted",
-    "gpt",
+    "api",
     "claude",
+    "free-tier",
+    "gpt",
+    "multi-agent",
     "open-models",
-    "api"
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Microsoft Agent Framework is what AutoGen and Semantic Kernel became once Microsoft decided to stop maintaining two separate agent stacks and support one instead. It reached a production-ready 1.0 GA on 2026-04-03, ships consistent APIs across .NET, Python and Go, and is genuinely more open than its Microsoft branding suggests — Anthropic’s Claude and local Ollama models are first-class citizens, not afterthoughts. What sets it apart from most frameworks in this category is that it doesn’t stop at orchestration: the Agent Harness gives an agent a real, guarded environment to act in, and Foundry Hosted Agents offers a managed path to production without forcing you off the free, self-hostable core. CodeAct’s measured token and latency savings and native MCP/A2A support show it building for where the rest of the ecosystem is heading, not just where Microsoft wants it to go. The honest catch is age: as a unified product it is roughly a quarter old, with a GitHub community still far smaller than LangChain’s or legacy AutoGen’s, and Microsoft’s own terms put the burden of risk on you for any non-Microsoft model or MCP server you plug in. Pick it if you are migrating off AutoGen or Semantic Kernel, or starting fresh with real Azure/Foundry investment; if neither applies, LangChain’s longer track record and wider ecosystem are still the safer default.",
   "lastVerified": "2026-07-28"
