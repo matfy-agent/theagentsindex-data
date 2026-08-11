@@ -9,11 +9,11 @@
     "agent-platforms"
   ],
   "tags": [
-    "no-code",
     "autonomous",
-    "multi-agent",
     "browser-use",
-    "enterprise"
+    "enterprise",
+    "multi-agent",
+    "no-code"
   ],
   "apiAvailable": false,
   "pricing": "paid",
