@@ -9,13 +9,13 @@
     "agent-platforms"
   ],
   "tags": [
-    "enterprise",
     "api",
-    "gpt",
     "claude",
+    "enterprise",
+    "gpt",
     "no-code"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Glean is the search-first entry in this index's agent-platforms category — its Knowledge Graph and permission-aware indexing across 100+ workplace systems come before agent-building, not after, which is a genuinely different foundation from Moveworks' ticket-resolution focus, n8n/Dify's workflow-canvas approach, or Lindy/Relevance AI's consumer-facing no-code builders. That foundation is backed by real scale: a $7.2B valuation (June 2025), over $765M raised across six rounds, $100M in annual recurring revenue by February 2025, and Fortune-500-grade customers (Booking.com, Zillow, Ericsson) each running thousands of internally-built agents. It also ships MCP support in both directions today — a shipped capability Moveworks' own blog admits is still just \"planned.\" The honest catches: Glean publishes no price list at all (Vendr's buyer-data aggregation puts the median deal at $98,890/year across 174 tracked purchases, with typical enterprise minimums around 100–250 seats), G2 reviewers flag it as genuinely expensive with a mandatory support fee near 10% of contract value on top, and its chat still produces occasional hallucinations like any LLM-backed assistant. Pick Glean if your agent strategy starts with \"can it find and reason over everything we already know\" rather than \"can it automate this one workflow\"; look at Dify or n8n instead if you want self-hosted, budget-transparent workflow automation, or Moveworks if IT/HR ticket deflection specifically is the job.",
   "lastVerified": "2026-07-27"
