@@ -10,12 +10,12 @@
   ],
   "tags": [
     "api",
-    "no-code",
-    "self-hosted",
     "autonomous",
-    "enterprise"
+    "enterprise",
+    "no-code",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Bland AI’s pitch is ownership: it runs its own self-hosted model stack instead of stitching together third-party providers, which underpins a genuinely strong compliance story (SOC 2, HIPAA, PCI DSS, EU/APAC residency, on-prem) and an all-in per-minute price with no confusing model pass-throughs. Its Conversational Pathways give the deterministic, auditable control that regulated call flows demand. Be clear-eyed about the limits, though: the marketed 400ms latency and 40+-language support are vendor-reported without independent benchmarking, and support leans on the public Discord community and self-service below the Enterprise tier. Pick Bland if you are an enterprise that values infrastructure control, compliance and predictable pricing above all; skip it if you want a fast, no-code, multilingual agent with hands-on support at a starter price.",
   "lastVerified": "2026-07-25"
