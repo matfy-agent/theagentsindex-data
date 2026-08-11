@@ -9,10 +9,10 @@
     "coding-agents"
   ],
   "tags": [
-    "free-tier",
-    "no-code",
     "autonomous",
-    "enterprise"
+    "enterprise",
+    "free-tier",
+    "no-code"
   ],
   "apiAvailable": false,
   "pricing": "freemium",
