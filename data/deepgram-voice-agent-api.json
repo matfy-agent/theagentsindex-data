@@ -10,15 +10,15 @@
   ],
   "tags": [
     "api",
-    "enterprise",
-    "self-hosted",
-    "gpt",
+    "autonomous",
     "claude",
+    "enterprise",
+    "gpt",
     "multi-agent",
     "open-models",
-    "autonomous"
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Deepgram Voice Agent API sits between the raw OpenAI Realtime API and a fully-configured platform like Bland AI or Retell AI: a managed STT+LLM+TTS orchestration layer from the company several rival platforms already plug in as a speech-to-text provider (LiveKit Agents names Deepgram directly in its own provider list). The genuinely distinguishing fact is deployment — fully managed, dedicated single-tenant, VPC-hosted, or fully self-hosted are all real options, backed by SOC 2 Type II certification and signed HIPAA BAAs, a spread no other closed-source vendor in this category matches. Its built-in LLM router is also the broadest here: six named providers spanning 30+ models, including open-weight options via Groq and NVIDIA, versus a fixed model or a narrower bring-your-own list everywhere else. The tradeoffs: no ongoing free tier (a one-time $200 credit only), no dashboard or CRM integrations — it's infrastructure a developer builds on top of, not a configured product — and the cheapest published rate only applies once you've brought your own LLM and TTS.",
   "lastVerified": "2026-08-04"
