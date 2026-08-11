@@ -9,17 +9,17 @@
     "coding-agents"
   ],
   "tags": [
-    "open-source",
     "api",
-    "free-tier",
     "autonomous",
-    "self-hosted",
-    "gpt",
     "claude",
+    "enterprise",
+    "free-tier",
+    "gpt",
     "open-models",
-    "enterprise"
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Cline is the reference open-source coding agent: Apache-2.0, bring-your-own-key, and available as a VS Code extension, a CLI and an embeddable SDK, with Zed/Neovim reachable via the open Agent Client Protocol. Its Plan/Act workflow and first-class MCP support make it both careful and unusually extensible, and because you supply the model you get full choice and transparent, usage-only cost — route cheap tasks to a local model and hard ones to a frontier model. Two optional paid layers now sit on top of that free core: a $9.99/month ClinePass for discounted open-weight-model rate limits, and a custom-priced Enterprise tier that adds an SLA, dedicated support and a centrally-managed JetBrains rollout for organizations — the JetBrains plugin itself is free and self-serve, same BYOK terms as VS Code. The flip side of BYO-key is that costs are unbounded on the core tier: a long agentic run on a top model can quietly rack up API spend, and you own all the setup, keys and troubleshooting yourself. Output quality is only as good as the model you plug in. Pick Cline if you value openness, control and no lock-in and are comfortable managing your own model access; skip the free tier if you specifically need a support SLA or centrally-managed rollout, and budget for Enterprise instead.",
   "lastVerified": "2026-07-27"
