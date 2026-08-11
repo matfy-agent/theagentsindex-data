@@ -9,11 +9,11 @@
     "agent-platforms"
   ],
   "tags": [
-    "enterprise",
     "api",
-    "autonomous"
+    "autonomous",
+    "enterprise"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Moveworks is the one listing in this index built for employees, not customers — its AI Assistant resolves IT, HR and finance requests across 100+ connected enterprise systems (ServiceNow, Workday, Okta, Salesforce) rather than handling support tickets from a company's own customers, which puts it in a different lane from Decagon, Sierra, Intercom Fin, Crescendo and Cresta despite a similar \"AI agent that resolves requests end to end\" pitch. Its compliance bar is the deepest in this index — FedRAMP, SOC 2 Type 2, a full ISO 27000-series spread, CSA STAR Level 2 — built for exactly the regulated, security-conscious buyers who read that list line by line. The honest catches: there is no public pricing (third-party buyer reports put realistic annual spend from roughly $50K to $270K+, with a 2-month average implementation and a real configuration learning curve), MCP support is still in development rather than shipped, and — the fact that changes the calculus most — Moveworks is no longer an independent company. ServiceNow completed its $2.85 billion acquisition on December 15, 2025, and buyer analyses already expect pricing to shift toward bundled ServiceNow SKUs going forward. Pick Moveworks if you are a large enterprise (especially one already or soon-to-be running ServiceNow) that wants deeply-certified, employee-facing AI across every department; look elsewhere if you need customer-facing support automation, self-serve pricing, or the roadmap certainty of a standalone company.",
   "lastVerified": "2026-07-27"
