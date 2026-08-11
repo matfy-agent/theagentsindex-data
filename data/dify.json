@@ -9,17 +9,17 @@
     "agent-platforms"
   ],
   "tags": [
-    "open-source",
     "api",
-    "free-tier",
-    "self-hosted",
-    "no-code",
-    "gpt",
     "claude",
+    "enterprise",
+    "free-tier",
+    "gpt",
+    "no-code",
     "open-models",
-    "enterprise"
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Dify has become the default open-source answer to \"how do we build and ship LLM apps without gluing five tools together.\" Its visual Workflow Studio, built-in RAG pipeline, model-agnostic runtime and observability cover the whole path from prototype to production, and with a large open-source community and a Docker self-host option you get real data control and no lock-in. The nuances matter: the licence is Apache-2.0-derived with extra conditions rather than pure open source, self-hosting means you own the ops burden, and the managed cloud meters usage in message credits that heavier apps will outgrow. For deeply bespoke agent logic a code-first framework can still be more flexible. Pick Dify if you want a self-hostable, all-in-one platform for RAG and agent apps and have the technical chops to run it; skip it if you want a hands-off managed \"AI employee\" with no infrastructure to think about.",
   "lastVerified": "2026-07-27"
