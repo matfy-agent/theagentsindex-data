@@ -9,12 +9,12 @@
     "voice-agents"
   ],
   "tags": [
-    "no-code",
     "api",
     "enterprise",
-    "multi-agent"
+    "multi-agent",
+    "no-code"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Synthflow AI's real differentiation is who can operate it: a genuinely visual, no-code Flow Designer and a named BELL deployment methodology mean an operations or CX team can design, test and launch a phone agent without an engineering ticket — a different buyer than the developer-first Vapi and Retell AI. That is backed by real scale ($20M Series A led by Accel, 45M+ calls processed) and an unusually complete compliance set (SOC 2, HIPAA, GDPR, PCI DSS, ISO 27001) for the funding stage. The honest catches are the same component-pricing pattern its rivals share — the $0.09/min headline is one of three billed pieces, and a real configuration lands near $0.11–$0.16/min before add-ons — plus no self-serve monthly plan (only metered usage or a ~$30,000/year Enterprise contract) and an LLM choice currently limited to OpenAI models. Pick Synthflow if you want a no-code path to a compliant phone agent and don't need to choose your own model; skip it if you want full API control, any-LLM flexibility, or a predictable low-commitment self-serve price.",
   "lastVerified": "2026-07-30"
