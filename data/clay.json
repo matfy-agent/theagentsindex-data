@@ -10,13 +10,13 @@
   ],
   "tags": [
     "api",
-    "free-tier",
-    "no-code",
-    "gpt",
     "claude",
-    "enterprise"
+    "enterprise",
+    "free-tier",
+    "gpt",
+    "no-code"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Clay has become the GTM data layer serious outbound teams build on, and for good reason: its waterfall enrichment posts materially higher match rates than any single-source tool, and Claygent adds AI research that scrapes the web for data points no provider packages. Put together with signals, scoring, AI copy, a sequencer and ad-audience sync, it takes you from raw list to CRM-ready outbound in one workspace, with unlimited seats on every plan. The tradeoffs are equally well documented: the dual credit meter is genuinely hard to predict, failed lookups still cost credits and Claygent-heavy runs can balloon at scale, and the tool has a steep enough learning curve that it really wants a dedicated GTM engineer. Pick Clay if you have the technical appetite and a budget above a few hundred dollars a month; skip it if you need predictable flat pricing or have no one to build the workflows.",
   "lastVerified": "2026-07-27"
