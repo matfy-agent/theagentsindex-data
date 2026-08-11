@@ -1,0 +1,20 @@
+{
+  "slug": "muse-code",
+  "name": "Muse Code",
+  "tagline": "Meta's terminal coding agent — pay standard rate and it never trains on your code, or opt into Contributor pricing for a steep discount if you let it.",
+  "websiteUrl": "https://dev.meta.ai",
+  "url": "https://theagentsindex.com/muse-code",
+  "tier": "Listed",
+  "categories": [
+    "coding-agents"
+  ],
+  "tags": [
+    "api",
+    "autonomous",
+    "multi-agent"
+  ],
+  "apiAvailable": true,
+  "pricing": "paid",
+  "verdict": "Muse Code is a capable, fast-following terminal coding agent from a company with the compute and model budget to make Claude Code and Codex CLI defend their pricing, not yet a reason to switch tools outright. Its one genuinely novel mechanic is priced, not just toggled: a Contributor tier bills roughly 8-12x less per token than Standard in exchange for letting Meta train future models on your prompts and completions, a direct price-for-data trade neither Claude Code nor Codex CLI offers, both only ship an opt-out toggle at a fixed price either way. The parallel sub-agent worktree model is a real capability edge for large, multi-part jobs, but it launched three days before this listing was researched, as a beta, with no independent benchmark yet and no dedicated IDE or GUI surface. Pick it to evaluate Meta's own coding model at a real cost discount or to trial multi-worktree parallelism on a big refactor; look elsewhere for an established daily driver with outside-verified accuracy.",
+  "lastVerified": "2026-08-11"
+}
