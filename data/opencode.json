@@ -9,15 +9,15 @@
     "coding-agents"
   ],
   "tags": [
-    "open-source",
-    "free-tier",
     "api",
-    "self-hosted",
-    "open-models",
+    "claude",
+    "free-tier",
     "gpt",
-    "claude"
+    "open-models",
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "OpenCode’s core pitch is real: it costs nothing to run, is genuinely open-source under MIT, and connects to essentially any model — 75+ cloud providers plus local Ollama — rather than betting on one vendor the way Claude Code or Cursor do. That flexibility, combined with a very fast release cadence (a new version roughly every few days) and a large, active GitHub community (188,976 stars as of this listing’s research date), makes it a credible pick for developers who already have a preferred model or subscription and do not want a second bill. The honest catches: its disclosed 2026-01-12 security history includes one critical and one high-severity advisory (both patched, but real), an open GitHub issue is still tracking real memory-growth complaints as of this listing’s research date, and a dead, similarly-named repository (opencode-ai/opencode) makes it easy to land on the wrong project by accident. Pick OpenCode if free, open-source and model flexibility matter more to you than a single polished vendor experience; pick Claude Code or Cursor instead if you would rather pay for one vendor’s managed reliability and support.",
   "lastVerified": "2026-07-25"
