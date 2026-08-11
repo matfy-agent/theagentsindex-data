@@ -9,13 +9,13 @@
     "frameworks"
   ],
   "tags": [
-    "open-source",
-    "self-hosted",
     "api",
+    "enterprise",
     "free-tier",
-    "enterprise"
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Letta is the one framework in this category built around a genuinely different premise: agents as stateful, persistent objects — with git-versioned memory and idle-period \"sleep-time compute\" — rather than stateless call graphs assembled fresh on every request. That premise traces directly back to MemGPT, the Berkeley research it grew out of, and its founders (Sarah Wooders, Charles Packer) are the same researchers behind that work. The open-source core is real and active (23.9K+ GitHub stars, Apache 2.0, self-hostable), backed by a $10M Felicis-led seed round and used in production at Bilt, 11x, Kognitos and Hunt Club. The tradeoffs: it's a much smaller, younger ecosystem than LangChain's, its funding is a single, smaller seed round rather than a later-stage raise, and its product surface is split across two differently-adopted repos. Pick it when persistent, evolving agent memory is the actual requirement; pick a stateless orchestration framework when the task is a bounded workflow that doesn't need to remember anything between runs.",
   "lastVerified": "2026-07-27"
