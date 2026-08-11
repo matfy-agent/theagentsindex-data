@@ -1,7 +1,7 @@
 {
   "slug": "langchain",
   "name": "LangChain",
-  "tagline": "The most widely-used framework for building LLM apps and agents, with LangGraph for stateful control.",
+  "tagline": "The most widely-used framework for building LLM apps and agents, with LangGraph for stateful multi-agent control — open-source and free to self-host.",
   "websiteUrl": "https://www.langchain.com",
   "url": "https://theagentsindex.com/langchain",
   "tier": "Listed",
@@ -9,17 +9,17 @@
     "frameworks"
   ],
   "tags": [
-    "open-source",
     "api",
-    "free-tier",
-    "multi-agent",
-    "self-hosted",
-    "gpt",
     "claude",
-    "open-models"
+    "free-tier",
+    "gpt",
+    "multi-agent",
+    "open-models",
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "LangChain is the default starting point for building a custom, production-grade agent rather than adopting an off-the-shelf tool, mostly because nothing else matches its integration ecosystem. LangGraph adds real stateful control, branching, loops, human-in-the-loop, multiple coordinated agents, that a simple chain-based library cannot offer, and LangSmith adds production tracing and evals once you are ready to pay for them. The cost is a real learning curve: the core abstractions have changed across major versions, and older tutorials can actively mislead. It is the right tool when you are building something bespoke, and overkill for a single prompt-and-response wrapper. Worth knowing: LangChain raised a $125 million Series B in October 2025 at a $1.25 billion valuation, becoming a unicorn, a real signal of staying power, and because the LangChain and LangGraph libraries themselves are open-source and self-hostable, your own deployment is not at the mercy of the company’s fate the way a closed-source tool’s would be.",
-  "lastVerified": "2026-07-25"
+  "lastVerified": "2026-08-09"
 }
