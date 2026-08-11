@@ -9,8 +9,8 @@
     "support-agents"
   ],
   "tags": [
-    "enterprise",
     "autonomous",
+    "enterprise",
     "multi-agent"
   ],
   "apiAvailable": false,
