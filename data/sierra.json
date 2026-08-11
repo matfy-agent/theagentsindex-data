@@ -6,12 +6,12 @@
   "url": "https://theagentsindex.com/sierra",
   "tier": "Listed",
   "categories": [
-    "agent-platforms",
-    "support-agents"
+    "support-agents",
+    "agent-platforms"
   ],
   "tags": [
-    "enterprise",
     "autonomous",
+    "enterprise",
     "no-code"
   ],
   "apiAvailable": false,
