@@ -13,7 +13,7 @@
     "autonomous",
     "enterprise"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Fin is the most broadly deployed AI support agent, and its two big advantages are reach and speed: it runs omnichannel (chat, email, voice, social) and can sit on top of virtually any helpdesk, Zendesk, Salesforce, Freshdesk, with Intercom claiming setup in under an hour, backed by a documented API and MCP. Its outcome-style $0.99-per-resolution pricing is genuinely appealing when the agent does the work. The honest caveats are about that meter: Intercom’s 76% headline resolution rate is a best case, with independent analyses of case studies often landing nearer 40-50%, and billing counts “assumed” resolutions when a customer merely stops replying, so costs can be unpredictable and occasionally reward non-resolutions. One more factor to weigh: Salesforce signed a definitive agreement in June 2026 to acquire Intercom/Fin for roughly $3.6B, expected to close around Salesforce’s fiscal Q4 2027, leadership says little changes day-to-day for now, but buyers running Fin over a non-Salesforce helpdesk should watch for roadmap or pricing shifts once the deal closes. Pick Fin if you want a capable agent over your existing stack and can model per-resolution economics (and the pending acquisition); skip it if you need a flat, predictable bill or object to paying for soft resolutions.",
   "lastVerified": "2026-08-03"
