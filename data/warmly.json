@@ -13,7 +13,7 @@
     "autonomous",
     "enterprise"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Warmly's real differentiation is that it doesn't stop at identifying anonymous visitors — it pairs that data with two purpose-built agents that act on it: an Inbound Agent that engages whoever is already on the site, and a TAM Agent that maps and works accounts that aren't there yet, both drawing on the same combined first/second/third-party signal layer. Real named customers (New Relic, Cyberhaven, CircleCI) and $21.9M raised since 2020 back a company past the earliest stage. The honest catches: person-level identification (the harder, more valuable half of \"de-anonymization\") is independently reported well below what specialist identification tools claim, and as of today there is no self-serve monthly plan or free tier at all — every paid tier is a quarterly-or-annual contract starting at $4,875/quarter. Pick Warmly if you have real inbound volume and want one system for both engaging visitors and orchestrating outbound around them; skip it if you want to trial something free or month-to-month first, or if your traffic doesn't clear the volume where person-level matching pays off.",
   "lastVerified": "2026-07-30"
