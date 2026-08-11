@@ -9,17 +9,17 @@
     "research-agents"
   ],
   "tags": [
-    "open-source",
-    "self-hosted",
-    "autonomous",
-    "multi-agent",
     "api",
+    "autonomous",
+    "claude",
     "free-tier",
-    "open-models",
     "gpt",
-    "claude"
+    "multi-agent",
+    "open-models",
+    "open-source",
+    "self-hosted"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "free",
   "verdict": "GPT Researcher is the reference open-source implementation of the autonomous research agent, and it holds up: give it a question and its planner-and-executor agents fan out across the web, read the sources and return a properly cited, long-form report. Its biggest strengths are openness and control — Apache-2.0 licensed, self-hosted, and agnostic about which LLM and search engine you use, so you can tune cost, quality and privacy to your needs, and even research your own local documents. The tradeoffs are the flip side of that freedom: it is a developer tool you have to install, key up and run, there is no hosted polish, and both quality and spend ride on the model and retriever you pick. Like every research agent, its citations cut hallucination without eliminating it, so reports still need a human check. Pick GPT Researcher if you want a free, hackable, self-hosted research engine you can build on; skip it if you want a no-setup, hosted product and are happy to pay for the convenience.",
   "lastVerified": "2026-07-25"
