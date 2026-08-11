@@ -13,7 +13,7 @@
     "api",
     "no-code"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "paid",
   "verdict": "Botsify is the rare AI-agent vendor built as much for the reseller as the end customer: a decade-old (2016), bootstrapped, Karachi-based chatbot company that rebuilt its whole offering around two managed tracks in 2026 — a $149/month Done-for-You agent for anyone who wants a support, lead-gen or booking agent live across WhatsApp, Messenger, Instagram, Telegram, SMS and the web without writing a prompt themselves, and a White Label program that hands agencies a rebrandable dashboard, partner portal and reselling rights to launch their own AI-agent business on Botsify's infrastructure. That reseller angle is genuinely distinct in this index — most no-code builders here sell only to the end user, not to an agency wanting to resell the platform itself — and a decade of operating history is a real, if modest, credibility signal in a category full of companies only a few years old. The catches are concrete: neither track discloses which LLM answers a conversation, the White Label plan (its clearest differentiator) publishes no price at all, and its review record has a genuine split — strong on G2 and Capterra, weak on Trustpilot, where slow support and advanced-feature bugs are the recurring complaint. Pick Botsify if you want a managed, multi-channel agent from an established small vendor, or specifically want to resell AI agents under your own brand; skip it if you need a disclosed model, transparent agency pricing, or a spotless satisfaction record.",
   "lastVerified": "2026-07-27"
