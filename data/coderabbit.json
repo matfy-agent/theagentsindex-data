@@ -13,7 +13,7 @@
     "enterprise",
     "free-tier"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "CodeRabbit occupies a genuinely different slot in this category than any other listing: it reviews pull requests and commits automatically rather than writing code from a prompt, so it complements a coding agent instead of competing with it. The free tier is real (unlimited repos for PR summaries and IDE/CLI review, not just a capped trial), the funding and NVIDIA reference customer are independently corroborated, and its four-host coverage (GitHub, GitLab, Bitbucket, Azure DevOps) is broader than most single-purpose review tools. The real costs show up going deeper: API access and self-hosting are Enterprise-only, and per-seat paid pricing stacks on top of whatever already generates the code being reviewed.",
   "lastVerified": "2026-07-25"
