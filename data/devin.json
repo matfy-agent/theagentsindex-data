@@ -11,11 +11,11 @@
   "tags": [
     "api",
     "autonomous",
+    "enterprise",
     "free-tier",
-    "multi-agent",
-    "enterprise"
+    "multi-agent"
   ],
-  "apiAvailable": false,
+  "apiAvailable": true,
   "pricing": "freemium",
   "verdict": "Devin is the most complete attempt at a genuinely autonomous software engineer: it works asynchronously on its own cloud machine, opens real pull requests, and can be scaled to a fleet on large migrations. It is now also one of the best-capitalized bets in the category — a $1B+ Series D at a $26B valuation (May 2026), $492M in annualized revenue, and named enterprise deployments at Citi, Mercedes-Benz, Goldman Sachs, Elevance, Dell, Santander, the U.S. Army and the U.S. Navy back up the pitch with real production usage across finance, industrials, insurance and defense, not just funding hype. Its July 2026 SWE-1.7 model is a genuine cost-performance play — cheap per task, but Cognition’s own numbers put it behind Claude Opus 4.8 and GPT-5.5 on the hardest benchmarks, so treat it as the efficient default rather than the ceiling. The honest catch on autonomy itself remains: independent reviewers still find it stalls or over-engineers on ambiguous tasks, so its PRs are a draft for review, not a finished merge, and billing can drift once on-demand credits kick in on long sessions. Pick Devin if your bottleneck is well-scoped, delegable engineering work you can review as PRs, or you want a vendor with real enterprise-scale traction behind it; skip it if you want a fast interactive copilot in your own editor, where Cursor or Devin Desktop fit better, or you need frontier-level output on the single hardest tasks without switching models.",
   "lastVerified": "2026-08-06"
